@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slash" format="2">
+  <advance width="500"/>
+  <unicode hex="002F"/>
+  <outline>
+    <contour>
+      <point x="249" y="500" type="line"/>
+      <point x="249" y="1" type="line"/>
+      <point x="299" y="1" type="line"/>
+      <point x="299" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.locationBase</key>
+      <string>ff54fce8</string>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
