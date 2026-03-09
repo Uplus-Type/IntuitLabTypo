@@ -24,8 +24,8 @@
     <contour>
       <point x="311" y="343" type="line"/>
       <point x="295" y="343" type="line"/>
-      <point x="295" y="139" type="line"/>
-      <point x="311" y="139" type="line"/>
+      <point x="295" y="101" type="line"/>
+      <point x="311" y="101" type="line"/>
     </contour>
     <contour>
       <point x="159" y="261" type="line"/>
@@ -36,8 +36,55 @@
     <contour>
       <point x="295" y="327" type="line"/>
       <point x="295" y="343" type="line"/>
-      <point x="91" y="343" type="line"/>
-      <point x="91" y="327" type="line"/>
+      <point x="139" y="343" type="line"/>
+      <point x="139" y="327" type="line"/>
+    </contour>
+    <contour>
+      <point x="295" y="101" type="move"/>
+      <point x="311" y="101" type="line"/>
+    </contour>
+    <contour>
+      <point x="139" y="343" type="move"/>
+      <point x="139" y="327" type="line"/>
+    </contour>
+    <contour>
+      <point x="379" y="402" type="move"/>
+    </contour>
+    <contour>
+      <point x="379" y="386" type="line"/>
+      <point x="379" y="402" type="line"/>
+      <point x="86" y="402" type="line"/>
+      <point x="86" y="386" type="line"/>
+    </contour>
+    <contour>
+      <point x="86" y="402" type="move"/>
+      <point x="86" y="386" type="line"/>
+    </contour>
+    <contour>
+      <point x="379" y="402" type="move"/>
+    </contour>
+    <contour>
+      <point x="395" y="402" type="line"/>
+      <point x="379" y="402" type="line"/>
+      <point x="379" y="101" type="line"/>
+      <point x="395" y="101" type="line"/>
+    </contour>
+    <contour>
+      <point x="379" y="101" type="move"/>
+      <point x="395" y="101" type="line"/>
+    </contour>
+    <contour>
+      <point x="295" y="101" type="move"/>
+    </contour>
+    <contour>
+      <point x="295" y="117" type="line"/>
+      <point x="295" y="101" type="line"/>
+      <point x="379" y="101" type="line"/>
+      <point x="379" y="117" type="line"/>
+    </contour>
+    <contour>
+      <point x="379" y="101" type="move"/>
+      <point x="379" y="117" type="line"/>
     </contour>
   </outline>
   <lib>
