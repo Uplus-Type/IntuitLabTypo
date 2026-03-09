@@ -49,6 +49,16 @@
           <key>name</key>
           <string>epaisseur</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>contrast</string>
+        </dict>
       </array>
       <key>robocjk.locationBase</key>
       <string>fae974f5</string>
@@ -87,6 +97,42 @@
           <true/>
           <key>sourceName</key>
           <string>epaisseur=70</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>contrast=100</string>
+          <key>location</key>
+          <dict>
+            <key>contrast</key>
+            <integer>100</integer>
+          </dict>
+          <key>locationBase</key>
+          <string>fae974f5</string>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>contrast=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>epaisseur=70,contrast=100</string>
+          <key>location</key>
+          <dict>
+            <key>contrast</key>
+            <integer>100</integer>
+            <key>epaisseur</key>
+            <integer>70</integer>
+          </dict>
+          <key>locationBase</key>
+          <string>fae974f5</string>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>epaisseur=70,contrast=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
