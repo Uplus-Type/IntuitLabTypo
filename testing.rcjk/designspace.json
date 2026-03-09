@@ -1,0 +1,49 @@
+{
+    "axes": {
+        "axes": [
+            {
+                "defaultValue": 400,
+                "label": "Weight",
+                "maxValue": 700,
+                "minValue": 400,
+                "name": "weight",
+                "tag": "wght"
+            },
+            {
+                "defaultValue": 100,
+                "label": "Width",
+                "maxValue": 200,
+                "minValue": 50,
+                "name": "width",
+                "tag": "wdth"
+            }
+        ]
+    },
+    "sources": {
+        "9af8b51c": {
+            "lineMetricsHorizontalLayout": {
+                "ascender": {
+                    "value": 800,
+                    "zone": 16
+                },
+                "baseline": {
+                    "value": 0,
+                    "zone": -16
+                },
+                "capHeight": {
+                    "value": 750,
+                    "zone": 16
+                },
+                "descender": {
+                    "value": -250,
+                    "zone": -16
+                },
+                "xHeight": {
+                    "value": 500,
+                    "zone": 16
+                }
+            },
+            "name": "Default"
+        }
+    }
+}

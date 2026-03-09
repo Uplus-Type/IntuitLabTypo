@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="composant" format="2">
+  <advance width="50"/>
+  <outline>
+    <contour>
+      <point x="-30" y="-750" type="line"/>
+      <point x="30" y="-750" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="-30" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>60</integer>
+          <key>maxValue</key>
+          <integer>200</integer>
+          <key>minValue</key>
+          <integer>60</integer>
+          <key>name</key>
+          <string>graisse</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>750</integer>
+          <key>maxValue</key>
+          <integer>750</integer>
+          <key>minValue</key>
+          <integer>40</integer>
+          <key>name</key>
+          <string>longueur</string>
+        </dict>
+      </array>
+      <key>robocjk.locationBase</key>
+      <string>9af8b51c</string>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>graisse=200</string>
+          <key>location</key>
+          <dict>
+            <key>graisse</key>
+            <integer>200</integer>
+          </dict>
+          <key>locationBase</key>
+          <string>9af8b51c</string>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>graisse=200</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>longueur=40</string>
+          <key>location</key>
+          <dict>
+            <key>longueur</key>
+            <integer>40</integer>
+          </dict>
+          <key>locationBase</key>
+          <string>9af8b51c</string>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>longueur=40</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
