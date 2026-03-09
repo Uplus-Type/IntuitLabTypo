@@ -24,11 +24,58 @@
           <key>name</key>
           <string>épaisseur </string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>500</integer>
+          <key>maxValue</key>
+          <integer>1000</integer>
+          <key>minValue</key>
+          <integer>500</integer>
+          <key>name</key>
+          <string>hauteur</string>
+        </dict>
       </array>
       <key>robocjk.locationBase</key>
       <string>ff54fce8</string>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>épaisseur =100</string>
+          <key>location</key>
+          <dict>
+            <key>épaisseur </key>
+            <integer>100</integer>
+          </dict>
+          <key>locationBase</key>
+          <string>ff54fce8</string>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>épaisseur =100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>hauteur=1000</string>
+          <key>location</key>
+          <dict>
+            <key>hauteur</key>
+            <integer>1000</integer>
+          </dict>
+          <key>locationBase</key>
+          <string>ff54fce8</string>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>hauteur=1000</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>
