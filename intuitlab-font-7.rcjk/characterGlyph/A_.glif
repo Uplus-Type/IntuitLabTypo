@@ -16,8 +16,8 @@
       <point x="255" y="421" type="line"/>
     </contour>
     <contour>
-      <point x="338" y="237" type="line"/>
-      <point x="259" y="141" type="line"/>
+      <point x="338" y="238" type="line"/>
+      <point x="251" y="148" type="line"/>
       <point x="169" y="238" type="line"/>
     </contour>
   </outline>
@@ -27,6 +27,39 @@
       <string>94b5e04d</string>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>weight=700</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <integer>700</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=700</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=499.3</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <real>499.2835209826</real>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=499.3</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>
