@@ -3,9 +3,28 @@
   <advance width="500"/>
   <unicode hex="0049"/>
   <outline>
+    <contour>
+      <point x="166" y="408" type="line"/>
+      <point x="166" y="145" type="line"/>
+      <point x="192" y="145" type="line"/>
+      <point x="192" y="408" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>HAUTEUR</string>
+        </dict>
+      </array>
       <key>robocjk.locationBase</key>
       <string>94b5e04d</string>
       <key>robocjk.status</key>
