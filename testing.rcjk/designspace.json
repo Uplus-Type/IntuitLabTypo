@@ -7,7 +7,18 @@
                 "maxValue": 700,
                 "minValue": 400,
                 "name": "weight",
-                "tag": "wght"
+                "tag": "wght",
+                "valueLabels": [
+                    {
+                        "elidable": true,
+                        "name": "Regular",
+                        "value": 400
+                    },
+                    {
+                        "name": "Bold",
+                        "value": 700
+                    }
+                ]
             },
             {
                 "defaultValue": 100,
@@ -15,9 +26,29 @@
                 "maxValue": 200,
                 "minValue": 50,
                 "name": "width",
-                "tag": "wdth"
+                "tag": "wdth",
+                "valueLabels": [
+                    {
+                        "name": "Condensed",
+                        "value": 50
+                    },
+                    {
+                        "elidable": true,
+                        "name": "Normal",
+                        "value": 100
+                    },
+                    {
+                        "name": "Wide",
+                        "value": 200
+                    }
+                ]
             }
         ]
+    },
+    "fontInfo": {
+        "familyName": "intuit testing",
+        "versionMajor": 1,
+        "versionMinor": 0
     },
     "sources": {
         "9af8b51c": {
