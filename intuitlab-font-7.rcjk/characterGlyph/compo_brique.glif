@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="compo_brique" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="189" y="103" type="curve" smooth="yes"/>
+      <point x="189" y="53" type="line"/>
+      <point x="289" y="53" type="line"/>
+      <point x="289" y="153" type="line"/>
+      <point x="239" y="153" type="line" smooth="yes"/>
+      <point x="206" y="153"/>
+      <point x="189" y="133"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.locationBase</key>
+      <string>94b5e04d</string>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
