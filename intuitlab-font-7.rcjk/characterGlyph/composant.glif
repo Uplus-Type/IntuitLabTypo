@@ -8,6 +8,12 @@
       <point x="224" y="67" type="line"/>
       <point x="224" y="434" type="line"/>
     </contour>
+    <contour>
+      <point x="232" y="434" type="line"/>
+      <point x="232" y="67" type="line"/>
+      <point x="258" y="67" type="line"/>
+      <point x="258" y="434" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -22,6 +28,16 @@
           <integer>0</integer>
           <key>name</key>
           <string>HAUTEUR</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>700</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>LARGEUR</string>
         </dict>
       </array>
       <key>robocjk.locationBase</key>

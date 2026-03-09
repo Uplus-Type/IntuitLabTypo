@@ -4,8 +4,30 @@
   <outline>
     <contour>
       <point x="116" y="454" type="line"/>
-      <point x="117" y="42" type="line"/>
-      <point x="152" y="42" type="line"/>
+      <point x="116" y="291" type="line"/>
+      <point x="151" y="291" type="line"/>
+      <point x="151" y="454" type="line"/>
+    </contour>
+    <contour>
+      <point x="116" y="454" type="line"/>
+      <point x="116" y="291" type="line"/>
+      <point x="151" y="291" type="line"/>
+      <point x="151" y="454" type="line"/>
+    </contour>
+    <contour>
+      <point x="116" y="454" type="line"/>
+      <point x="116" y="291" type="line"/>
+      <point x="151" y="291" type="line"/>
+      <point x="151" y="454" type="line"/>
+    </contour>
+    <contour>
+      <point x="116" y="454" type="line"/>
+      <point x="116" y="291" type="line"/>
+      <point x="151" y="291" type="line"/>
+      <point x="151" y="454" type="line"/>
+    </contour>
+    <contour>
+      <point x="151" y="291" type="move"/>
       <point x="151" y="454" type="line"/>
     </contour>
   </outline>
