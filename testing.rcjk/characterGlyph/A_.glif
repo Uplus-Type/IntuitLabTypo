@@ -121,7 +121,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>315</integer>
+                <real>315.0147724393558</real>
                 <key>y</key>
                 <integer>733</integer>
               </dict>
@@ -149,7 +149,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>316</integer>
+                <real>316.0147724393558</real>
                 <key>y</key>
                 <integer>732</integer>
               </dict>
@@ -177,7 +177,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>171</integer>
+                <real>171.0147724393558</real>
                 <key>y</key>
                 <integer>223</integer>
               </dict>
@@ -197,7 +197,7 @@
           <key>status</key>
           <integer>0</integer>
           <key>width</key>
-          <real>630.4117722356576</real>
+          <real>683.3395448787116</real>
         </dict>
         <dict>
           <key>deepComponents</key>
@@ -431,7 +431,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>315</integer>
+                <real>214.82225233197457</real>
                 <key>y</key>
                 <integer>733</integer>
               </dict>
@@ -459,7 +459,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>316</integer>
+                <real>215.82225233197457</real>
                 <key>y</key>
                 <integer>732</integer>
               </dict>
@@ -487,7 +487,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>231</integer>
+                <real>130.82225233197457</real>
                 <key>y</key>
                 <integer>124</integer>
               </dict>
@@ -509,7 +509,7 @@
           <key>status</key>
           <integer>0</integer>
           <key>width</key>
-          <real>630.4117722356576</real>
+          <real>430.6445046639491</real>
         </dict>
       </array>
     </dict>
