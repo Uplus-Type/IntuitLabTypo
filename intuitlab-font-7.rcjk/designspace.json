@@ -1,4 +1,16 @@
 {
+    "axes": {
+        "axes": [
+            {
+                "defaultValue": 400,
+                "label": "Weight",
+                "maxValue": 700,
+                "minValue": 400,
+                "name": "weight",
+                "tag": "wght"
+            }
+        ]
+    },
     "sources": {
         "94b5e04d": {
             "lineMetricsHorizontalLayout": {
