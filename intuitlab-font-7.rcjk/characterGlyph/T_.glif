@@ -3,6 +3,12 @@
   <advance width="500"/>
   <unicode hex="0054"/>
   <outline>
+    <contour>
+      <point x="125" y="614" type="line"/>
+      <point x="60" y="403" type="line"/>
+      <point x="196" y="298" type="line"/>
+      <point x="268" y="428" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -228,7 +234,7 @@
             </dict>
           </array>
           <key>layerName</key>
-          <string></string>
+          <string>weight=700</string>
           <key>location</key>
           <dict>
             <key>weight</key>
