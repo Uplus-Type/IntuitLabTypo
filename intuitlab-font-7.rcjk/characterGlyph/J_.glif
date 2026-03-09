@@ -1,18 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="composent2" format="2">
+<glyph name="J" format="2">
   <advance width="500"/>
+  <unicode hex="004A"/>
   <outline>
     <contour>
-      <point x="116" y="454" type="line"/>
-      <point x="116" y="291" type="line"/>
-      <point x="151" y="291" type="line"/>
-      <point x="151" y="454" type="line"/>
-    </contour>
-    <contour>
-      <point x="117" y="454" type="line"/>
-      <point x="117" y="291" type="line"/>
-      <point x="152" y="291" type="line"/>
-      <point x="152" y="454" type="line"/>
+      <point x="191" y="52" type="line"/>
+      <point x="191" y="37" type="line"/>
+      <point x="225" y="37" type="line"/>
+      <point x="225" y="52" type="line"/>
     </contour>
   </outline>
   <lib>
