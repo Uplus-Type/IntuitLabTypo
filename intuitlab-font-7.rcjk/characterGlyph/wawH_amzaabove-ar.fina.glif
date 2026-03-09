@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wawHamzaabove-ar.fina" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="198" y="429" type="curve"/>
+      <point x="330" y="421"/>
+      <point x="355" y="405"/>
+      <point x="365" y="368" type="curve" smooth="yes"/>
+      <point x="375" y="331"/>
+      <point x="447" y="252"/>
+      <point x="386" y="179" type="curve" smooth="yes"/>
+      <point x="325" y="106"/>
+      <point x="193" y="54"/>
+      <point x="138" y="165" type="curve" smooth="yes"/>
+      <point x="83" y="276"/>
+      <point x="53" y="435"/>
+    </contour>
+    <contour>
+      <point x="230" y="326.5" type="curve" smooth="yes"/>
+      <point x="230" y="348.3152476171"/>
+      <point x="212.9868204924" y="366"/>
+      <point x="192" y="366" type="curve" smooth="yes"/>
+      <point x="171.0131795076" y="366"/>
+      <point x="154" y="348.3152476171"/>
+      <point x="154" y="326.5" type="curve" smooth="yes"/>
+      <point x="154" y="304.6847523829"/>
+      <point x="171.0131795076" y="287"/>
+      <point x="192" y="287" type="curve" smooth="yes"/>
+      <point x="212.9868204924" y="287"/>
+      <point x="230" y="304.6847523829"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.locationBase</key>
+      <string>94b5e04d</string>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
