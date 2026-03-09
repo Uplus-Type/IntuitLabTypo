@@ -17,7 +17,7 @@
     </contour>
     <contour>
       <point x="338" y="238" type="line"/>
-      <point x="251" y="148" type="line"/>
+      <point x="251" y="151" type="line"/>
       <point x="169" y="238" type="line"/>
     </contour>
   </outline>
@@ -56,6 +56,21 @@
           <true/>
           <key>sourceName</key>
           <string>weight=499.3</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=402.7</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <real>402.661207778915</real>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=402.7</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
