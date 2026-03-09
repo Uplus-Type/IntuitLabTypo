@@ -10,7 +10,10 @@
       <array>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>longueur</key>
+            <integer>775</integer>
+          </dict>
           <key>name</key>
           <string>composant</string>
           <key>transform</key>
@@ -33,7 +36,10 @@
         </dict>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>longueur</key>
+            <integer>775</integer>
+          </dict>
           <key>name</key>
           <string>composant</string>
           <key>transform</key>
@@ -60,7 +66,7 @@
             <key>graisse</key>
             <integer>60</integer>
             <key>longueur</key>
-            <real>308.716321060798</real>
+            <real>335.488785442234</real>
           </dict>
           <key>name</key>
           <string>composant</string>
@@ -77,9 +83,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>151.7058861178288</real>
+            <integer>152</integer>
             <key>y</key>
-            <integer>315</integer>
+            <integer>255</integer>
           </dict>
         </dict>
       </array>
@@ -97,6 +103,8 @@
               <dict>
                 <key>graisse</key>
                 <integer>200</integer>
+                <key>longueur</key>
+                <integer>770</integer>
               </dict>
               <key>name</key>
               <string>composant</string>
@@ -123,6 +131,8 @@
               <dict>
                 <key>graisse</key>
                 <integer>200</integer>
+                <key>longueur</key>
+                <integer>770</integer>
               </dict>
               <key>name</key>
               <string>composant</string>
@@ -184,6 +194,312 @@
           <true/>
           <key>sourceName</key>
           <string>weight=700</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>graisse</key>
+                <integer>60</integer>
+                <key>longueur</key>
+                <integer>750</integer>
+              </dict>
+              <key>name</key>
+              <string>composant</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>-10</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>315</integer>
+                <key>y</key>
+                <integer>733</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>graisse</key>
+                <integer>60</integer>
+              </dict>
+              <key>name</key>
+              <string>composant</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>10</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>316</integer>
+                <key>y</key>
+                <integer>732</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>graisse</key>
+                <integer>60</integer>
+                <key>longueur</key>
+                <real>200.648892650585</real>
+              </dict>
+              <key>name</key>
+              <string>composant</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>90</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>217</integer>
+                <key>y</key>
+                <integer>255</integer>
+              </dict>
+            </dict>
+          </array>
+          <key>layerName</key>
+          <string></string>
+          <key>location</key>
+          <dict>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>graisse</key>
+                <integer>60</integer>
+                <key>longueur</key>
+                <integer>940</integer>
+              </dict>
+              <key>name</key>
+              <string>composant</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>-40</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>315</integer>
+                <key>y</key>
+                <integer>733</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>graisse</key>
+                <integer>60</integer>
+                <key>longueur</key>
+                <integer>940</integer>
+              </dict>
+              <key>name</key>
+              <string>composant</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>40</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>316</integer>
+                <key>y</key>
+                <integer>732</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>graisse</key>
+                <integer>60</integer>
+                <key>longueur</key>
+                <real>826.931866271688</real>
+              </dict>
+              <key>name</key>
+              <string>composant</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>90</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>-103</integer>
+                <key>y</key>
+                <integer>235</integer>
+              </dict>
+            </dict>
+          </array>
+          <key>layerName</key>
+          <string></string>
+          <key>location</key>
+          <dict>
+            <key>width</key>
+            <integer>200</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=200</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>graisse</key>
+                <integer>155</integer>
+                <key>longueur</key>
+                <integer>740</integer>
+              </dict>
+              <key>name</key>
+              <string>composant</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>-10</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>315</integer>
+                <key>y</key>
+                <integer>733</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>graisse</key>
+                <integer>155</integer>
+                <key>longueur</key>
+                <integer>740</integer>
+              </dict>
+              <key>name</key>
+              <string>composant</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>10</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>316</integer>
+                <key>y</key>
+                <integer>732</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>graisse</key>
+                <real>153.688813654958</real>
+                <key>longueur</key>
+                <real>173.876428269149</real>
+              </dict>
+              <key>name</key>
+              <string>composant</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>90</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>231</integer>
+                <key>y</key>
+                <integer>124</integer>
+              </dict>
+            </dict>
+          </array>
+          <key>layerName</key>
+          <string></string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <integer>700</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=700,width=50</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
