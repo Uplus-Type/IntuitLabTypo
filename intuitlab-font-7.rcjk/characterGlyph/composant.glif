@@ -14,6 +14,12 @@
       <point x="258" y="67" type="line"/>
       <point x="258" y="434" type="line"/>
     </contour>
+    <contour>
+      <point x="264" y="434" type="line"/>
+      <point x="264" y="67" type="line"/>
+      <point x="290" y="67" type="line"/>
+      <point x="290" y="434" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -77,6 +83,25 @@
           <true/>
           <key>sourceName</key>
           <string>HAUTEUR=1</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>HAUTEUR=100,LARGEUR=700</string>
+          <key>location</key>
+          <dict>
+            <key>HAUTEUR</key>
+            <integer>100</integer>
+            <key>LARGEUR</key>
+            <integer>700</integer>
+          </dict>
+          <key>locationBase</key>
+          <string>94b5e04d</string>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>HAUTEUR=100,LARGEUR=700</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

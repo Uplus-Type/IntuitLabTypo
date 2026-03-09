@@ -8,6 +8,10 @@
       <point x="151" y="291" type="line"/>
       <point x="151" y="454" type="line"/>
     </contour>
+    <contour>
+      <point x="151" y="291" type="move"/>
+      <point x="151" y="454" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
