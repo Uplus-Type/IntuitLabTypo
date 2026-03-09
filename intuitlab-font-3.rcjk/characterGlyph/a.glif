@@ -40,9 +40,9 @@
           <key>coord</key>
           <dict>
             <key>hauteur</key>
-            <integer>500</integer>
+            <real>674.777824798984</real>
             <key>épaisseur </key>
-            <integer>100</integer>
+            <integer>37</integer>
           </dict>
           <key>name</key>
           <string>slash</string>
@@ -59,9 +59,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>351</integer>
+            <integer>207</integer>
             <key>y</key>
-            <integer>-5</integer>
+            <integer>-2</integer>
           </dict>
         </dict>
       </array>
@@ -100,6 +100,34 @@
                 <integer>0</integer>
                 <key>y</key>
                 <integer>0</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>hauteur</key>
+                <integer>500</integer>
+                <key>épaisseur </key>
+                <integer>37</integer>
+              </dict>
+              <key>name</key>
+              <string>slash</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>207</integer>
+                <key>y</key>
+                <integer>-2</integer>
               </dict>
             </dict>
           </array>
