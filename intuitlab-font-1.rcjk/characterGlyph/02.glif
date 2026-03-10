@@ -3,20 +3,11 @@
   <advance width="500"/>
   <outline>
     <contour>
-      <point x="498" y="498" type="move"/>
-      <point x="499" y="2" type="line"/>
-      <point x="683" y="6" type="line"/>
-      <point x="445" y="-106" type="line"/>
-      <point x="376" y="-44" type="line"/>
-      <point x="270" y="123" type="line"/>
-      <point x="267" y="306" type="line"/>
-      <point x="265" y="418" type="line"/>
-      <point x="418" y="522" type="line"/>
-      <point x="583" y="637" type="line"/>
-      <point x="587" y="245" type="line"/>
-      <point x="794" y="327" type="line"/>
-      <point x="734" y="443" type="line"/>
-      <point x="790" y="526" type="line"/>
+      <point x="-444" y="160" type="move"/>
+      <point x="243" y="505" type="line"/>
+      <point x="873" y="523"/>
+      <point x="701" y="15"/>
+      <point x="1" y="-2" type="curve"/>
     </contour>
   </outline>
   <lib>
