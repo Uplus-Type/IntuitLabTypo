@@ -304,7 +304,7 @@
                 <key>HAUTEUR</key>
                 <real>29.5387219636056</real>
                 <key>dedoublage</key>
-                <integer>0</integer>
+                <integer>100</integer>
               </dict>
               <key>name</key>
               <string>compotest</string>
@@ -377,7 +377,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>678</integer>
+                <integer>810</integer>
                 <key>y</key>
                 <integer>-187</integer>
               </dict>
@@ -425,7 +425,7 @@
           <key>status</key>
           <integer>0</integer>
           <key>width</key>
-          <integer>950</integer>
+          <integer>1070</integer>
         </dict>
       </array>
     </dict>
