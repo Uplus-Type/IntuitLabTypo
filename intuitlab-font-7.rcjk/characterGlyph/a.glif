@@ -5,13 +5,26 @@
   <outline>
     <contour>
       <point x="230" y="400" type="line"/>
-      <point x="230" y="137" type="line"/>
-      <point x="250" y="137" type="line"/>
+      <point x="230" y="370" type="line"/>
+      <point x="250" y="370" type="line"/>
       <point x="250" y="400" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>HAUTEUR</string>
+        </dict>
+      </array>
       <key>robocjk.locationBase</key>
       <string>94b5e04d</string>
       <key>robocjk.status</key>
