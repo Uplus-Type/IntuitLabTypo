@@ -10,7 +10,12 @@
       <array>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>longueur</key>
+            <real>17.5624206517139</real>
+            <key>ouverture</key>
+            <real>42.7845958527296</real>
+          </dict>
           <key>name</key>
           <string>stitch</string>
           <key>transform</key>
@@ -33,7 +38,12 @@
         </dict>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>longueur</key>
+            <real>50.4443504020313</real>
+            <key>ouverture</key>
+            <integer>0</integer>
+          </dict>
           <key>name</key>
           <string>stitch</string>
           <key>transform</key>
@@ -56,7 +66,12 @@
         </dict>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>longueur</key>
+            <real>86.5425306813373</real>
+            <key>ouverture</key>
+            <real>54.0132599802511</real>
+          </dict>
           <key>name</key>
           <string>stitch</string>
           <key>transform</key>
@@ -79,7 +94,12 @@
         </dict>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>longueur</key>
+            <real>24.672027084215</real>
+            <key>ouverture</key>
+            <real>52.9129637466497</real>
+          </dict>
           <key>name</key>
           <string>stitch</string>
           <key>transform</key>

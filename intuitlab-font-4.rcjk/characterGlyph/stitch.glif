@@ -41,6 +41,16 @@
           <key>name</key>
           <string>ouverture</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>longueur</string>
+        </dict>
       </array>
       <key>robocjk.locationBase</key>
       <string>8f17d0be</string>
@@ -62,6 +72,23 @@
           <true/>
           <key>sourceName</key>
           <string>ouverture=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>longueur=100</string>
+          <key>location</key>
+          <dict>
+            <key>longueur</key>
+            <integer>100</integer>
+          </dict>
+          <key>locationBase</key>
+          <string>8f17d0be</string>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>longueur=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
