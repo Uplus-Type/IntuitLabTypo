@@ -250,7 +250,7 @@
           <key>coord</key>
           <dict>
             <key>inflate</key>
-            <integer>100</integer>
+            <integer>40</integer>
           </dict>
           <key>name</key>
           <string>composant2</string>
@@ -267,9 +267,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>262</integer>
+            <integer>349</integer>
             <key>y</key>
-            <integer>103</integer>
+            <integer>408</integer>
           </dict>
         </dict>
       </array>
