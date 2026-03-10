@@ -31,7 +31,7 @@
           <key>defaultValue</key>
           <integer>10</integer>
           <key>maxValue</key>
-          <integer>50</integer>
+          <integer>40</integer>
           <key>minValue</key>
           <integer>10</integer>
           <key>name</key>
