@@ -6,12 +6,6 @@
     <contour>
       <point x="-2" y="800" type="line"/>
     </contour>
-    <contour>
-      <point x="117" y="406" type="line"/>
-      <point x="117" y="157.5" type="line"/>
-      <point x="365.5" y="157.5" type="line"/>
-      <point x="365.5" y="406" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
