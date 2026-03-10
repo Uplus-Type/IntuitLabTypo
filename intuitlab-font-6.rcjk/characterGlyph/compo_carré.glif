@@ -2,13 +2,89 @@
 <glyph name="compo_carré" format="2">
   <advance width="500"/>
   <outline>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="50" y="50" type="line"/>
+      <point x="0" y="50" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>1</integer>
+          <key>maxValue</key>
+          <integer>3</integer>
+          <key>minValue</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>hauteur</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>1</integer>
+          <key>maxValue</key>
+          <integer>3</integer>
+          <key>minValue</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>largeur</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>50</integer>
+          <key>maxValue</key>
+          <integer>50</integer>
+          <key>minValue</key>
+          <integer>40</integer>
+          <key>name</key>
+          <string>erosion</string>
+        </dict>
+      </array>
       <key>robocjk.locationBase</key>
       <string>833e5beb</string>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>erosion=40</string>
+          <key>location</key>
+          <dict>
+            <key>erosion</key>
+            <integer>40</integer>
+          </dict>
+          <key>locationBase</key>
+          <string>833e5beb</string>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>erosion=40</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>hauteur=3</string>
+          <key>location</key>
+          <dict>
+            <key>hauteur</key>
+            <integer>3</integer>
+          </dict>
+          <key>locationBase</key>
+          <string>833e5beb</string>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>hauteur=3</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>
