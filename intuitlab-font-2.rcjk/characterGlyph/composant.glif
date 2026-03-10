@@ -2,6 +2,22 @@
 <glyph name="composant" format="2">
   <advance width="500"/>
   <outline>
+    <contour>
+      <point x="73" y="-200" type="line"/>
+      <point x="121" y="-200" type="line"/>
+      <point x="121" y="109" type="line"/>
+      <point x="121" y="400" type="line"/>
+      <point x="121" y="600" type="line"/>
+      <point x="121" y="692" type="line"/>
+      <point x="121" y="747" type="line"/>
+      <point x="121" y="800" type="line"/>
+      <point x="73" y="800" type="line"/>
+      <point x="73" y="747" type="line"/>
+      <point x="73" y="692" type="line"/>
+      <point x="73" y="600" type="line"/>
+      <point x="73" y="400" type="line"/>
+      <point x="73" y="109" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
