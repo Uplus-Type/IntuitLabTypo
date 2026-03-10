@@ -4,8 +4,8 @@
   <outline>
     <contour>
       <point x="0" y="750" type="line"/>
-      <point x="0" y="710" type="line"/>
-      <point x="90" y="710" type="line"/>
+      <point x="0" y="700" type="line"/>
+      <point x="90" y="700" type="line"/>
       <point x="90" y="750" type="line"/>
     </contour>
     <contour>
@@ -17,6 +17,19 @@
   </outline>
   <lib>
     <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>10</integer>
+          <key>maxValue</key>
+          <integer>40</integer>
+          <key>minValue</key>
+          <integer>10</integer>
+          <key>name</key>
+          <string>epaisseur_fut</string>
+        </dict>
+      </array>
       <key>robocjk.locationBase</key>
       <string>ff54fce8</string>
       <key>robocjk.status</key>
