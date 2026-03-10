@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="stitch" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="158" y="59" type="line"/>
+      <point x="159" y="46" type="line"/>
+      <point x="252" y="52" type="line"/>
+      <point x="251" y="65" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.locationBase</key>
+      <string>8f17d0be</string>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
