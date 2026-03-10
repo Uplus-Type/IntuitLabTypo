@@ -4,18 +4,6 @@
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="40" y="750" type="line"/>
-      <point x="40" y="700" type="line"/>
-      <point x="130" y="700" type="line"/>
-      <point x="130" y="750" type="line"/>
-    </contour>
-    <contour>
-      <point x="130" y="750" type="line"/>
-      <point x="130" y="610" type="line"/>
-      <point x="170" y="610" type="line"/>
-      <point x="170" y="750" type="line"/>
-    </contour>
-    <contour>
       <point x="40" y="0" type="curve"/>
       <point x="70" y="0"/>
       <point x="100" y="0"/>
@@ -52,16 +40,14 @@
       <point x="532" y="750" type="line"/>
     </contour>
     <contour>
-      <point x="130" y="645.6" type="line"/>
-      <point x="130" y="0" type="line"/>
-      <point x="170" y="0" type="line"/>
-      <point x="170" y="645.6" type="line"/>
-    </contour>
-    <contour>
       <point x="523" y="397" type="line"/>
       <point x="160" y="397" type="line"/>
       <point x="160" y="387" type="line"/>
       <point x="523" y="387" type="line"/>
+    </contour>
+    <contour>
+      <point x="532" y="0" type="move"/>
+      <point x="532" y="645.6" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -74,7 +60,7 @@
             <key>epaisseur_fut</key>
             <integer>10</integer>
             <key>goutte</key>
-            <integer>100</integer>
+            <integer>0</integer>
           </dict>
           <key>name</key>
           <string>compoA</string>
@@ -91,14 +77,119 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>310</integer>
+            <integer>136</integer>
             <key>y</key>
-            <integer>565</integer>
+            <integer>610</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>epaisseur_fut</key>
+            <integer>10</integer>
+            <key>goutte</key>
+            <integer>0</integer>
+          </dict>
+          <key>name</key>
+          <string>compoA</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>538</integer>
+            <key>y</key>
+            <integer>614</integer>
           </dict>
         </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>epaisseur_fut</key>
+                <integer>10</integer>
+                <key>goutte</key>
+                <integer>100</integer>
+              </dict>
+              <key>name</key>
+              <string>compoA</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>136</integer>
+                <key>y</key>
+                <integer>610</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>epaisseur_fut</key>
+                <integer>10</integer>
+                <key>goutte</key>
+                <integer>0</integer>
+              </dict>
+              <key>name</key>
+              <string>compoA</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>538</integer>
+                <key>y</key>
+                <integer>614</integer>
+              </dict>
+            </dict>
+          </array>
+          <key>layerName</key>
+          <string>weight=900</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <integer>900</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=900</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>
