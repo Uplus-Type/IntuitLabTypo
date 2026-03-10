@@ -3,6 +3,108 @@
   <advance width="557"/>
   <unicode hex="0061"/>
   <outline>
+    <contour>
+      <point x="0" y="246" type="line"/>
+      <point x="32" y="246" type="line"/>
+      <point x="32" y="217" type="line"/>
+      <point x="0" y="217" type="line"/>
+    </contour>
+    <contour>
+      <point x="117" y="246" type="line"/>
+      <point x="149" y="246" type="line"/>
+      <point x="149" y="217" type="line"/>
+      <point x="117" y="217" type="line"/>
+    </contour>
+    <contour>
+      <point x="78" y="246" type="line"/>
+      <point x="110" y="246" type="line"/>
+      <point x="110" y="181" type="line"/>
+      <point x="78" y="181" type="line"/>
+    </contour>
+    <contour>
+      <point x="117" y="210" type="line"/>
+      <point x="149" y="210" type="line"/>
+      <point x="149" y="181" type="line"/>
+      <point x="117" y="181" type="line"/>
+    </contour>
+    <contour>
+      <point x="39" y="246" type="line"/>
+      <point x="71" y="246" type="line"/>
+      <point x="71" y="144" type="line"/>
+      <point x="39" y="144" type="line"/>
+    </contour>
+    <contour>
+      <point x="78" y="174" type="line"/>
+      <point x="149" y="174" type="line"/>
+      <point x="149" y="144" type="line"/>
+      <point x="78" y="144" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="210" type="line"/>
+      <point x="32" y="210" type="line"/>
+      <point x="32" y="144" type="line"/>
+      <point x="0" y="144" type="line"/>
+    </contour>
+    <contour>
+      <point x="39" y="137" type="line"/>
+      <point x="110" y="137" type="line"/>
+      <point x="110" y="108" type="line"/>
+      <point x="39" y="108" type="line"/>
+    </contour>
+    <contour>
+      <point x="117" y="137" type="line"/>
+      <point x="149" y="137" type="line"/>
+      <point x="149" y="108" type="line"/>
+      <point x="117" y="108" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="137" type="line"/>
+      <point x="32" y="137" type="line"/>
+      <point x="32" y="108" type="line"/>
+      <point x="0" y="108" type="line"/>
+    </contour>
+    <contour>
+      <point x="78" y="101" type="line"/>
+      <point x="149" y="101" type="line"/>
+      <point x="149" y="72" type="line"/>
+      <point x="78" y="72" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="101" type="line"/>
+      <point x="32" y="101" type="line"/>
+      <point x="32" y="36" type="line"/>
+      <point x="0" y="36" type="line"/>
+    </contour>
+    <contour>
+      <point x="117" y="65" type="line"/>
+      <point x="149" y="65" type="line"/>
+      <point x="149" y="36" type="line"/>
+      <point x="117" y="36" type="line"/>
+    </contour>
+    <contour>
+      <point x="39" y="101" type="line"/>
+      <point x="71" y="101" type="line"/>
+      <point x="71" y="0" type="line"/>
+      <point x="39" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="78" y="65" type="line"/>
+      <point x="110" y="65" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="78" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="29" type="line"/>
+      <point x="32" y="29" type="line"/>
+      <point x="32" y="0" type="line"/>
+      <point x="0" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="117" y="29" type="line"/>
+      <point x="149" y="29" type="line"/>
+      <point x="149" y="0" type="line"/>
+      <point x="117" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
