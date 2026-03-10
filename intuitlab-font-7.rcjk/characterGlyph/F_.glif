@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="F" format="2">
-  <advance width="500"/>
+  <advance width="233"/>
   <unicode hex="0046"/>
   <outline>
   </outline>
@@ -360,7 +360,7 @@
                 <key>HAUTEUR</key>
                 <real>2.3856578204404304</real>
                 <key>dedoublage</key>
-                <integer>0</integer>
+                <integer>100</integer>
               </dict>
               <key>name</key>
               <string>compotest</string>
@@ -377,7 +377,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>385</integer>
+                <integer>342</integer>
                 <key>y</key>
                 <integer>243</integer>
               </dict>
@@ -461,7 +461,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>385</integer>
+                <integer>342</integer>
                 <key>y</key>
                 <integer>-42</integer>
               </dict>
@@ -517,7 +517,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>418</integer>
+                <integer>507</integer>
                 <key>y</key>
                 <integer>243</integer>
               </dict>
@@ -536,6 +536,8 @@
           <string>weight=700</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>630</integer>
         </dict>
       </array>
     </dict>
