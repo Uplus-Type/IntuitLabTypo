@@ -3,16 +3,10 @@
   <advance width="100"/>
   <outline>
     <contour>
-      <point x="-95" y="149" type="line"/>
-      <point x="-95" y="99" type="line"/>
-      <point x="-5" y="99" type="line"/>
-      <point x="-5" y="149" type="line"/>
-    </contour>
-    <contour>
-      <point x="-5" y="149" type="line"/>
+      <point x="-5" y="140" type="line"/>
       <point x="-5" y="0" type="line"/>
       <point x="5" y="0" type="line"/>
-      <point x="5" y="149" type="line"/>
+      <point x="5" y="140" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -28,6 +22,16 @@
           <integer>10</integer>
           <key>name</key>
           <string>epaisseur_fut</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>140</integer>
+          <key>maxValue</key>
+          <integer>1000</integer>
+          <key>minValue</key>
+          <integer>140</integer>
+          <key>name</key>
+          <string>longueur_fut</string>
         </dict>
       </array>
       <key>robocjk.locationBase</key>
@@ -50,6 +54,23 @@
           <true/>
           <key>sourceName</key>
           <string>epaisseur_fut=40</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>longueur_fut=1000</string>
+          <key>location</key>
+          <dict>
+            <key>longueur_fut</key>
+            <integer>1000</integer>
+          </dict>
+          <key>locationBase</key>
+          <string>ff54fce8</string>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>longueur_fut=1000</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
