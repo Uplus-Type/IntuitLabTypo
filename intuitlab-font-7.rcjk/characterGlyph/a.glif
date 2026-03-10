@@ -444,7 +444,7 @@
                 <key>HAUTEUR</key>
                 <integer>0</integer>
                 <key>dedoublage</key>
-                <integer>100</integer>
+                <integer>0</integer>
               </dict>
               <key>name</key>
               <string>compotest</string>
@@ -556,7 +556,7 @@
                 <key>HAUTEUR</key>
                 <integer>0</integer>
                 <key>dedoublage</key>
-                <integer>100</integer>
+                <integer>0</integer>
               </dict>
               <key>name</key>
               <string>compotest</string>
@@ -584,7 +584,7 @@
                 <key>HAUTEUR</key>
                 <integer>0</integer>
                 <key>dedoublage</key>
-                <integer>100</integer>
+                <integer>0</integer>
               </dict>
               <key>name</key>
               <string>compotest</string>
