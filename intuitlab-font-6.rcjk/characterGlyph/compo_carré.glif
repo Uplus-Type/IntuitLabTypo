@@ -52,35 +52,15 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string>hauteur=2</string>
+          <string>81d91c98</string>
           <key>location</key>
-          <dict>
-            <key>hauteur</key>
-            <integer>2</integer>
-          </dict>
+          <dict/>
           <key>locationBase</key>
-          <string>833e5beb</string>
+          <string>81d91c98</string>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>hauteur=2</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>hauteur=3</string>
-          <key>location</key>
-          <dict>
-            <key>hauteur</key>
-            <integer>3</integer>
-          </dict>
-          <key>locationBase</key>
-          <string>833e5beb</string>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>hauteur=3</string>
+          <string></string>
           <key>status</key>
           <integer>0</integer>
         </dict>
