@@ -10,7 +10,10 @@
       <array>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>a_jeter</key>
+            <integer>0</integer>
+          </dict>
           <key>name</key>
           <string>compoE</string>
           <key>transform</key>
