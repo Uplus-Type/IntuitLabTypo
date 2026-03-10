@@ -5,6 +5,39 @@
   </outline>
   <lib>
     <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>100</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>One</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>100</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Two</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>100</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Three</string>
+        </dict>
+      </array>
       <key>robocjk.deepComponents</key>
       <array>
         <dict>
@@ -63,7 +96,7 @@
           <key>coord</key>
           <dict>
             <key>inflate</key>
-            <integer>80</integer>
+            <integer>100</integer>
           </dict>
           <key>name</key>
           <string>composant2</string>
