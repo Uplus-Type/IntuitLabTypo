@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="compoC" format="2">
-  <advance width="100"/>
+  <advance width="5"/>
   <outline>
     <contour>
       <point x="-5" y="140" type="line"/>
@@ -11,70 +11,8 @@
   </outline>
   <lib>
     <dict>
-      <key>robocjk.axes</key>
-      <array>
-        <dict>
-          <key>defaultValue</key>
-          <integer>10</integer>
-          <key>maxValue</key>
-          <integer>40</integer>
-          <key>minValue</key>
-          <integer>10</integer>
-          <key>name</key>
-          <string>epaisseur_fut</string>
-        </dict>
-        <dict>
-          <key>defaultValue</key>
-          <integer>140</integer>
-          <key>maxValue</key>
-          <integer>1000</integer>
-          <key>minValue</key>
-          <integer>140</integer>
-          <key>name</key>
-          <string>longueur_fut</string>
-        </dict>
-      </array>
-      <key>robocjk.locationBase</key>
-      <string>ff54fce8</string>
       <key>robocjk.status</key>
       <integer>0</integer>
-      <key>robocjk.variationGlyphs</key>
-      <array>
-        <dict>
-          <key>layerName</key>
-          <string>epaisseur_fut=40</string>
-          <key>location</key>
-          <dict>
-            <key>epaisseur_fut</key>
-            <integer>40</integer>
-          </dict>
-          <key>locationBase</key>
-          <string>ff54fce8</string>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>epaisseur_fut=40</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>longueur_fut=1000</string>
-          <key>location</key>
-          <dict>
-            <key>longueur_fut</key>
-            <integer>1000</integer>
-          </dict>
-          <key>locationBase</key>
-          <string>ff54fce8</string>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>longueur_fut=1000</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-      </array>
     </dict>
   </lib>
 </glyph>

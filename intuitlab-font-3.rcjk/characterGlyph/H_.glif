@@ -1,313 +1,73 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="H" format="2">
-  <advance width="625.835801946678"/>
+  <advance width="532"/>
   <unicode hex="0048"/>
   <outline>
+    <contour>
+      <point x="40" y="750" type="line"/>
+      <point x="40" y="700" type="line"/>
+      <point x="130" y="700" type="line"/>
+      <point x="130" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="130" y="750" type="line"/>
+      <point x="130" y="610" type="line"/>
+      <point x="170" y="610" type="line"/>
+      <point x="170" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="0" type="curve"/>
+      <point x="70" y="0"/>
+      <point x="100" y="0"/>
+      <point x="130" y="0" type="curve"/>
+      <point x="130" y="50" type="line"/>
+      <point x="100" y="50"/>
+      <point x="69" y="50"/>
+      <point x="40" y="50" type="curve"/>
+      <point x="40" y="34"/>
+      <point x="40" y="17"/>
+    </contour>
+    <contour>
+      <point x="130" y="0" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="170" y="140" type="line"/>
+      <point x="130" y="140" type="line"/>
+    </contour>
+    <contour>
+      <point x="522" y="645.6" type="line"/>
+      <point x="522" y="0" type="line"/>
+      <point x="532" y="0" type="line"/>
+      <point x="532" y="645.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="432" y="750" type="line"/>
+      <point x="432" y="700" type="line"/>
+      <point x="522" y="700" type="line"/>
+      <point x="522" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="522" y="750" type="line"/>
+      <point x="522" y="610" type="line"/>
+      <point x="532" y="610" type="line"/>
+      <point x="532" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="130" y="645.6" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="170" y="645.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="523" y="397" type="line"/>
+      <point x="160" y="397" type="line"/>
+      <point x="160" y="387" type="line"/>
+      <point x="523" y="387" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>robocjk.deepComponents</key>
-      <array>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>epaisseur_fut</key>
-            <integer>40</integer>
-          </dict>
-          <key>name</key>
-          <string>compoA</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>128</integer>
-            <key>y</key>
-            <integer>329</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>epaisseur_fut</key>
-            <integer>40</integer>
-          </dict>
-          <key>name</key>
-          <string>compoB</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>150</integer>
-            <key>y</key>
-            <integer>0</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>epaisseur_fut</key>
-            <integer>10</integer>
-            <key>longueur_fut</key>
-            <real>645.639723515305</real>
-          </dict>
-          <key>name</key>
-          <string>compoC</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>527</integer>
-            <key>y</key>
-            <integer>0</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>epaisseur_fut</key>
-            <integer>40</integer>
-            <key>longueur_fut</key>
-            <real>645.639723515305</real>
-          </dict>
-          <key>name</key>
-          <string>compoC</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>150</integer>
-            <key>y</key>
-            <integer>0</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>epaisseur_fut</key>
-            <integer>10</integer>
-            <key>longueur_fut</key>
-            <integer>363</integer>
-          </dict>
-          <key>name</key>
-          <string>compoC</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>-90</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>160</integer>
-            <key>y</key>
-            <integer>392</integer>
-          </dict>
-        </dict>
-      </array>
-      <key>robocjk.locationBase</key>
-      <string>ff54fce8</string>
       <key>robocjk.status</key>
       <integer>0</integer>
-      <key>robocjk.variationGlyphs</key>
-      <array>
-        <dict>
-          <key>deepComponents</key>
-          <array>
-            <dict>
-              <key>coord</key>
-              <dict>
-                <key>epaisseur_fut</key>
-                <integer>40</integer>
-              </dict>
-              <key>name</key>
-              <string>compoA</string>
-              <key>transform</key>
-              <dict>
-                <key>rotation</key>
-                <integer>0</integer>
-                <key>scalex</key>
-                <integer>1</integer>
-                <key>scaley</key>
-                <integer>1</integer>
-                <key>tcenterx</key>
-                <integer>0</integer>
-                <key>tcentery</key>
-                <integer>0</integer>
-                <key>x</key>
-                <integer>150</integer>
-                <key>y</key>
-                <integer>610</integer>
-              </dict>
-            </dict>
-            <dict>
-              <key>coord</key>
-              <dict>
-                <key>epaisseur_fut</key>
-                <integer>40</integer>
-                <key>goutte</key>
-                <integer>100</integer>
-              </dict>
-              <key>name</key>
-              <string>compoB</string>
-              <key>transform</key>
-              <dict>
-                <key>rotation</key>
-                <integer>0</integer>
-                <key>scalex</key>
-                <integer>1</integer>
-                <key>scaley</key>
-                <integer>1</integer>
-                <key>tcenterx</key>
-                <integer>0</integer>
-                <key>tcentery</key>
-                <integer>0</integer>
-                <key>x</key>
-                <integer>150</integer>
-                <key>y</key>
-                <integer>0</integer>
-              </dict>
-            </dict>
-            <dict>
-              <key>coord</key>
-              <dict>
-                <key>epaisseur_fut</key>
-                <integer>10</integer>
-                <key>longueur_fut</key>
-                <real>645.639723515305</real>
-              </dict>
-              <key>name</key>
-              <string>compoC</string>
-              <key>transform</key>
-              <dict>
-                <key>rotation</key>
-                <integer>0</integer>
-                <key>scalex</key>
-                <integer>1</integer>
-                <key>scaley</key>
-                <integer>1</integer>
-                <key>tcenterx</key>
-                <integer>0</integer>
-                <key>tcentery</key>
-                <integer>0</integer>
-                <key>x</key>
-                <integer>527</integer>
-                <key>y</key>
-                <integer>0</integer>
-              </dict>
-            </dict>
-            <dict>
-              <key>coord</key>
-              <dict>
-                <key>epaisseur_fut</key>
-                <integer>40</integer>
-                <key>longueur_fut</key>
-                <real>645.639723515305</real>
-              </dict>
-              <key>name</key>
-              <string>compoC</string>
-              <key>transform</key>
-              <dict>
-                <key>rotation</key>
-                <integer>0</integer>
-                <key>scalex</key>
-                <integer>1</integer>
-                <key>scaley</key>
-                <integer>1</integer>
-                <key>tcenterx</key>
-                <integer>0</integer>
-                <key>tcentery</key>
-                <integer>0</integer>
-                <key>x</key>
-                <integer>150</integer>
-                <key>y</key>
-                <integer>0</integer>
-              </dict>
-            </dict>
-            <dict>
-              <key>coord</key>
-              <dict>
-                <key>epaisseur_fut</key>
-                <integer>10</integer>
-                <key>longueur_fut</key>
-                <integer>363</integer>
-              </dict>
-              <key>name</key>
-              <string>compoC</string>
-              <key>transform</key>
-              <dict>
-                <key>rotation</key>
-                <integer>-90</integer>
-                <key>scalex</key>
-                <integer>1</integer>
-                <key>scaley</key>
-                <integer>1</integer>
-                <key>tcenterx</key>
-                <integer>0</integer>
-                <key>tcentery</key>
-                <integer>0</integer>
-                <key>x</key>
-                <integer>160</integer>
-                <key>y</key>
-                <integer>392</integer>
-              </dict>
-            </dict>
-          </array>
-          <key>layerName</key>
-          <string></string>
-          <key>location</key>
-          <dict>
-            <key>weight</key>
-            <integer>900</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>weight=900</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-      </array>
     </dict>
   </lib>
 </glyph>
