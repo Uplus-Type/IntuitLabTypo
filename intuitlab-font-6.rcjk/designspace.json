@@ -12,6 +12,34 @@
         ]
     },
     "sources": {
+        "81d91c98": {
+            "lineMetricsHorizontalLayout": {
+                "ascender": {
+                    "value": 800,
+                    "zone": 16
+                },
+                "baseline": {
+                    "value": 0,
+                    "zone": -16
+                },
+                "capHeight": {
+                    "value": 750,
+                    "zone": 16
+                },
+                "descender": {
+                    "value": -250,
+                    "zone": -16
+                },
+                "xHeight": {
+                    "value": 350,
+                    "zone": 16
+                }
+            },
+            "location": {
+                "weight": 700
+            },
+            "name": "Bold"
+        },
         "833e5beb": {
             "lineMetricsHorizontalLayout": {
                 "ascender": {
@@ -31,7 +59,7 @@
                     "zone": -16
                 },
                 "xHeight": {
-                    "value": 500,
+                    "value": 350,
                     "zone": 16
                 }
             },
