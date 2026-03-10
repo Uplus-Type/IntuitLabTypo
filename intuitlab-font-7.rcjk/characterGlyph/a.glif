@@ -12,7 +12,7 @@
           <key>coord</key>
           <dict>
             <key>HAUTEUR</key>
-            <integer>100</integer>
+            <integer>0</integer>
             <key>weight</key>
             <integer>400</integer>
           </dict>
@@ -40,7 +40,7 @@
           <key>coord</key>
           <dict>
             <key>HAUTEUR</key>
-            <integer>100</integer>
+            <real>58.4285512766258</real>
             <key>weight</key>
             <integer>400</integer>
           </dict>
@@ -68,7 +68,7 @@
           <key>coord</key>
           <dict>
             <key>HAUTEUR</key>
-            <integer>100</integer>
+            <real>27.7331076315418</real>
             <key>weight</key>
             <integer>400</integer>
           </dict>
@@ -96,7 +96,7 @@
           <key>coord</key>
           <dict>
             <key>HAUTEUR</key>
-            <integer>100</integer>
+            <real>51.2060939483707</real>
             <key>weight</key>
             <integer>400</integer>
           </dict>

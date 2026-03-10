@@ -8,6 +8,12 @@
       <point x="229" y="373" type="line"/>
       <point x="229" y="452" type="line"/>
     </contour>
+    <contour>
+      <point x="186" y="452" type="line"/>
+      <point x="186" y="373" type="line"/>
+      <point x="229" y="373" type="line"/>
+      <point x="229" y="452" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -22,6 +28,16 @@
           <integer>0</integer>
           <key>name</key>
           <string>HAUTEUR</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dedoublage</string>
         </dict>
       </array>
       <key>robocjk.locationBase</key>
@@ -44,6 +60,23 @@
           <true/>
           <key>sourceName</key>
           <string>HAUTEUR=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>dedoublage=25</string>
+          <key>location</key>
+          <dict>
+            <key>dedoublage</key>
+            <integer>25</integer>
+          </dict>
+          <key>locationBase</key>
+          <string>94b5e04d</string>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>dedoublage=25</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
