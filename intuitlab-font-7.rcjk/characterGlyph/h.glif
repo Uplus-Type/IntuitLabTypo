@@ -237,7 +237,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-48</integer>
+                <integer>-136</integer>
                 <key>y</key>
                 <integer>7</integer>
               </dict>
@@ -265,7 +265,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>116</integer>
+                <integer>28</integer>
                 <key>y</key>
                 <integer>-84</integer>
               </dict>
@@ -293,7 +293,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>279</integer>
+                <integer>191</integer>
                 <key>y</key>
                 <integer>-45</integer>
               </dict>
@@ -321,7 +321,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>413</integer>
+                <integer>518</integer>
                 <key>y</key>
                 <integer>-187</integer>
               </dict>
@@ -332,7 +332,7 @@
                 <key>HAUTEUR</key>
                 <real>7.67</real>
                 <key>dedoublage</key>
-                <integer>0</integer>
+                <integer>100</integer>
               </dict>
               <key>name</key>
               <string>compotest</string>
@@ -349,7 +349,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>352</integer>
+                <integer>354</integer>
                 <key>y</key>
                 <integer>-84</integer>
               </dict>
@@ -377,7 +377,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>418</integer>
+                <integer>650</integer>
                 <key>y</key>
                 <integer>-187</integer>
               </dict>
@@ -396,6 +396,8 @@
           <string>weight=700</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>910</integer>
         </dict>
       </array>
     </dict>
