@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="H" format="2">
-  <advance width="500"/>
+  <advance width="625.835801946678"/>
   <unicode hex="0048"/>
   <outline>
   </outline>
@@ -12,7 +12,7 @@
           <key>coord</key>
           <dict>
             <key>epaisseur_fut</key>
-            <integer>10</integer>
+            <integer>40</integer>
           </dict>
           <key>name</key>
           <string>compoA</string>
@@ -29,7 +29,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>104</integer>
+            <integer>150</integer>
             <key>y</key>
             <integer>610</integer>
           </dict>
@@ -38,7 +38,7 @@
           <key>coord</key>
           <dict>
             <key>epaisseur_fut</key>
-            <integer>10</integer>
+            <integer>40</integer>
           </dict>
           <key>name</key>
           <string>compoB</string>
@@ -55,7 +55,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>104</integer>
+            <integer>150</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
@@ -83,7 +83,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>421</integer>
+            <integer>527</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
@@ -109,7 +109,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>421</integer>
+            <integer>527</integer>
             <key>y</key>
             <integer>610</integer>
           </dict>
@@ -118,7 +118,7 @@
           <key>coord</key>
           <dict>
             <key>epaisseur_fut</key>
-            <integer>10</integer>
+            <integer>40</integer>
             <key>longueur_fut</key>
             <real>645.639723515305</real>
           </dict>
@@ -137,7 +137,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>104</integer>
+            <integer>150</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
@@ -148,7 +148,7 @@
             <key>epaisseur_fut</key>
             <integer>10</integer>
             <key>longueur_fut</key>
-            <real>318.696572154041</real>
+            <integer>363</integer>
           </dict>
           <key>name</key>
           <string>compoC</string>
@@ -165,7 +165,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>104</integer>
+            <integer>160</integer>
             <key>y</key>
             <integer>392</integer>
           </dict>
