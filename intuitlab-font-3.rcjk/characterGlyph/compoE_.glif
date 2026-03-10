@@ -2,18 +2,6 @@
 <glyph name="compoE" format="2">
   <advance width="500"/>
   <outline>
-    <contour>
-      <point x="-95" y="140" type="line"/>
-      <point x="-95" y="90" type="line"/>
-      <point x="-5" y="90" type="line"/>
-      <point x="-5" y="140" type="line"/>
-    </contour>
-    <contour>
-      <point x="-5" y="140" type="line"/>
-      <point x="-5" y="0" type="line"/>
-      <point x="5" y="0" type="line"/>
-      <point x="5" y="140" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
