@@ -8,6 +8,14 @@
                 "minValue": 14,
                 "name": "optical",
                 "tag": "opsz"
+            },
+            {
+                "defaultValue": 0,
+                "label": "Noise",
+                "maxValue": 100,
+                "minValue": 0,
+                "name": "noise",
+                "tag": "NOIS"
             }
         ]
     },
