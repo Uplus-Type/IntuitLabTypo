@@ -40,7 +40,7 @@
           <key>coord</key>
           <dict>
             <key>HAUTEUR</key>
-            <integer>36</integer>
+            <real>8.77415714487234</real>
             <key>dedoublage</key>
             <integer>0</integer>
           </dict>
@@ -59,16 +59,16 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-17</integer>
+            <integer>-21</integer>
             <key>y</key>
-            <integer>-149</integer>
+            <integer>-93</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
             <key>HAUTEUR</key>
-            <integer>36</integer>
+            <real>12.3853858089999</real>
             <key>dedoublage</key>
             <integer>0</integer>
           </dict>
@@ -87,16 +87,16 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>17</integer>
+            <integer>9</integer>
             <key>y</key>
-            <integer>-149</integer>
+            <integer>-222</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
             <key>HAUTEUR</key>
-            <integer>36</integer>
+            <real>12.3853858089999</real>
             <key>dedoublage</key>
             <integer>0</integer>
           </dict>
@@ -115,16 +115,16 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>49</integer>
+            <integer>42</integer>
             <key>y</key>
-            <integer>-149</integer>
+            <integer>-295</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
             <key>HAUTEUR</key>
-            <integer>36</integer>
+            <integer>0</integer>
             <key>dedoublage</key>
             <integer>0</integer>
           </dict>
@@ -143,16 +143,16 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>83</integer>
+            <integer>81</integer>
             <key>y</key>
-            <integer>-149</integer>
+            <integer>-40</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
             <key>HAUTEUR</key>
-            <integer>36</integer>
+            <real>8.77415714487234</real>
             <key>dedoublage</key>
             <integer>0</integer>
           </dict>
@@ -171,16 +171,16 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>116</integer>
+            <integer>111</integer>
             <key>y</key>
-            <integer>-149</integer>
+            <integer>-93</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
             <key>HAUTEUR</key>
-            <integer>36</integer>
+            <real>12.3853858089999</real>
             <key>dedoublage</key>
             <integer>0</integer>
           </dict>
@@ -199,9 +199,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>150</integer>
+            <integer>141</integer>
             <key>y</key>
-            <integer>-149</integer>
+            <integer>-222</integer>
           </dict>
         </dict>
       </array>
