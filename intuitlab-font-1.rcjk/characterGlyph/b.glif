@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b" format="2">
-  <advance width="522"/>
+  <advance width="531"/>
   <unicode hex="0062"/>
   <outline>
   </outline>
@@ -8,29 +8,6 @@
     <dict>
       <key>robocjk.deepComponents</key>
       <array>
-        <dict>
-          <key>coord</key>
-          <dict/>
-          <key>name</key>
-          <string>01</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>-1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>523</integer>
-            <key>y</key>
-            <integer>0</integer>
-          </dict>
-        </dict>
         <dict>
           <key>coord</key>
           <dict>
@@ -52,7 +29,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-163</integer>
+            <integer>-190</integer>
             <key>y</key>
             <integer>3</integer>
           </dict>
@@ -67,7 +44,7 @@
             <key>rotation</key>
             <integer>0</integer>
             <key>scalex</key>
-            <real>1.203030678279848</real>
+            <real>-1.203030678279848</real>
             <key>scaley</key>
             <real>1.206756201533018</real>
             <key>tcenterx</key>
@@ -75,9 +52,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>-20.71516577463423</real>
+            <integer>570</integer>
             <key>y</key>
-            <real>-51.01235260242278</real>
+            <integer>-51</integer>
           </dict>
         </dict>
       </array>
