@@ -45,10 +45,6 @@
       <point x="160" y="387" type="line"/>
       <point x="523" y="387" type="line"/>
     </contour>
-    <contour>
-      <point x="532" y="0" type="move"/>
-      <point x="532" y="645.6" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -105,9 +101,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>538</integer>
+            <integer>647</integer>
             <key>y</key>
-            <integer>614</integer>
+            <integer>608</integer>
           </dict>
         </dict>
       </array>
