@@ -11,6 +11,8 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>graisse</key>
+            <real>47.2563125969812</real>
             <key>ondule</key>
             <integer>100</integer>
           </dict>
@@ -37,6 +39,8 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>graisse</key>
+            <real>42.6012131471294</real>
             <key>ondule</key>
             <integer>-100</integer>
           </dict>
