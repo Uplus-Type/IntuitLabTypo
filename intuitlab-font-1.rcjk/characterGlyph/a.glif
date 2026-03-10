@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="a" format="2">
-  <advance width="500"/>
+  <advance width="530.7031792770997"/>
   <unicode hex="0061"/>
   <outline>
   </outline>
@@ -18,17 +18,17 @@
             <key>rotation</key>
             <integer>0</integer>
             <key>scalex</key>
-            <real>1.130426530958933</real>
+            <real>1.203030678279848</real>
             <key>scaley</key>
-            <real>1.133927215025535</real>
+            <real>1.206756201533018</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-38</integer>
+            <real>-20.71516577463423</real>
             <key>y</key>
-            <integer>-33</integer>
+            <real>-51.01235260242278</real>
           </dict>
         </dict>
       </array>
