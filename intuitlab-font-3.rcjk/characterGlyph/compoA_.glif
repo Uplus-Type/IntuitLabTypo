@@ -1,12 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="compoA" format="2">
-  <advance width="500"/>
+  <advance width="100"/>
   <outline>
     <contour>
-      <point x="80" y="750" type="line"/>
-      <point x="80" y="727" type="line"/>
-      <point x="149" y="727" type="line"/>
-      <point x="149" y="750" type="line"/>
+      <point x="0" y="750" type="line"/>
+      <point x="0" y="710" type="line"/>
+      <point x="90" y="710" type="line"/>
+      <point x="90" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="750" type="line"/>
+      <point x="90" y="601" type="line"/>
+      <point x="100" y="601" type="line"/>
+      <point x="100" y="750" type="line"/>
     </contour>
   </outline>
   <lib>
