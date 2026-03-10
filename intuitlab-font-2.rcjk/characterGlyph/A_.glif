@@ -465,7 +465,7 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-18.452697970438315</real>
+            <real>9.939219836036177</real>
             <key>scalex</key>
             <real>0.9999999999999998</real>
             <key>scaley</key>
@@ -475,9 +475,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>131</integer>
+            <real>517.5709933593271</real>
             <key>y</key>
-            <integer>-9</integer>
+            <real>-37.52713221462966</real>
           </dict>
         </dict>
         <dict>
@@ -491,7 +491,7 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-18.452697970438315</real>
+            <real>9.939219836036177</real>
             <key>scalex</key>
             <real>0.9999999999999998</real>
             <key>scaley</key>
@@ -501,9 +501,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>194</integer>
+            <real>483.5990570708208</real>
             <key>y</key>
-            <integer>179</integer>
+            <real>157.81591871068395</real>
           </dict>
         </dict>
         <dict>
@@ -517,7 +517,7 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-18.452697970438315</real>
+            <real>9.939219836036177</real>
             <key>scalex</key>
             <real>0.9999999999999998</real>
             <key>scaley</key>
@@ -527,9 +527,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>256</integer>
+            <real>449.6984053668866</real>
             <key>y</key>
-            <integer>365</integer>
+            <real>350.92403820349176</real>
           </dict>
         </dict>
         <dict>
@@ -543,7 +543,7 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-18.452697970438315</real>
+            <real>9.939219836036177</real>
             <key>scalex</key>
             <real>0.9999999999999998</real>
             <key>scaley</key>
@@ -553,9 +553,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>318</integer>
+            <real>414.8467534222924</real>
             <key>y</key>
-            <integer>553</integer>
+            <real>545.7915890084754</real>
           </dict>
         </dict>
       </array>
