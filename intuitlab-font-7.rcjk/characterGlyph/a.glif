@@ -927,6 +927,8 @@
                 <integer>0</integer>
                 <key>longueur</key>
                 <real>84.2268623024831</real>
+                <key>tournicoton</key>
+                <integer>100</integer>
               </dict>
               <key>name</key>
               <string>longeur</string>
@@ -957,6 +959,8 @@
                 <integer>0</integer>
                 <key>longueur</key>
                 <real>85.81405191873591</real>
+                <key>tournicoton</key>
+                <integer>100</integer>
               </dict>
               <key>name</key>
               <string>longeur</string>
