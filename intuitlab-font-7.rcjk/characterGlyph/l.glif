@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="l" format="2">
-  <advance width="56"/>
+  <advance width="80"/>
   <unicode hex="006C"/>
   <outline>
   </outline>
@@ -145,7 +145,7 @@
           <key>status</key>
           <integer>0</integer>
           <key>width</key>
-          <integer>188</integer>
+          <integer>218</integer>
         </dict>
       </array>
     </dict>

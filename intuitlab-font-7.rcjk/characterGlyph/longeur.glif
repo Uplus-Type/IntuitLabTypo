@@ -3,10 +3,10 @@
   <advance width="500"/>
   <outline>
     <contour>
-      <point x="176" y="432" type="line"/>
-      <point x="176" y="409" type="line"/>
-      <point x="223" y="409" type="line"/>
-      <point x="223" y="432" type="line"/>
+      <point x="155" y="398" type="line"/>
+      <point x="175" y="411" type="line"/>
+      <point x="149" y="450" type="line"/>
+      <point x="130" y="438" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -76,6 +76,25 @@
           <true/>
           <key>sourceName</key>
           <string>longueur=100,tournicoton=44.7</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>longueur=100,tournicoton=100</string>
+          <key>location</key>
+          <dict>
+            <key>longueur</key>
+            <integer>100</integer>
+            <key>tournicoton</key>
+            <integer>100</integer>
+          </dict>
+          <key>locationBase</key>
+          <string>94b5e04d</string>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>longueur=100,tournicoton=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
