@@ -7,10 +7,10 @@
       <point x="129" y="750" type="line"/>
       <point x="129" y="740" type="line"/>
       <point x="467" y="740" type="line"/>
-      <point x="467" y="395" type="line"/>
-      <point x="129" y="395" type="line"/>
-      <point x="129" y="385" type="line"/>
-      <point x="477" y="385" type="line"/>
+      <point x="467" y="326" type="line"/>
+      <point x="129" y="326" type="line"/>
+      <point x="129" y="316" type="line"/>
+      <point x="477" y="316" type="line"/>
       <point x="477" y="750" type="line"/>
     </contour>
   </outline>
