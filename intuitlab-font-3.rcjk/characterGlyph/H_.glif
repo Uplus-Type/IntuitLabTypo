@@ -3,6 +3,12 @@
   <advance width="532"/>
   <unicode hex="0048"/>
   <outline>
+    <contour>
+      <point x="119" y="625" type="line"/>
+      <point x="119" y="131" type="line"/>
+      <point x="158" y="131" type="line"/>
+      <point x="158" y="625" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -71,6 +77,8 @@
             <integer>10</integer>
             <key>goutte</key>
             <integer>0</integer>
+            <key>hauteur</key>
+            <real>93.6380307518691</real>
           </dict>
           <key>name</key>
           <string>compoA</string>
