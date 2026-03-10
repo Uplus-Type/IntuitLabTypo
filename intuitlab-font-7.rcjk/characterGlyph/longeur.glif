@@ -3,10 +3,18 @@
   <advance width="500"/>
   <outline>
     <contour>
-      <point x="155" y="398" type="line"/>
-      <point x="175" y="411" type="line"/>
-      <point x="149" y="450" type="line"/>
-      <point x="130" y="438" type="line"/>
+      <point x="168.5" y="432.25" type="curve" smooth="yes"/>
+      <point x="168.5" y="440.39620005955"/>
+      <point x="161.89620005955" y="447"/>
+      <point x="153.75" y="447" type="curve" smooth="yes"/>
+      <point x="145.60379994045" y="447"/>
+      <point x="139" y="440.39620005955"/>
+      <point x="139" y="432.25" type="curve" smooth="yes"/>
+      <point x="139" y="424.10379994045"/>
+      <point x="145.60379994045" y="417.5"/>
+      <point x="153.75" y="417.5" type="curve" smooth="yes"/>
+      <point x="161.89620005955" y="417.5"/>
+      <point x="168.5" y="424.10379994045"/>
     </contour>
   </outline>
   <lib>
@@ -58,26 +66,6 @@
       <string>94b5e04d</string>
       <key>robocjk.status</key>
       <integer>0</integer>
-      <key>robocjk.variationGlyphs</key>
-      <array>
-        <dict>
-          <key>layerName</key>
-          <string>tournicoton=100</string>
-          <key>location</key>
-          <dict>
-            <key>tournicoton</key>
-            <integer>100</integer>
-          </dict>
-          <key>locationBase</key>
-          <string>94b5e04d</string>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>tournicoton=100</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-      </array>
     </dict>
   </lib>
 </glyph>

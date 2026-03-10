@@ -436,7 +436,7 @@
             <key>dedoublage</key>
             <integer>0</integer>
             <key>longueur</key>
-            <real>19.4977426636569</real>
+            <integer>0</integer>
           </dict>
           <key>name</key>
           <string>longeur</string>
@@ -453,9 +453,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-25</integer>
+            <integer>38</integer>
             <key>y</key>
-            <integer>-141</integer>
+            <integer>-170</integer>
           </dict>
         </dict>
         <dict>
@@ -483,9 +483,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-25</integer>
+            <integer>38</integer>
             <key>y</key>
-            <integer>-302</integer>
+            <integer>-331</integer>
           </dict>
         </dict>
       </array>
