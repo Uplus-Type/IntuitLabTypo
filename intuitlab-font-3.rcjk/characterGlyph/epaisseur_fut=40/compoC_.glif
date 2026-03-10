@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="compoC" format="2">
+  <advance width="100"/>
+  <outline>
+    <contour>
+      <point x="-110" y="149" type="line"/>
+      <point x="-110" y="99" type="line"/>
+      <point x="-20" y="99" type="line"/>
+      <point x="-20" y="149" type="line"/>
+    </contour>
+    <contour>
+      <point x="-20" y="149" type="line"/>
+      <point x="-20" y="0" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="20" y="149" type="line"/>
+    </contour>
+  </outline>
+</glyph>
