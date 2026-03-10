@@ -10,8 +10,8 @@
       <point x="147" y="0" type="curve"/>
       <point x="167" y="0" type="line"/>
       <point x="167" y="167"/>
-      <point x="167" y="333"/>
-      <point x="167" y="500" type="curve"/>
+      <point x="186" y="333"/>
+      <point x="186" y="500" type="curve"/>
     </contour>
     <contour>
       <point x="345" y="500" type="line"/>
@@ -54,6 +54,21 @@
           <true/>
           <key>sourceName</key>
           <string>weight=900</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>Thin</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>Thin</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
