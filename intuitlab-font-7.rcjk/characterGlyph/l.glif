@@ -80,7 +80,7 @@
                 <key>HAUTEUR</key>
                 <real>60.5107223476298</real>
                 <key>dedoublage</key>
-                <integer>100</integer>
+                <integer>0</integer>
               </dict>
               <key>name</key>
               <string>compotest</string>
@@ -108,7 +108,7 @@
                 <key>HAUTEUR</key>
                 <real>60.5107223476298</real>
                 <key>dedoublage</key>
-                <integer>0</integer>
+                <integer>100</integer>
               </dict>
               <key>name</key>
               <string>compotest</string>
@@ -125,7 +125,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>149</integer>
+                <integer>17</integer>
                 <key>y</key>
                 <integer>7</integer>
               </dict>
