@@ -3,34 +3,10 @@
   <advance width="500"/>
   <outline>
     <contour>
-      <point x="186" y="452" type="line"/>
-      <point x="186" y="373" type="line"/>
-      <point x="209" y="373" type="line"/>
-      <point x="209" y="452" type="line"/>
-    </contour>
-    <contour>
-      <point x="186" y="452" type="line"/>
-      <point x="186" y="373" type="line"/>
-      <point x="209" y="373" type="line"/>
-      <point x="209" y="452" type="line"/>
-    </contour>
-    <contour>
-      <point x="186" y="452" type="line"/>
-      <point x="186" y="373" type="line"/>
-      <point x="209" y="373" type="line"/>
-      <point x="209" y="452" type="line"/>
-    </contour>
-    <contour>
-      <point x="186" y="452" type="line"/>
-      <point x="186" y="373" type="line"/>
-      <point x="209" y="373" type="line"/>
-      <point x="209" y="452" type="line"/>
-    </contour>
-    <contour>
-      <point x="186" y="452" type="line"/>
-      <point x="186" y="373" type="line"/>
-      <point x="209" y="373" type="line"/>
-      <point x="209" y="452" type="line"/>
+      <point x="176" y="432" type="line"/>
+      <point x="176" y="409" type="line"/>
+      <point x="223" y="409" type="line"/>
+      <point x="223" y="432" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -76,10 +52,12 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string>HAUTEUR=100</string>
+          <string>dedoublage=100,longueur=100</string>
           <key>location</key>
           <dict>
-            <key>HAUTEUR</key>
+            <key>dedoublage</key>
+            <integer>100</integer>
+            <key>longueur</key>
             <integer>100</integer>
           </dict>
           <key>locationBase</key>
@@ -87,143 +65,7 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>HAUTEUR=100</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>dedoublage=25</string>
-          <key>location</key>
-          <dict>
-            <key>dedoublage</key>
-            <integer>25</integer>
-          </dict>
-          <key>locationBase</key>
-          <string>94b5e04d</string>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>dedoublage=25</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>dedoublage=50</string>
-          <key>location</key>
-          <dict>
-            <key>dedoublage</key>
-            <integer>50</integer>
-          </dict>
-          <key>locationBase</key>
-          <string>94b5e04d</string>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>dedoublage=50</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>dedoublage=100</string>
-          <key>location</key>
-          <dict>
-            <key>dedoublage</key>
-            <integer>100</integer>
-          </dict>
-          <key>locationBase</key>
-          <string>94b5e04d</string>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>dedoublage=100</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>dedoublage=75</string>
-          <key>location</key>
-          <dict>
-            <key>dedoublage</key>
-            <integer>75</integer>
-          </dict>
-          <key>locationBase</key>
-          <string>94b5e04d</string>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>dedoublage=75</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>dedoublage=24.9</string>
-          <key>location</key>
-          <dict>
-            <key>dedoublage</key>
-            <real>24.9</real>
-          </dict>
-          <key>locationBase</key>
-          <string>94b5e04d</string>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>dedoublage=24.9</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>dedoublage=49.9</string>
-          <key>location</key>
-          <dict>
-            <key>dedoublage</key>
-            <real>49.9</real>
-          </dict>
-          <key>locationBase</key>
-          <string>94b5e04d</string>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>dedoublage=49.9</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>dedoublage=74.9</string>
-          <key>location</key>
-          <dict>
-            <key>dedoublage</key>
-            <real>74.9</real>
-          </dict>
-          <key>locationBase</key>
-          <string>94b5e04d</string>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>dedoublage=74.9</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>dedoublage=99.9</string>
-          <key>location</key>
-          <dict>
-            <key>dedoublage</key>
-            <real>99.9</real>
-          </dict>
-          <key>locationBase</key>
-          <string>94b5e04d</string>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>dedoublage=99.9</string>
+          <string>dedoublage=100,longueur=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
