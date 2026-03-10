@@ -444,7 +444,7 @@
                 <key>HAUTEUR</key>
                 <integer>0</integer>
                 <key>dedoublage</key>
-                <integer>0</integer>
+                <integer>100</integer>
               </dict>
               <key>name</key>
               <string>compotest</string>
@@ -556,7 +556,7 @@
                 <key>HAUTEUR</key>
                 <integer>0</integer>
                 <key>dedoublage</key>
-                <integer>0</integer>
+                <integer>100</integer>
               </dict>
               <key>name</key>
               <string>compotest</string>
@@ -584,7 +584,7 @@
                 <key>HAUTEUR</key>
                 <integer>0</integer>
                 <key>dedoublage</key>
-                <integer>0</integer>
+                <integer>100</integer>
               </dict>
               <key>name</key>
               <string>compotest</string>
@@ -860,7 +860,7 @@
             </dict>
           </array>
           <key>layerName</key>
-          <string></string>
+          <string>weight=700</string>
           <key>location</key>
           <dict>
             <key>weight</key>
