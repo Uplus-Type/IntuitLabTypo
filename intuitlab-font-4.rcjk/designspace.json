@@ -1,5 +1,45 @@
 {
+    "axes": {
+        "axes": [
+            {
+                "defaultValue": 14,
+                "label": "Optical Size",
+                "maxValue": 144,
+                "minValue": 14,
+                "name": "optical",
+                "tag": "opsz"
+            }
+        ]
+    },
     "sources": {
+        "102351bd": {
+            "lineMetricsHorizontalLayout": {
+                "ascender": {
+                    "value": 800,
+                    "zone": 16
+                },
+                "baseline": {
+                    "value": 0,
+                    "zone": -16
+                },
+                "capHeight": {
+                    "value": 750,
+                    "zone": 16
+                },
+                "descender": {
+                    "value": -250,
+                    "zone": -16
+                },
+                "xHeight": {
+                    "value": 300,
+                    "zone": 16
+                }
+            },
+            "location": {
+                "optical": 144
+            },
+            "name": "large"
+        },
         "8f17d0be": {
             "lineMetricsHorizontalLayout": {
                 "ascender": {
