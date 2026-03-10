@@ -436,7 +436,7 @@
             <key>dedoublage</key>
             <integer>0</integer>
             <key>longueur</key>
-            <real>29.4864559819413</real>
+            <real>19.4977426636569</real>
           </dict>
           <key>name</key>
           <string>longeur</string>
@@ -896,7 +896,7 @@
                 <key>dedoublage</key>
                 <integer>0</integer>
                 <key>longueur</key>
-                <integer>100</integer>
+                <real>84.2268623024831</real>
               </dict>
               <key>name</key>
               <string>longeur</string>
