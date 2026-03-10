@@ -16,7 +16,7 @@
             <key>goutte</key>
             <integer>0</integer>
             <key>hauteur</key>
-            <real>54.8173226124982</real>
+            <real>84.6099590915503</real>
           </dict>
           <key>name</key>
           <string>compoA</string>
@@ -35,7 +35,7 @@
             <key>x</key>
             <integer>287</integer>
             <key>y</key>
-            <integer>357</integer>
+            <integer>608</integer>
           </dict>
         </dict>
         <dict>
@@ -86,7 +86,7 @@
                 <key>goutte</key>
                 <integer>100</integer>
                 <key>hauteur</key>
-                <real>43.0808294540838</real>
+                <real>80.9987304274228</real>
               </dict>
               <key>name</key>
               <string>compoA</string>
@@ -105,7 +105,7 @@
                 <key>x</key>
                 <integer>287</integer>
                 <key>y</key>
-                <integer>357</integer>
+                <integer>601</integer>
               </dict>
             </dict>
             <dict>
