@@ -38,7 +38,7 @@
           <key>coord</key>
           <dict>
             <key>inflate</key>
-            <integer>100</integer>
+            <real>41.27521512202</real>
           </dict>
           <key>name</key>
           <string>composant2</string>
@@ -90,7 +90,7 @@
           <key>coord</key>
           <dict>
             <key>inflate</key>
-            <integer>100</integer>
+            <real>39.4696007899563</real>
           </dict>
           <key>name</key>
           <string>composant2</string>
@@ -123,9 +123,9 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>56.6179927248268</real>
+            <real>69.34572733838249</real>
             <key>scalex</key>
-            <integer>1</integer>
+            <real>0.9999999999999999</real>
             <key>scaley</key>
             <integer>1</integer>
             <key>tcenterx</key>
@@ -133,25 +133,25 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>165</integer>
+            <real>184.9396192490058</real>
             <key>y</key>
-            <integer>681</integer>
+            <real>720.1030959222416</real>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
             <key>inflate</key>
-            <integer>100</integer>
+            <real>32.2471434617012</real>
           </dict>
           <key>name</key>
           <string>composant2</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>56.6179927248268</real>
+            <real>69.34572733838249</real>
             <key>scalex</key>
-            <integer>1</integer>
+            <real>0.9999999999999999</real>
             <key>scaley</key>
             <integer>1</integer>
             <key>tcenterx</key>
@@ -159,16 +159,16 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>329</integer>
+            <real>368.70419980945576</real>
             <key>y</key>
-            <integer>573</integer>
+            <real>650.8890877198414</real>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
             <key>inflate</key>
-            <integer>100</integer>
+            <real>44.8864437861476</real>
           </dict>
           <key>name</key>
           <string>composant2</string>
