@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fil2" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="20" y="20" type="line"/>
+      <point x="0" y="20" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.locationBase</key>
+      <string>8f17d0be</string>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
