@@ -14,7 +14,7 @@
             <key>epaisseur_fut</key>
             <integer>10</integer>
             <key>goutte</key>
-            <integer>100</integer>
+            <integer>0</integer>
             <key>hauteur</key>
             <real>54.8173226124982</real>
           </dict>
@@ -44,7 +44,7 @@
             <key>epaisseur_fut</key>
             <integer>10</integer>
             <key>goutte</key>
-            <integer>100</integer>
+            <integer>0</integer>
             <key>hauteur</key>
             <integer>0</integer>
           </dict>
@@ -86,7 +86,7 @@
                 <key>goutte</key>
                 <integer>100</integer>
                 <key>hauteur</key>
-                <real>54.8173226124982</real>
+                <real>43.0808294540838</real>
               </dict>
               <key>name</key>
               <string>compoA</string>
@@ -133,7 +133,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>377</integer>
+                <integer>380</integer>
                 <key>y</key>
                 <integer>-2</integer>
               </dict>
