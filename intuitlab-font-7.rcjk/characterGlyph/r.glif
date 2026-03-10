@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="r" format="2">
-  <advance width="500"/>
+  <advance width="331"/>
   <unicode hex="0072"/>
   <outline>
   </outline>
@@ -220,7 +220,7 @@
                 <key>HAUTEUR</key>
                 <integer>0</integer>
                 <key>dedoublage</key>
-                <integer>0</integer>
+                <integer>100</integer>
               </dict>
               <key>name</key>
               <string>compotest</string>
@@ -248,7 +248,7 @@
                 <key>HAUTEUR</key>
                 <integer>0</integer>
                 <key>dedoublage</key>
-                <integer>0</integer>
+                <integer>100</integer>
               </dict>
               <key>name</key>
               <string>compotest</string>
@@ -265,7 +265,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>260</integer>
+                <integer>392</integer>
                 <key>y</key>
                 <integer>-42</integer>
               </dict>
@@ -304,7 +304,7 @@
                 <key>HAUTEUR</key>
                 <real>0.5787690570299269</real>
                 <key>dedoublage</key>
-                <integer>0</integer>
+                <integer>100</integer>
               </dict>
               <key>name</key>
               <string>compotest</string>
@@ -321,7 +321,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>293</integer>
+                <integer>557</integer>
                 <key>y</key>
                 <integer>-60</integer>
               </dict>
@@ -349,7 +349,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>326</integer>
+                <integer>723</integer>
                 <key>y</key>
                 <integer>-100</integer>
               </dict>
@@ -424,6 +424,8 @@
           <string>weight=700</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>992</integer>
         </dict>
       </array>
     </dict>
