@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="stitch" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="-41" y="-31" type="line"/>
+      <point x="-41" y="-37" type="line"/>
+      <point x="52" y="-31" type="line"/>
+      <point x="52" y="-25" type="line"/>
+    </contour>
+    <contour>
+      <point x="-30" y="-6" type="line"/>
+      <point x="-30" y="-9" type="line"/>
+      <point x="63" y="-12" type="line"/>
+      <point x="63" y="-9" type="line"/>
+    </contour>
+    <contour>
+      <point x="-46" y="15" type="line"/>
+      <point x="-46" y="11" type="line"/>
+      <point x="62" y="8" type="line"/>
+      <point x="64" y="12" type="line"/>
+    </contour>
+    <contour>
+      <point x="-23" y="35" type="line"/>
+      <point x="-23" y="28" type="line"/>
+      <point x="73" y="28" type="line"/>
+      <point x="75" y="35" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -16,7 +16,7 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <integer>0</integer>
+            <integer>-9</integer>
             <key>scalex</key>
             <integer>1</integer>
             <key>scaley</key>
@@ -62,7 +62,7 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <integer>0</integer>
+            <integer>7</integer>
             <key>scalex</key>
             <integer>1</integer>
             <key>scaley</key>
@@ -85,7 +85,7 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <integer>0</integer>
+            <integer>-12</integer>
             <key>scalex</key>
             <integer>1</integer>
             <key>scaley</key>
