@@ -15,15 +15,23 @@
     </contour>
     <contour>
       <point x="345" y="500" type="line"/>
-      <point x="345" y="0" type="line"/>
+      <point x="345" y="333"/>
+      <point x="345" y="167"/>
+      <point x="345" y="0" type="curve"/>
       <point x="365" y="0" type="line"/>
-      <point x="365" y="500" type="line"/>
+      <point x="365" y="167"/>
+      <point x="365" y="333"/>
+      <point x="365" y="500" type="curve"/>
     </contour>
     <contour>
       <point x="365" y="314" type="line"/>
-      <point x="147" y="314" type="line"/>
+      <point x="292" y="314"/>
+      <point x="220" y="314"/>
+      <point x="147" y="314" type="curve"/>
       <point x="147" y="294" type="line"/>
-      <point x="365" y="294" type="line"/>
+      <point x="220" y="294"/>
+      <point x="292" y="294"/>
+      <point x="365" y="294" type="curve"/>
     </contour>
   </outline>
   <lib>
