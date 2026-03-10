@@ -22,18 +22,6 @@
       <point x="130" y="140" type="line"/>
     </contour>
     <contour>
-      <point x="522" y="0" type="line"/>
-      <point x="532" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="298" y="606" type="line"/>
-      <point x="298" y="656" type="line"/>
-    </contour>
-    <contour>
-      <point x="298" y="656" type="line"/>
-      <point x="308" y="656" type="line"/>
-    </contour>
-    <contour>
       <point x="523" y="397" type="line"/>
       <point x="160" y="397" type="line"/>
       <point x="160" y="387" type="line"/>
@@ -95,9 +83,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>225</integer>
+            <integer>470</integer>
             <key>y</key>
-            <integer>524</integer>
+            <integer>613</integer>
           </dict>
         </dict>
       </array>
