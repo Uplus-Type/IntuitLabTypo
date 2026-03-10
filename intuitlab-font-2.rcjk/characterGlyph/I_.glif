@@ -12,7 +12,7 @@
           <key>coord</key>
           <dict>
             <key>inflate</key>
-            <real>37.6639864578925</real>
+            <integer>50</integer>
           </dict>
           <key>name</key>
           <string>composant2</string>
@@ -29,16 +29,16 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>245</integer>
             <key>y</key>
-            <integer>0</integer>
+            <integer>4</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
             <key>inflate</key>
-            <integer>100</integer>
+            <integer>50</integer>
           </dict>
           <key>name</key>
           <string>composant2</string>
@@ -55,16 +55,16 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>245</integer>
             <key>y</key>
-            <integer>198</integer>
+            <integer>202</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
             <key>inflate</key>
-            <integer>100</integer>
+            <integer>50</integer>
           </dict>
           <key>name</key>
           <string>composant2</string>
@@ -81,16 +81,16 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>245</integer>
             <key>y</key>
-            <integer>395</integer>
+            <integer>597</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
             <key>inflate</key>
-            <integer>100</integer>
+            <integer>50</integer>
           </dict>
           <key>name</key>
           <string>composant2</string>
@@ -107,9 +107,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>245</integer>
             <key>y</key>
-            <integer>395</integer>
+            <integer>399</integer>
           </dict>
         </dict>
       </array>
