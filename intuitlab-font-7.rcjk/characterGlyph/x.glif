@@ -461,7 +461,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>543</integer>
+                <integer>672</integer>
                 <key>y</key>
                 <integer>-41</integer>
               </dict>
@@ -489,7 +489,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>543</integer>
+                <integer>672</integer>
                 <key>y</key>
                 <integer>-371</integer>
               </dict>
@@ -612,7 +612,7 @@
                 <key>HAUTEUR</key>
                 <real>3.2891022021456795</real>
                 <key>dedoublage</key>
-                <integer>0</integer>
+                <integer>100</integer>
               </dict>
               <key>name</key>
               <string>compotest</string>
@@ -629,7 +629,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>510</integer>
+                <integer>507</integer>
                 <key>y</key>
                 <integer>-309</integer>
               </dict>
@@ -724,7 +724,7 @@
                 <key>HAUTEUR</key>
                 <real>3.2891022021456795</real>
                 <key>dedoublage</key>
-                <integer>0</integer>
+                <integer>100</integer>
               </dict>
               <key>name</key>
               <string>compotest</string>
@@ -741,7 +741,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>510</integer>
+                <integer>507</integer>
                 <key>y</key>
                 <integer>-79</integer>
               </dict>
@@ -760,6 +760,8 @@
           <string>weight=700</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>926</integer>
         </dict>
       </array>
     </dict>
