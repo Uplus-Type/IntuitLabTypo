@@ -3,8 +3,8 @@
         {
             "commentChars": "#",
             "dataFormat": "glyph-names",
-            "name": "GF Latin Kernel",
-            "url": "https://cdn.jsdelivr.net/gh/googlefonts/glyphsets/data/results/txt/nice-names/GF_Latin_Kernel.txt"
+            "name": "GF Arabic Core",
+            "url": "https://cdn.jsdelivr.net/gh/googlefonts/glyphsets/data/results/txt/nice-names/GF_Arabic_Core.txt"
         }
     ],
     "fontra.sourceStatusFieldDefinitions": [
