@@ -405,7 +405,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>1072</integer>
+                <integer>1052</integer>
                 <key>y</key>
                 <integer>-64</integer>
               </dict>
@@ -489,7 +489,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>527</integer>
+                <integer>507</integer>
                 <key>y</key>
                 <integer>-135</integer>
               </dict>
@@ -593,7 +593,7 @@
           <key>status</key>
           <integer>0</integer>
           <key>width</key>
-          <integer>946</integer>
+          <integer>926</integer>
         </dict>
       </array>
     </dict>
