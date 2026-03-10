@@ -90,7 +90,7 @@
           <key>coord</key>
           <dict>
             <key>inflate</key>
-            <integer>39</integer>
+            <integer>60</integer>
           </dict>
           <key>name</key>
           <string>composant2</string>
@@ -194,7 +194,7 @@
           <key>coord</key>
           <dict>
             <key>inflate</key>
-            <integer>39</integer>
+            <integer>60</integer>
           </dict>
           <key>name</key>
           <string>composant2</string>
