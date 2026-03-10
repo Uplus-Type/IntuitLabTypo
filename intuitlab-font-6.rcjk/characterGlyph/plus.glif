@@ -1,8 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="plus" format="2">
-  <advance width="500"/>
+  <advance width="464.5"/>
   <unicode hex="002B"/>
   <outline>
+    <contour>
+      <point x="3" y="119" type="line"/>
+      <point x="3" y="7.5" type="line"/>
+      <point x="114.5" y="7.5" type="line"/>
+      <point x="114.5" y="119" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
