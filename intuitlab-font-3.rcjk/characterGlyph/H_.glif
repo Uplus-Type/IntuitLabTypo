@@ -3,36 +3,6 @@
   <advance width="500"/>
   <unicode hex="0048"/>
   <outline>
-    <contour>
-      <point x="147" y="500" type="line"/>
-      <point x="147" y="333"/>
-      <point x="147" y="167"/>
-      <point x="147" y="0" type="curve"/>
-      <point x="154" y="0" type="line"/>
-      <point x="154" y="167"/>
-      <point x="154" y="333"/>
-      <point x="154" y="500" type="curve"/>
-    </contour>
-    <contour>
-      <point x="359" y="500" type="line"/>
-      <point x="359" y="333"/>
-      <point x="359" y="167"/>
-      <point x="359" y="0" type="curve"/>
-      <point x="365" y="0" type="line"/>
-      <point x="365" y="167"/>
-      <point x="365" y="333"/>
-      <point x="365" y="500" type="curve"/>
-    </contour>
-    <contour>
-      <point x="365" y="314" type="line"/>
-      <point x="292" y="314"/>
-      <point x="220" y="314"/>
-      <point x="147" y="314" type="curve"/>
-      <point x="146" y="308" type="line"/>
-      <point x="219" y="308"/>
-      <point x="291" y="308"/>
-      <point x="364" y="308" type="curve"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -43,8 +13,89 @@
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>epaisseur_fut</key>
+                <integer>10</integer>
+              </dict>
+              <key>name</key>
+              <string>compoB</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>epaisseur_fut</key>
+                <integer>10</integer>
+              </dict>
+              <key>name</key>
+              <string>compoA</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>0</integer>
+                <key>y</key>
+                <integer>609</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>epaisseur_fut</key>
+                <integer>10</integer>
+              </dict>
+              <key>name</key>
+              <string>compoA</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>400</integer>
+                <key>y</key>
+                <integer>609</integer>
+              </dict>
+            </dict>
+          </array>
           <key>layerName</key>
-          <string>weight=900</string>
+          <string></string>
           <key>location</key>
           <dict>
             <key>weight</key>
@@ -59,7 +110,7 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>Thin</string>
+          <string></string>
           <key>location</key>
           <dict>
             <key>weight</key>
