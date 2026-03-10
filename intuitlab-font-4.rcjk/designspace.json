@@ -16,6 +16,14 @@
                 "minValue": 0,
                 "name": "noise",
                 "tag": "NOIS"
+            },
+            {
+                "defaultValue": 400,
+                "label": "Weight",
+                "maxValue": 700,
+                "minValue": 400,
+                "name": "weight",
+                "tag": "wght"
             }
         ]
     },
