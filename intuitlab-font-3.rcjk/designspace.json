@@ -4,7 +4,7 @@
             {
                 "defaultValue": 400,
                 "label": "Weight",
-                "maxValue": 700,
+                "maxValue": 900,
                 "minValue": 400,
                 "name": "weight",
                 "tag": "wght"
