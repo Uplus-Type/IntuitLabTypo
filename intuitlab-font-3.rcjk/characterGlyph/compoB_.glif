@@ -3,10 +3,16 @@
   <advance width="100"/>
   <outline>
     <contour>
-      <point x="-95" y="0" type="line"/>
-      <point x="-95" y="50" type="line"/>
-      <point x="-5" y="50" type="line"/>
+      <point x="-95" y="0" type="curve"/>
+      <point x="-95" y="17"/>
+      <point x="-95" y="33"/>
+      <point x="-95" y="50" type="curve"/>
+      <point x="-65" y="50"/>
+      <point x="-35" y="50"/>
+      <point x="-5" y="50" type="curve"/>
       <point x="-5" y="0" type="line"/>
+      <point x="-35" y="0"/>
+      <point x="-65" y="0"/>
     </contour>
     <contour>
       <point x="-5" y="0" type="line"/>
@@ -29,6 +35,16 @@
           <key>name</key>
           <string>epaisseur_fut</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>goutte</string>
+        </dict>
       </array>
       <key>robocjk.locationBase</key>
       <string>ff54fce8</string>
@@ -50,6 +66,23 @@
           <true/>
           <key>sourceName</key>
           <string>epaisseur_fut=40</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>goutte=100</string>
+          <key>location</key>
+          <dict>
+            <key>goutte</key>
+            <integer>100</integer>
+          </dict>
+          <key>locationBase</key>
+          <string>ff54fce8</string>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>goutte=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
