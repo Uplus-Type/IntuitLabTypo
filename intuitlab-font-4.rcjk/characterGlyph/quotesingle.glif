@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="I" format="2">
+<glyph name="quotesingle" format="2">
   <advance width="500"/>
-  <unicode hex="0049"/>
+  <unicode hex="0027"/>
   <outline>
   </outline>
   <lib>
@@ -16,7 +16,7 @@
           <key>minValue</key>
           <integer>0</integer>
           <key>name</key>
-          <string>thread</string>
+          <string>LONGEUR</string>
         </dict>
       </array>
       <key>robocjk.deepComponents</key>
@@ -24,11 +24,11 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>grow</key>
-            <integer>20</integer>
+            <key>Grow</key>
+            <integer>200</integer>
           </dict>
           <key>name</key>
-          <string>fil</string>
+          <string>fil2</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -60,11 +60,11 @@
             <dict>
               <key>coord</key>
               <dict>
-                <key>grow</key>
-                <integer>20</integer>
+                <key>Grow</key>
+                <integer>200</integer>
               </dict>
               <key>name</key>
-              <string>fil</string>
+              <string>fil2</string>
               <key>transform</key>
               <dict>
                 <key>rotation</key>
@@ -88,7 +88,7 @@
           <string></string>
           <key>location</key>
           <dict>
-            <key>thread</key>
+            <key>LONGEUR</key>
             <integer>100</integer>
           </dict>
           <key>locationBase</key>
@@ -96,7 +96,7 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>thread=100</string>
+          <string>LONGEUR=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
