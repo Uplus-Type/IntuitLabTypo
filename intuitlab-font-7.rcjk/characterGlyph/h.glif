@@ -237,7 +237,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-48</integer>
+                <integer>-186</integer>
                 <key>y</key>
                 <integer>7</integer>
               </dict>
@@ -265,7 +265,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>150</integer>
+                <integer>12</integer>
                 <key>y</key>
                 <integer>-84</integer>
               </dict>
@@ -293,7 +293,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>315</integer>
+                <integer>177</integer>
                 <key>y</key>
                 <integer>-45</integer>
               </dict>
@@ -321,7 +321,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>645</integer>
+                <integer>507</integer>
                 <key>y</key>
                 <integer>-187</integer>
               </dict>
@@ -349,7 +349,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>480</integer>
+                <integer>342</integer>
                 <key>y</key>
                 <integer>-84</integer>
               </dict>
@@ -377,7 +377,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>810</integer>
+                <integer>672</integer>
                 <key>y</key>
                 <integer>-187</integer>
               </dict>
@@ -405,7 +405,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>117</integer>
+                <integer>-21</integer>
                 <key>y</key>
                 <integer>7</integer>
               </dict>
@@ -425,7 +425,7 @@
           <key>status</key>
           <integer>0</integer>
           <key>width</key>
-          <integer>1081</integer>
+          <integer>926</integer>
         </dict>
       </array>
     </dict>
