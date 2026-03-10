@@ -10,7 +10,10 @@
       <array>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>One</key>
+            <real>43.7579348286077</real>
+          </dict>
           <key>name</key>
           <string>composant1</string>
           <key>transform</key>
@@ -33,7 +36,14 @@
         </dict>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>One</key>
+            <real>66.9205811821131</real>
+            <key>Three</key>
+            <real>90.0268020877416</real>
+            <key>Two</key>
+            <real>47.6653970940894</real>
+          </dict>
           <key>name</key>
           <string>composant1</string>
           <key>transform</key>
