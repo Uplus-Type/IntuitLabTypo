@@ -2,6 +2,10 @@
 <glyph name="02" format="2">
   <advance width="500"/>
   <outline>
+    <contour>
+      <point x="243" y="407" type="move"/>
+      <point x="241" y="37" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
