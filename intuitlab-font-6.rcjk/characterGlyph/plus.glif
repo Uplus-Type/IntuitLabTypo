@@ -4,14 +4,47 @@
   <unicode hex="002B"/>
   <outline>
     <contour>
-      <point x="157" y="182" type="line"/>
-      <point x="157" y="57.5" type="line"/>
-      <point x="281.5" y="57.5" type="line"/>
-      <point x="281.5" y="182" type="line"/>
+      <point x="194" y="145" type="line"/>
+      <point x="194" y="95" type="line"/>
+      <point x="244" y="95" type="line"/>
+      <point x="244" y="145" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>1</integer>
+          <key>maxValue</key>
+          <integer>3</integer>
+          <key>minValue</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>Hauteur</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>1</integer>
+          <key>maxValue</key>
+          <integer>3</integer>
+          <key>minValue</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>Largeur</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>50</integer>
+          <key>maxValue</key>
+          <integer>50</integer>
+          <key>minValue</key>
+          <integer>40</integer>
+          <key>name</key>
+          <string>Erosion</string>
+        </dict>
+      </array>
       <key>robocjk.locationBase</key>
       <string>833e5beb</string>
       <key>robocjk.status</key>
