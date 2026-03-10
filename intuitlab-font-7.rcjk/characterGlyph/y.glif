@@ -180,7 +180,7 @@
           <key>coord</key>
           <dict>
             <key>HAUTEUR</key>
-            <real>17.8022288051911</real>
+            <real>12.3853858089999</real>
             <key>dedoublage</key>
             <integer>0</integer>
           </dict>
@@ -199,9 +199,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-21</integer>
+            <integer>-54</integer>
             <key>y</key>
-            <integer>-133</integer>
+            <integer>-222</integer>
           </dict>
         </dict>
         <dict>
@@ -255,63 +255,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-21</integer>
-            <key>y</key>
-            <integer>-133</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>HAUTEUR</key>
-            <real>12.3853858089999</real>
-            <key>dedoublage</key>
-            <integer>0</integer>
-          </dict>
-          <key>name</key>
-          <string>compotest</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>-54</integer>
-            <key>y</key>
-            <integer>-222</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>HAUTEUR</key>
-            <real>17.8022288051911</real>
-            <key>dedoublage</key>
-            <integer>0</integer>
-          </dict>
-          <key>name</key>
-          <string>compotest</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>-21</integer>
+            <integer>-17</integer>
             <key>y</key>
             <integer>-133</integer>
           </dict>
@@ -331,7 +275,7 @@
             <key>rotation</key>
             <integer>0</integer>
             <key>scalex</key>
-            <integer>-1</integer>
+            <integer>1</integer>
             <key>scaley</key>
             <integer>1</integer>
             <key>tcenterx</key>
@@ -339,7 +283,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>260</integer>
+            <integer>-120</integer>
             <key>y</key>
             <integer>-445</integer>
           </dict>
@@ -416,7 +360,7 @@
                 <key>HAUTEUR</key>
                 <real>17.8022288051911</real>
                 <key>dedoublage</key>
-                <integer>0</integer>
+                <integer>100</integer>
               </dict>
               <key>name</key>
               <string>compotest</string>
@@ -444,7 +388,7 @@
                 <key>HAUTEUR</key>
                 <real>12.3853858089999</real>
                 <key>dedoublage</key>
-                <integer>0</integer>
+                <integer>100</integer>
               </dict>
               <key>name</key>
               <string>compotest</string>
@@ -461,7 +405,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-120</integer>
+                <integer>15</integer>
                 <key>y</key>
                 <integer>-222</integer>
               </dict>
@@ -472,7 +416,7 @@
                 <key>HAUTEUR</key>
                 <real>11.482578642968</real>
                 <key>dedoublage</key>
-                <integer>0</integer>
+                <integer>100</integer>
               </dict>
               <key>name</key>
               <string>compotest</string>
@@ -489,7 +433,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-87</integer>
+                <integer>189</integer>
                 <key>y</key>
                 <integer>-304</integer>
               </dict>
@@ -517,7 +461,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-54</integer>
+                <integer>356</integer>
                 <key>y</key>
                 <integer>-222</integer>
               </dict>
@@ -545,7 +489,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>392</integer>
+                <integer>1067</integer>
                 <key>y</key>
                 <integer>-64</integer>
               </dict>
@@ -582,34 +526,6 @@
               <key>coord</key>
               <dict>
                 <key>HAUTEUR</key>
-                <real>17.8022288051911</real>
-                <key>dedoublage</key>
-                <integer>0</integer>
-              </dict>
-              <key>name</key>
-              <string>compotest</string>
-              <key>transform</key>
-              <dict>
-                <key>rotation</key>
-                <integer>0</integer>
-                <key>scalex</key>
-                <integer>1</integer>
-                <key>scaley</key>
-                <integer>1</integer>
-                <key>tcenterx</key>
-                <integer>0</integer>
-                <key>tcentery</key>
-                <integer>0</integer>
-                <key>x</key>
-                <integer>-21</integer>
-                <key>y</key>
-                <integer>-133</integer>
-              </dict>
-            </dict>
-            <dict>
-              <key>coord</key>
-              <dict>
-                <key>HAUTEUR</key>
                 <real>12.3853858089999</real>
                 <key>dedoublage</key>
                 <integer>0</integer>
@@ -629,37 +545,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-54</integer>
+                <integer>356</integer>
                 <key>y</key>
                 <integer>-222</integer>
-              </dict>
-            </dict>
-            <dict>
-              <key>coord</key>
-              <dict>
-                <key>HAUTEUR</key>
-                <real>17.8022288051911</real>
-                <key>dedoublage</key>
-                <integer>0</integer>
-              </dict>
-              <key>name</key>
-              <string>compotest</string>
-              <key>transform</key>
-              <dict>
-                <key>rotation</key>
-                <integer>0</integer>
-                <key>scalex</key>
-                <integer>1</integer>
-                <key>scaley</key>
-                <integer>1</integer>
-                <key>tcenterx</key>
-                <integer>0</integer>
-                <key>tcentery</key>
-                <integer>0</integer>
-                <key>x</key>
-                <integer>-21</integer>
-                <key>y</key>
-                <integer>-133</integer>
               </dict>
             </dict>
             <dict>
@@ -668,7 +556,7 @@
                 <key>HAUTEUR</key>
                 <real>12.3853858089999</real>
                 <key>dedoublage</key>
-                <integer>0</integer>
+                <integer>100</integer>
               </dict>
               <key>name</key>
               <string>compotest</string>
@@ -685,7 +573,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-54</integer>
+                <integer>356</integer>
                 <key>y</key>
                 <integer>-222</integer>
               </dict>
@@ -696,7 +584,7 @@
                 <key>HAUTEUR</key>
                 <real>17.8022288051911</real>
                 <key>dedoublage</key>
-                <integer>0</integer>
+                <integer>100</integer>
               </dict>
               <key>name</key>
               <string>compotest</string>
@@ -713,9 +601,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-21</integer>
+                <integer>527</integer>
                 <key>y</key>
-                <integer>-133</integer>
+                <integer>-135</integer>
               </dict>
             </dict>
             <dict>
@@ -724,7 +612,7 @@
                 <key>HAUTEUR</key>
                 <integer>4</integer>
                 <key>dedoublage</key>
-                <integer>0</integer>
+                <integer>100</integer>
               </dict>
               <key>name</key>
               <string>compotest</string>
@@ -733,7 +621,7 @@
                 <key>rotation</key>
                 <integer>0</integer>
                 <key>scalex</key>
-                <integer>-1</integer>
+                <integer>1</integer>
                 <key>scaley</key>
                 <integer>1</integer>
                 <key>tcenterx</key>
@@ -741,7 +629,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>260</integer>
+                <integer>15</integer>
                 <key>y</key>
                 <integer>-445</integer>
               </dict>
@@ -780,7 +668,7 @@
                 <key>HAUTEUR</key>
                 <integer>4</integer>
                 <key>dedoublage</key>
-                <integer>0</integer>
+                <integer>100</integer>
               </dict>
               <key>name</key>
               <string>compotest</string>
