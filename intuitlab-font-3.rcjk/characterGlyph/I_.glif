@@ -16,7 +16,7 @@
             <key>goutte</key>
             <integer>0</integer>
             <key>hauteur</key>
-            <real>53.9145154464664</real>
+            <real>54.8173226124982</real>
           </dict>
           <key>name</key>
           <string>compoA</string>
@@ -36,29 +36,6 @@
             <integer>287</integer>
             <key>y</key>
             <integer>357</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict/>
-          <key>name</key>
-          <string>compoh</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>360</integer>
-            <key>y</key>
-            <integer>0</integer>
           </dict>
         </dict>
       </array>
