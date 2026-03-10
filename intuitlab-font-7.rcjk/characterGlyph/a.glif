@@ -31,7 +31,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>49</integer>
+            <integer>45</integer>
             <key>y</key>
             <integer>-41</integer>
           </dict>
@@ -59,7 +59,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>115</integer>
+            <integer>111</integer>
             <key>y</key>
             <integer>-187</integer>
           </dict>
@@ -87,7 +87,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>82</integer>
+            <integer>78</integer>
             <key>y</key>
             <integer>-63</integer>
           </dict>
@@ -115,7 +115,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>148</integer>
+            <integer>144</integer>
             <key>y</key>
             <integer>-187</integer>
           </dict>
@@ -143,7 +143,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>16</integer>
+            <integer>12</integer>
             <key>y</key>
             <integer>-63</integer>
           </dict>
@@ -171,7 +171,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-17</integer>
+            <integer>-21</integer>
             <key>y</key>
             <integer>-95</integer>
           </dict>
@@ -199,7 +199,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-50</integer>
+            <integer>-54</integer>
             <key>y</key>
             <integer>-115</integer>
           </dict>
@@ -227,7 +227,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>49</integer>
+            <integer>45</integer>
             <key>y</key>
             <integer>-215</integer>
           </dict>
@@ -255,7 +255,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>82</integer>
+            <integer>78</integer>
             <key>y</key>
             <integer>-233</integer>
           </dict>
@@ -283,7 +283,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>16</integer>
+            <integer>12</integer>
             <key>y</key>
             <integer>-233</integer>
           </dict>
@@ -311,7 +311,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-17</integer>
+            <integer>-21</integer>
             <key>y</key>
             <integer>-285</integer>
           </dict>
@@ -339,7 +339,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>49</integer>
+            <integer>45</integer>
             <key>y</key>
             <integer>-373</integer>
           </dict>
@@ -367,7 +367,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>82</integer>
+            <integer>78</integer>
             <key>y</key>
             <integer>-353</integer>
           </dict>
@@ -395,7 +395,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>16</integer>
+            <integer>12</integer>
             <key>y</key>
             <integer>-353</integer>
           </dict>
@@ -423,7 +423,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-50</integer>
+            <integer>-54</integer>
             <key>y</key>
             <integer>-291</integer>
           </dict>
@@ -436,7 +436,7 @@
             <key>dedoublage</key>
             <integer>0</integer>
             <key>longueur</key>
-            <integer>46</integer>
+            <real>29.4864559819413</real>
           </dict>
           <key>name</key>
           <string>longeur</string>
@@ -453,7 +453,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>109</integer>
+            <integer>107</integer>
             <key>y</key>
             <integer>-141</integer>
           </dict>
@@ -886,6 +886,36 @@
                 <integer>-50</integer>
                 <key>y</key>
                 <integer>-291</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>HAUTEUR</key>
+                <integer>0</integer>
+                <key>dedoublage</key>
+                <integer>0</integer>
+                <key>longueur</key>
+                <integer>100</integer>
+              </dict>
+              <key>name</key>
+              <string>longeur</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>501</integer>
+                <key>y</key>
+                <integer>-140</integer>
               </dict>
             </dict>
           </array>
