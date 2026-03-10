@@ -11,6 +11,19 @@
   </outline>
   <lib>
     <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>700</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>500</integer>
+          <key>name</key>
+          <string>height</string>
+        </dict>
+      </array>
       <key>robocjk.locationBase</key>
       <string>fae974f5</string>
       <key>robocjk.status</key>
