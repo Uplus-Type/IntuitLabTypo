@@ -16,7 +16,7 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <integer>0</integer>
+            <integer>90</integer>
             <key>scalex</key>
             <integer>1</integer>
             <key>scaley</key>
@@ -26,9 +26,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>563</integer>
             <key>y</key>
-            <integer>0</integer>
+            <integer>447</integer>
           </dict>
         </dict>
       </array>
