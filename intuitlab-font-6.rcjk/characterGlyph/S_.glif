@@ -32,39 +32,6 @@
       <string>833e5beb</string>
       <key>robocjk.status</key>
       <integer>0</integer>
-      <key>robocjk.variationGlyphs</key>
-      <array>
-        <dict>
-          <key>layerName</key>
-          <string>carré petit</string>
-          <key>location</key>
-          <dict>
-            <key>weight</key>
-            <integer>100</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>carré petit</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>carré haut</string>
-          <key>location</key>
-          <dict>
-            <key>height</key>
-            <real>720.812009553054</real>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>carré haut</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-      </array>
     </dict>
   </lib>
 </glyph>
