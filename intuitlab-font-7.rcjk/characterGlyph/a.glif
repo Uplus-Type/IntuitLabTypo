@@ -428,66 +428,6 @@
             <integer>-291</integer>
           </dict>
         </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>HAUTEUR</key>
-            <integer>0</integer>
-            <key>dedoublage</key>
-            <integer>0</integer>
-            <key>longueur</key>
-            <integer>0</integer>
-          </dict>
-          <key>name</key>
-          <string>longeur</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>38</integer>
-            <key>y</key>
-            <integer>-170</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>HAUTEUR</key>
-            <integer>0</integer>
-            <key>dedoublage</key>
-            <integer>0</integer>
-            <key>longueur</key>
-            <real>19.4977426636569</real>
-          </dict>
-          <key>name</key>
-          <string>longeur</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>38</integer>
-            <key>y</key>
-            <integer>-331</integer>
-          </dict>
-        </dict>
       </array>
       <key>robocjk.locationBase</key>
       <string>94b5e04d</string>
@@ -916,70 +856,6 @@
                 <integer>-50</integer>
                 <key>y</key>
                 <integer>-291</integer>
-              </dict>
-            </dict>
-            <dict>
-              <key>coord</key>
-              <dict>
-                <key>HAUTEUR</key>
-                <integer>0</integer>
-                <key>dedoublage</key>
-                <integer>0</integer>
-                <key>longueur</key>
-                <real>84.2268623024831</real>
-                <key>tournicoton</key>
-                <integer>100</integer>
-              </dict>
-              <key>name</key>
-              <string>longeur</string>
-              <key>transform</key>
-              <dict>
-                <key>rotation</key>
-                <integer>0</integer>
-                <key>scalex</key>
-                <integer>1</integer>
-                <key>scaley</key>
-                <integer>1</integer>
-                <key>tcenterx</key>
-                <integer>0</integer>
-                <key>tcentery</key>
-                <integer>0</integer>
-                <key>x</key>
-                <integer>501</integer>
-                <key>y</key>
-                <integer>-140</integer>
-              </dict>
-            </dict>
-            <dict>
-              <key>coord</key>
-              <dict>
-                <key>HAUTEUR</key>
-                <integer>0</integer>
-                <key>dedoublage</key>
-                <integer>0</integer>
-                <key>longueur</key>
-                <real>85.81405191873591</real>
-                <key>tournicoton</key>
-                <integer>100</integer>
-              </dict>
-              <key>name</key>
-              <string>longeur</string>
-              <key>transform</key>
-              <dict>
-                <key>rotation</key>
-                <integer>0</integer>
-                <key>scalex</key>
-                <integer>1</integer>
-                <key>scaley</key>
-                <integer>1</integer>
-                <key>tcenterx</key>
-                <integer>0</integer>
-                <key>tcentery</key>
-                <integer>0</integer>
-                <key>x</key>
-                <integer>497</integer>
-                <key>y</key>
-                <integer>-302</integer>
               </dict>
             </dict>
           </array>
