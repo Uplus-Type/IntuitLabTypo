@@ -227,19 +227,19 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>41.450792533972674</real>
+            <real>40.545196168406704</real>
             <key>scalex</key>
             <integer>1</integer>
             <key>scaley</key>
-            <integer>1</integer>
+            <real>1.0000000000000002</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>160.25667792033994</real>
+            <integer>156</integer>
             <key>y</key>
-            <real>305.6079398446232</real>
+            <integer>304</integer>
           </dict>
         </dict>
         <dict>
@@ -253,19 +253,19 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>41.450792533972674</real>
+            <real>40.545196168406704</real>
             <key>scalex</key>
             <integer>1</integer>
             <key>scaley</key>
-            <integer>1</integer>
+            <real>1.0000000000000002</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>290.5394839160148</real>
+            <integer>284</integer>
             <key>y</key>
-            <real>158.2363331427441</real>
+            <integer>154</integer>
           </dict>
         </dict>
         <dict>
@@ -279,7 +279,7 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>39.9566962324104</real>
+            <real>39.05109986684443</real>
             <key>scalex</key>
             <real>0.9999999999999999</real>
             <key>scaley</key>
@@ -289,9 +289,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>415.747384232312</real>
+            <integer>408</integer>
             <key>y</key>
-            <real>7.993257766924572</real>
+            <integer>1</integer>
           </dict>
         </dict>
       </array>
