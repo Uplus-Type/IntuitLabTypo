@@ -11,6 +11,8 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>Taille</key>
+            <real>411.021943573668</real>
             <key>height</key>
             <integer>500</integer>
           </dict>
@@ -117,7 +119,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>98</integer>
+            <integer>81</integer>
             <key>y</key>
             <integer>-3</integer>
           </dict>
