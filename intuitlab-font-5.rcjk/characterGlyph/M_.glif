@@ -9,11 +9,8 @@
       <point x="9" y="554"/>
       <point x="9" y="500" type="curve"/>
       <point x="65" y="500" type="line"/>
-      <point x="117" y="477"/>
-      <point x="144" y="384"/>
-      <point x="181" y="359" type="curve" smooth="yes"/>
-      <point x="187" y="355"/>
-      <point x="192" y="353"/>
+      <point x="124" y="474"/>
+      <point x="152" y="355"/>
       <point x="198" y="353" type="curve"/>
       <point x="244" y="355"/>
       <point x="272" y="474"/>
@@ -92,7 +89,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>322</integer>
+            <integer>298</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
