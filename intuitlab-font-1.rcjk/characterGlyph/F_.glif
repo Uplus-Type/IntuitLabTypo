@@ -68,16 +68,16 @@
           <key>coord</key>
           <dict>
             <key>Epaisseur</key>
-            <integer>400</integer>
+            <real>410.962189616253</real>
             <key>Taille</key>
-            <integer>100</integer>
+            <real>250.021162528217</real>
           </dict>
           <key>name</key>
           <string>02</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <integer>0</integer>
+            <integer>90</integer>
             <key>scalex</key>
             <integer>1</integer>
             <key>scaley</key>
@@ -87,9 +87,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>305</integer>
             <key>y</key>
-            <integer>0</integer>
+            <integer>285</integer>
           </dict>
         </dict>
       </array>
