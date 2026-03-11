@@ -31,7 +31,63 @@
             <key>x</key>
             <integer>9</integer>
             <key>y</key>
-            <integer>613</integer>
+            <integer>614</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>Br</key>
+            <integer>0</integer>
+            <key>Hauteur</key>
+            <real>613.102990970655</real>
+          </dict>
+          <key>name</key>
+          <string>pied</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>Br</key>
+            <integer>0</integer>
+            <key>Hauteur</key>
+            <integer>614</integer>
+          </dict>
+          <key>name</key>
+          <string>pied</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>229</integer>
+            <key>y</key>
+            <integer>0</integer>
           </dict>
         </dict>
       </array>
