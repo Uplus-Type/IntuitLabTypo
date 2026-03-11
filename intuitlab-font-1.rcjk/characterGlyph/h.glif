@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="h" format="2">
+  <advance width="500"/>
+  <unicode hex="0068"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>height</key>
+            <integer>400</integer>
+          </dict>
+          <key>name</key>
+          <string>01</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>-81.39364548327892</real>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>14</integer>
+            <key>y</key>
+            <integer>414</integer>
+          </dict>
+        </dict>
+      </array>
+      <key>robocjk.locationBase</key>
+      <string>fae974f5</string>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
