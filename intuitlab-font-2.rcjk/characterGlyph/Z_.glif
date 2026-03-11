@@ -305,19 +305,19 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-43.795351692627825</real>
+            <real>-46.95072240671866</real>
             <key>scalex</key>
             <real>0.9999999999999999</real>
             <key>scaley</key>
-            <real>1.0000000000000002</real>
+            <real>1.0000000000000004</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>654</integer>
+            <integer>1291</integer>
             <key>y</key>
-            <integer>2</integer>
+            <integer>6</integer>
           </dict>
         </dict>
         <dict>
@@ -331,19 +331,19 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-43.795351692627825</real>
+            <real>-46.95072240671866</real>
             <key>scalex</key>
             <real>0.9999999999999999</real>
             <key>scaley</key>
-            <real>1.0000000000000002</real>
+            <real>1.0000000000000004</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>790.6242682240209</real>
+            <real>1435.934304838391</real>
             <key>y</key>
-            <real>144.21044030678905</real>
+            <real>140.91496314720746</real>
           </dict>
         </dict>
         <dict>
@@ -357,19 +357,19 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-43.795351692627825</real>
+            <real>-46.95072240671866</real>
             <key>scalex</key>
             <real>0.9999999999999999</real>
             <key>scaley</key>
-            <real>1.0000000000000002</real>
+            <real>1.0000000000000004</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>927.2485364480417</real>
+            <real>1579.868840848957</real>
             <key>y</key>
-            <real>286.42088061357805</real>
+            <real>275.8514272457715</real>
           </dict>
         </dict>
         <dict>
@@ -383,19 +383,19 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-43.795351692627825</real>
+            <real>-46.95072240671866</real>
             <key>scalex</key>
             <real>0.9999999999999999</real>
             <key>scaley</key>
-            <real>1.0000000000000002</real>
+            <real>1.0000000000000004</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>1061.7340649463695</real>
+            <real>1721.7608373011594</real>
             <key>y</key>
-            <real>427.97879323073096</real>
+            <real>408.831355591399</real>
           </dict>
         </dict>
         <dict>
@@ -419,9 +419,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>1494</integer>
+            <integer>1477</integer>
             <key>y</key>
-            <integer>6</integer>
+            <integer>551</integer>
           </dict>
         </dict>
         <dict>
@@ -445,9 +445,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>1688</integer>
+            <integer>1671</integer>
             <key>y</key>
-            <integer>6</integer>
+            <integer>551</integer>
           </dict>
         </dict>
         <dict>
@@ -471,9 +471,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>1303</integer>
+            <integer>1286</integer>
             <key>y</key>
-            <integer>6</integer>
+            <integer>551</integer>
           </dict>
         </dict>
         <dict>
