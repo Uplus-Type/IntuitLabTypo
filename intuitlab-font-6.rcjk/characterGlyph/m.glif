@@ -835,15 +835,15 @@
             <key>rotation</key>
             <integer>0</integer>
             <key>scalex</key>
-            <integer>-1</integer>
+            <integer>1</integer>
             <key>scaley</key>
-            <integer>-1</integer>
+            <integer>1</integer>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>500</integer>
+            <integer>450</integer>
             <key>y</key>
             <integer>250</integer>
           </dict>
@@ -2045,15 +2045,15 @@
                 <key>rotation</key>
                 <integer>0</integer>
                 <key>scalex</key>
-                <integer>-1</integer>
+                <integer>1</integer>
                 <key>scaley</key>
-                <integer>-1</integer>
+                <integer>1</integer>
                 <key>tcenterx</key>
                 <integer>0</integer>
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>500</integer>
+                <integer>450</integer>
                 <key>y</key>
                 <integer>250</integer>
               </dict>
