@@ -29,16 +29,16 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>144</integer>
+            <integer>128</integer>
             <key>y</key>
-            <integer>195</integer>
+            <integer>199</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
             <key>Epaisseur</key>
-            <integer>400</integer>
+            <integer>100</integer>
             <key>Taille</key>
             <real>618.805590851334</real>
           </dict>
@@ -57,9 +57,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>225</integer>
+            <integer>209</integer>
             <key>y</key>
-            <integer>73</integer>
+            <integer>77</integer>
           </dict>
         </dict>
         <dict>
@@ -115,9 +115,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>65</integer>
+            <integer>46</integer>
             <key>y</key>
-            <integer>196</integer>
+            <integer>199</integer>
           </dict>
         </dict>
         <dict>
@@ -145,9 +145,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>249</integer>
+            <integer>230</integer>
             <key>y</key>
-            <integer>82</integer>
+            <integer>85</integer>
           </dict>
         </dict>
       </array>
