@@ -174,7 +174,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>68</integer>
+                <integer>39</integer>
                 <key>y</key>
                 <integer>0</integer>
               </dict>
@@ -197,9 +197,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>65</integer>
+                <integer>38</integer>
                 <key>y</key>
-                <integer>0</integer>
+                <integer>-21</integer>
               </dict>
             </dict>
             <dict>
@@ -243,9 +243,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-30</integer>
+                <integer>-22</integer>
                 <key>y</key>
-                <integer>0</integer>
+                <integer>-14</integer>
               </dict>
             </dict>
             <dict>
@@ -266,9 +266,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <real>-77.63939868889635</real>
+                <integer>-113</integer>
                 <key>y</key>
-                <real>-189.70983100778724</real>
+                <integer>-190</integer>
               </dict>
             </dict>
             <dict>
@@ -306,7 +306,7 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string></string>
+          <string>source_1</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
