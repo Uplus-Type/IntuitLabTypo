@@ -6,9 +6,9 @@
     <contour>
       <point x="99" y="500" type="curve"/>
       <point x="335" y="429"/>
-      <point x="89" y="-50"/>
-      <point x="473" y="9" type="curve"/>
-      <point x="328" y="180"/>
+      <point x="95" y="-58"/>
+      <point x="479" y="1" type="curve"/>
+      <point x="334" y="172"/>
       <point x="373" y="532"/>
     </contour>
   </outline>
