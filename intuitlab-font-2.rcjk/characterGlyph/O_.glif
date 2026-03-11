@@ -11,36 +11,6 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>One</key>
-            <integer>100</integer>
-            <key>Three</key>
-            <integer>100</integer>
-            <key>Two</key>
-            <integer>100</integer>
-          </dict>
-          <key>name</key>
-          <string>composant4</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>180</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>893</integer>
-            <key>y</key>
-            <integer>590</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
             <key>inflate</key>
             <integer>60</integer>
           </dict>
