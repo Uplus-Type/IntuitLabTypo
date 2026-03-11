@@ -2,6 +2,38 @@
 <glyph name="tigecarreplat" format="2">
   <advance width="500"/>
   <outline>
+    <contour>
+      <point x="127" y="0" type="line"/>
+      <point x="497" y="0" type="line"/>
+      <point x="497" y="0" type="line"/>
+      <point x="503" y="0" type="line"/>
+      <point x="503" y="279" type="line"/>
+      <point x="503" y="279" type="line"/>
+      <point x="503" y="279" type="line"/>
+      <point x="367" y="279" type="line"/>
+      <point x="367" y="197" type="line"/>
+      <point x="491" y="197" type="line"/>
+      <point x="491" y="12" type="line"/>
+      <point x="127" y="12" type="line"/>
+    </contour>
+    <contour>
+      <point x="127" y="738" type="line"/>
+      <point x="366" y="738" type="line"/>
+      <point x="366" y="666" type="line"/>
+      <point x="499" y="666" type="line"/>
+      <point x="499" y="750" type="line"/>
+      <point x="127" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="127" y="751" type="line"/>
+      <point x="127" y="738" type="line"/>
+      <point x="366" y="738" type="line"/>
+      <point x="366" y="666" type="line"/>
+      <point x="499" y="666" type="line"/>
+      <point x="499" y="738" type="line"/>
+      <point x="500" y="738" type="line"/>
+      <point x="500" y="751" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

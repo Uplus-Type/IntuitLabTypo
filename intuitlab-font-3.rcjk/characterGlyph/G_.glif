@@ -1,8 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="I" format="2">
+<glyph name="G" format="2">
   <advance width="500"/>
-  <unicode hex="0049"/>
+  <unicode hex="0047"/>
   <outline>
+    <contour>
+      <point x="127" y="0" type="line"/>
+      <point x="497" y="0" type="line"/>
+      <point x="497" y="0" type="line"/>
+      <point x="503" y="0" type="line"/>
+      <point x="503" y="279" type="line"/>
+      <point x="503" y="279" type="line"/>
+      <point x="503" y="279" type="line"/>
+      <point x="367" y="279" type="line"/>
+      <point x="367" y="197" type="line"/>
+      <point x="491" y="197" type="line"/>
+      <point x="491" y="12" type="line"/>
+      <point x="127" y="12" type="line"/>
+    </contour>
+    <contour>
+      <point x="127" y="738" type="line"/>
+      <point x="367" y="738" type="line"/>
+      <point x="367" y="666" type="line"/>
+      <point x="503" y="666" type="line"/>
+      <point x="503" y="750" type="line"/>
+      <point x="127" y="750" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -12,7 +34,7 @@
           <key>coord</key>
           <dict/>
           <key>name</key>
-          <string>tige</string>
+          <string>gelar</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -26,30 +48,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-366</integer>
-            <key>y</key>
             <integer>0</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict/>
-          <key>name</key>
-          <string>tigeenvers</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>-245</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>

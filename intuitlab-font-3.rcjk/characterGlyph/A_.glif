@@ -1,8 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="I" format="2">
+<glyph name="A" format="2">
   <advance width="500"/>
-  <unicode hex="0049"/>
+  <unicode hex="0041"/>
   <outline>
+    <contour>
+      <point x="127" y="355" type="line"/>
+      <point x="268" y="355" type="line"/>
+      <point x="268" y="355"/>
+      <point x="375" y="84"/>
+      <point x="375" y="84" type="curve"/>
+      <point x="252" y="84" type="line"/>
+      <point x="252" y="0" type="line"/>
+      <point x="388" y="0" type="line"/>
+      <point x="388" y="84" type="line"/>
+      <point x="388" y="84" type="line"/>
+      <point x="388" y="84" type="line"/>
+      <point x="388" y="84" type="line"/>
+      <point x="127" y="749" type="line"/>
+      <point x="127" y="714" type="line"/>
+      <point x="263" y="366" type="line"/>
+      <point x="127" y="366" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -12,7 +30,7 @@
           <key>coord</key>
           <dict/>
           <key>name</key>
-          <string>tige</string>
+          <string>gelar</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -26,30 +44,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-366</integer>
-            <key>y</key>
             <integer>0</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict/>
-          <key>name</key>
-          <string>tigeenvers</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>-245</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
