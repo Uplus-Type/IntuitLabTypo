@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tigediagonale" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="468" y="7" type="curve"/>
+      <point x="472" y="7"/>
+      <point x="477" y="7"/>
+      <point x="481" y="7" type="curve"/>
+      <point x="394" y="228"/>
+      <point x="307" y="450"/>
+      <point x="220" y="671" type="curve"/>
+      <point x="220" y="659"/>
+      <point x="220" y="648"/>
+      <point x="220" y="636" type="curve"/>
+      <point x="303" y="426"/>
+      <point x="385" y="217"/>
+    </contour>
+  </outline>
+</glyph>
