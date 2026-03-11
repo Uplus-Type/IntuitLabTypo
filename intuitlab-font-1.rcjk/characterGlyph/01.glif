@@ -18,9 +18,9 @@
       <point x="383" y="69" type="curve"/>
       <point x="383" y="74" type="line"/>
       <point x="347" y="49"/>
-      <point x="304" y="34"/>
-      <point x="257" y="34" type="curve" smooth="yes"/>
-      <point x="138" y="34"/>
+      <point x="304" y="35"/>
+      <point x="257" y="35" type="curve" smooth="yes"/>
+      <point x="138" y="35"/>
       <point x="42" y="130"/>
       <point x="42" y="249" type="curve" smooth="yes"/>
       <point x="42" y="368"/>
@@ -78,6 +78,21 @@
           <true/>
           <key>sourceName</key>
           <string>height</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>Epaisseur 100</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>Epaisseur 100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
