@@ -31,7 +31,7 @@
             <key>x</key>
             <integer>147</integer>
             <key>y</key>
-            <integer>509</integer>
+            <integer>527</integer>
           </dict>
         </dict>
         <dict>
@@ -57,7 +57,7 @@
             <key>x</key>
             <integer>147</integer>
             <key>y</key>
-            <integer>707</integer>
+            <integer>725</integer>
           </dict>
         </dict>
         <dict>
@@ -83,7 +83,7 @@
             <key>x</key>
             <integer>344</integer>
             <key>y</key>
-            <integer>707</integer>
+            <integer>725</integer>
           </dict>
         </dict>
         <dict>
@@ -97,7 +97,7 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>42.00000000000002</real>
+            <real>39.00000000000002</real>
             <key>scalex</key>
             <real>-0.9999999999999999</real>
             <key>scaley</key>
@@ -109,7 +109,7 @@
             <key>x</key>
             <integer>-24</integer>
             <key>y</key>
-            <integer>608</integer>
+            <integer>623</integer>
           </dict>
         </dict>
         <dict>
