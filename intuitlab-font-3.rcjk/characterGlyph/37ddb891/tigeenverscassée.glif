@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tigeenverscassée" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="395" y="84" type="curve"/>
+      <point x="414" y="20"/>
+      <point x="411" y="-21"/>
+      <point x="328" y="50" type="curve"/>
+      <point x="338" y="-16"/>
+      <point x="330" y="-1"/>
+      <point x="299" y="-15" type="curve"/>
+      <point x="344" y="-15"/>
+      <point x="389" y="-16"/>
+      <point x="434" y="-16" type="curve"/>
+      <point x="434" y="12"/>
+      <point x="420" y="52"/>
+      <point x="408" y="84" type="curve"/>
+      <point x="408" y="84" type="line"/>
+      <point x="408" y="84" type="line"/>
+      <point x="408" y="84" type="line"/>
+      <point x="334" y="272"/>
+      <point x="260" y="460"/>
+      <point x="187" y="648" type="curve" smooth="yes"/>
+      <point x="173" y="682"/>
+      <point x="160" y="715"/>
+      <point x="147" y="749" type="curve"/>
+      <point x="147" y="737"/>
+      <point x="147" y="726"/>
+      <point x="147" y="714" type="curve"/>
+      <point x="157" y="688"/>
+      <point x="180" y="661"/>
+      <point x="180" y="628" type="curve" smooth="yes"/>
+      <point x="178" y="391"/>
+      <point x="315" y="286"/>
+      <point x="359" y="174" type="curve" smooth="yes"/>
+      <point x="381" y="119"/>
+      <point x="395" y="84"/>
+    </contour>
+  </outline>
+</glyph>

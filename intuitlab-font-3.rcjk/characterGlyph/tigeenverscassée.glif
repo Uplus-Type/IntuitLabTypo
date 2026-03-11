@@ -4,16 +4,37 @@
   <outline>
     <contour>
       <point x="395" y="84" type="curve"/>
-      <point x="272" y="84" type="line"/>
-      <point x="272" y="0" type="line"/>
-      <point x="408" y="0" type="line"/>
+      <point x="354" y="84"/>
+      <point x="313" y="84"/>
+      <point x="272" y="84" type="curve"/>
+      <point x="272" y="56"/>
+      <point x="272" y="28"/>
+      <point x="272" y="0" type="curve"/>
+      <point x="317" y="0"/>
+      <point x="363" y="0"/>
+      <point x="408" y="0" type="curve"/>
+      <point x="408" y="28"/>
+      <point x="408" y="56"/>
+      <point x="408" y="84" type="curve"/>
       <point x="408" y="84" type="line"/>
       <point x="408" y="84" type="line"/>
       <point x="408" y="84" type="line"/>
-      <point x="408" y="84" type="line"/>
-      <point x="147" y="749" type="line"/>
-      <point x="147" y="714" type="line"/>
-      <point x="229.14840656040678" y="503.7967243895474"/>
+      <point x="334" y="272"/>
+      <point x="260" y="460"/>
+      <point x="187" y="648" type="curve" smooth="yes"/>
+      <point x="173" y="682"/>
+      <point x="160" y="715"/>
+      <point x="147" y="749" type="curve"/>
+      <point x="147" y="737"/>
+      <point x="147" y="726"/>
+      <point x="147" y="714" type="curve"/>
+      <point x="157" y="688"/>
+      <point x="168" y="659"/>
+      <point x="180" y="628" type="curve" smooth="yes"/>
+      <point x="239" y="480"/>
+      <point x="315" y="286"/>
+      <point x="359" y="174" type="curve" smooth="yes"/>
+      <point x="381" y="119"/>
       <point x="395" y="84"/>
     </contour>
   </outline>
@@ -23,6 +44,23 @@
       <string>ff54fce8</string>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>37ddb891</string>
+          <key>location</key>
+          <dict/>
+          <key>locationBase</key>
+          <string>37ddb891</string>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string></string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>
