@@ -40,9 +40,9 @@
           <key>coord</key>
           <dict>
             <key>Taille Arche</key>
-            <real>594.82223476298</real>
+            <integer>720</integer>
             <key>Taille Boule Min</key>
-            <integer>400</integer>
+            <integer>1000</integer>
           </dict>
           <key>name</key>
           <string>01</string>
@@ -59,9 +59,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>472</integer>
+            <integer>562</integer>
             <key>y</key>
-            <integer>0</integer>
+            <integer>132</integer>
           </dict>
         </dict>
       </array>
