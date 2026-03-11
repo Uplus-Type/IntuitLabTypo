@@ -177,6 +177,23 @@
           <key>status</key>
           <integer>0</integer>
         </dict>
+        <dict>
+          <key>layerName</key>
+          <string>rounded=100,hauteur=3</string>
+          <key>location</key>
+          <dict>
+            <key>hauteur</key>
+            <integer>3</integer>
+            <key>rounded</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>rounded=100,hauteur=3</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
       </array>
     </dict>
   </lib>
