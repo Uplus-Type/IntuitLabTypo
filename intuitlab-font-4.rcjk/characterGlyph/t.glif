@@ -461,9 +461,35 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>104.787573348714</real>
+            <integer>179</integer>
             <key>y</key>
-            <real>144.6377241784523</real>
+            <integer>239</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>Grow</key>
+            <integer>20</integer>
+          </dict>
+          <key>name</key>
+          <string>fil2</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>-58.412683889792106</real>
+            <key>scalex</key>
+            <real>-0.9999999999999997</real>
+            <key>scaley</key>
+            <real>-0.9999999999999997</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>340</integer>
+            <key>y</key>
+            <integer>69</integer>
           </dict>
         </dict>
       </array>
