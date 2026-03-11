@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon" format="2">
+  <advance width="500"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="276" y="354" type="curve" smooth="yes"/>
+      <point x="276" y="365"/>
+      <point x="267" y="374"/>
+      <point x="256" y="374" type="curve" smooth="yes"/>
+      <point x="244" y="374"/>
+      <point x="235" y="365"/>
+      <point x="235" y="354" type="curve" smooth="yes"/>
+      <point x="235" y="342"/>
+      <point x="244" y="333"/>
+      <point x="256" y="333" type="curve" smooth="yes"/>
+      <point x="267" y="333"/>
+      <point x="276" y="342"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict/>
+          <key>name</key>
+          <string>03</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>-81.70582322646871</real>
+            <key>scalex</key>
+            <real>0.9999999999999999</real>
+            <key>scaley</key>
+            <real>-1.0000000000000002</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>416</integer>
+            <key>y</key>
+            <integer>420</integer>
+          </dict>
+        </dict>
+      </array>
+      <key>robocjk.locationBase</key>
+      <string>fae974f5</string>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
