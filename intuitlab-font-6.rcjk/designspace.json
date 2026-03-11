@@ -26,12 +26,12 @@
                 "tag": "LOSAN"
             },
             {
-                "defaultValue": 400,
-                "label": "Weight",
-                "maxValue": 900,
-                "minValue": 100,
-                "name": "weight",
-                "tag": "wght"
+                "defaultValue": 0,
+                "label": "Rounded",
+                "maxValue": 100,
+                "minValue": 0,
+                "name": "rounded",
+                "tag": "ROND"
             }
         ]
     },
