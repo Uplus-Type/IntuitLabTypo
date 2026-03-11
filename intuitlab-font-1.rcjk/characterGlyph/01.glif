@@ -115,8 +115,6 @@
           <string>Taille Boule Min </string>
           <key>location</key>
           <dict>
-            <key>Taille Arche</key>
-            <integer>1000</integer>
             <key>Taille Boule Min</key>
             <integer>100</integer>
           </dict>
@@ -126,6 +124,23 @@
           <true/>
           <key>sourceName</key>
           <string>Taille Boule Min </string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>Taille Boule Max</string>
+          <key>location</key>
+          <dict>
+            <key>Taille Boule Min</key>
+            <integer>1000</integer>
+          </dict>
+          <key>locationBase</key>
+          <string>fae974f5</string>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>Taille Boule Max</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
