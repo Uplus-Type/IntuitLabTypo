@@ -1606,7 +1606,7 @@
             <key>hauteur</key>
             <integer>1</integer>
             <key>largeur</key>
-            <integer>2</integer>
+            <integer>3</integer>
           </dict>
           <key>name</key>
           <string>compo_carré</string>
@@ -1623,7 +1623,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>300</integer>
+            <integer>250</integer>
             <key>y</key>
             <integer>350</integer>
           </dict>
@@ -3236,7 +3236,7 @@
                 <key>hauteur</key>
                 <integer>1</integer>
                 <key>largeur</key>
-                <integer>2</integer>
+                <integer>3</integer>
               </dict>
               <key>name</key>
               <string>compo_carré</string>
@@ -3253,7 +3253,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>300</integer>
+                <integer>250</integer>
                 <key>y</key>
                 <integer>350</integer>
               </dict>
