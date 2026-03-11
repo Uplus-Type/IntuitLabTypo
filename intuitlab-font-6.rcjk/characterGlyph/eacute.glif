@@ -1113,7 +1113,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>99</integer>
+            <integer>100</integer>
             <key>y</key>
             <integer>450</integer>
           </dict>
@@ -2263,7 +2263,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>99</integer>
+                <integer>100</integer>
                 <key>y</key>
                 <integer>450</integer>
               </dict>
