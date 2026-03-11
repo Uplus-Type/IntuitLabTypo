@@ -26,8 +26,10 @@
       <point x="347" y="38"/>
       <point x="97" y="38"/>
       <point x="97" y="232" type="curve"/>
-      <point x="96" y="613" type="line"/>
-      <point x="6" y="613" type="line"/>
+      <point x="96" y="612" type="line"/>
+    </contour>
+    <contour>
+      <point x="6" y="613" type="move"/>
       <point x="6" y="417"/>
       <point x="9" y="210"/>
       <point x="9" y="21" type="curve" smooth="yes"/>
@@ -65,35 +67,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>326</integer>
+            <integer>325</integer>
             <key>y</key>
             <integer>613</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>Hauteur</key>
-            <integer>333</integer>
-          </dict>
-          <key>name</key>
-          <string>tiret</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <real>0.7685028949997694</real>
-            <key>scaley</key>
-            <real>0.7685028949997694</real>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <real>34.67655170605457</real>
-            <key>y</key>
-            <real>129.05683610584794</real>
           </dict>
         </dict>
       </array>
