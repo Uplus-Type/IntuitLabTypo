@@ -139,16 +139,16 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>rounded</string>
+          <string>losange</string>
           <key>location</key>
           <dict>
-            <key>Rounded</key>
+            <key>rounded</key>
             <integer>100</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>rounded</string>
+          <string>losange</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
