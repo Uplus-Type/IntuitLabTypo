@@ -23,7 +23,7 @@
             <key>scalex</key>
             <integer>1</integer>
             <key>scaley</key>
-            <integer>1</integer>
+            <real>0.9951384729547388</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
