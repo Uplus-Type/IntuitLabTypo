@@ -27,7 +27,7 @@
           <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
-          <integer>1</integer>
+          <integer>750</integer>
           <key>minValue</key>
           <integer>0</integer>
           <key>name</key>
