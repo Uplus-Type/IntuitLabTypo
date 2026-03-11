@@ -12,7 +12,7 @@
           <key>coord</key>
           <dict>
             <key>hauteur</key>
-            <integer>100</integer>
+            <real>80.7420993227991</real>
           </dict>
           <key>name</key>
           <string>bas2</string>
@@ -47,17 +47,17 @@
             <key>rotation</key>
             <integer>0</integer>
             <key>scalex</key>
-            <real>0.46136048216864356</real>
+            <real>0.5957118859319526</real>
             <key>scaley</key>
-            <real>-0.46136048216864356</real>
+            <real>-0.5957118859319526</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>32.78111939784688</real>
+            <integer>-34</integer>
             <key>y</key>
-            <real>856.6561778802347</real>
+            <integer>867</integer>
           </dict>
         </dict>
       </array>
