@@ -196,7 +196,7 @@
             <key>hauteur</key>
             <integer>1</integer>
             <key>largeur</key>
-            <integer>2</integer>
+            <integer>1</integer>
           </dict>
           <key>name</key>
           <string>compo_carré</string>
@@ -1226,7 +1226,7 @@
                 <key>hauteur</key>
                 <integer>1</integer>
                 <key>largeur</key>
-                <integer>2</integer>
+                <integer>1</integer>
               </dict>
               <key>name</key>
               <string>compo_carré</string>
