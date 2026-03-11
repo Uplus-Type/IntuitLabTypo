@@ -302,6 +302,52 @@
           <key>status</key>
           <integer>0</integer>
         </dict>
+        <dict>
+          <key>fontraLayerName</key>
+          <string>Taille Arche=100,Taille Boule Min=100,Epaisseur Arche=100</string>
+          <key>layerName</key>
+          <string>Taille Arche=100,Taille Boule Min=100.935561c8dabd</string>
+          <key>location</key>
+          <dict>
+            <key>Epaisseur Arche</key>
+            <integer>100</integer>
+            <key>Taille Arche</key>
+            <integer>100</integer>
+            <key>Taille Boule Min</key>
+            <integer>100</integer>
+          </dict>
+          <key>locationBase</key>
+          <string>fae974f5</string>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>Taille Arche=100,Taille Boule Min=100,Epaisseur Arche=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>fontraLayerName</key>
+          <string>Taille Arche=100,Taille Boule Min=100,Epaisseur Arche=1000</string>
+          <key>layerName</key>
+          <string>Taille Arche=100,Taille Boule Min=100.8cc4a958c916</string>
+          <key>location</key>
+          <dict>
+            <key>Epaisseur Arche</key>
+            <integer>1000</integer>
+            <key>Taille Arche</key>
+            <integer>100</integer>
+            <key>Taille Boule Min</key>
+            <integer>100</integer>
+          </dict>
+          <key>locationBase</key>
+          <string>fae974f5</string>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>Taille Arche=100,Taille Boule Min=100,Epaisseur Arche=1000</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
       </array>
     </dict>
   </lib>
