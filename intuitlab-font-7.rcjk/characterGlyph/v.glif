@@ -33,7 +33,7 @@
             <key>x</key>
             <integer>-153</integer>
             <key>y</key>
-            <integer>-133</integer>
+            <integer>-94</integer>
           </dict>
         </dict>
         <dict>
@@ -201,7 +201,7 @@
             <key>x</key>
             <integer>-21</integer>
             <key>y</key>
-            <integer>-133</integer>
+            <integer>-94</integer>
           </dict>
         </dict>
       </array>
@@ -239,7 +239,7 @@
                 <key>x</key>
                 <integer>-153</integer>
                 <key>y</key>
-                <integer>-95</integer>
+                <integer>-94</integer>
               </dict>
             </dict>
             <dict>
@@ -407,7 +407,7 @@
                 <key>x</key>
                 <integer>507</integer>
                 <key>y</key>
-                <integer>-95</integer>
+                <integer>-94</integer>
               </dict>
             </dict>
           </array>
