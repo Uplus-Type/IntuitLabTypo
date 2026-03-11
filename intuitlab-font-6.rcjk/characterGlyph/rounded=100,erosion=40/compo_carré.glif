@@ -17,8 +17,8 @@
       <point x="24" y="46"/>
       <point x="24" y="46" type="curve"/>
       <point x="24" y="46" type="line"/>
-      <point x="24" y="46"/>
-      <point x="3" y="25"/>
+      <point x="24" y="43"/>
+      <point x="6" y="25"/>
     </contour>
   </outline>
 </glyph>
