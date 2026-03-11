@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="L" format="2">
+<glyph name="P" format="2">
   <advance width="500"/>
-  <unicode hex="004C"/>
+  <unicode hex="0050"/>
   <outline>
   </outline>
   <lib>
@@ -12,7 +12,7 @@
           <key>coord</key>
           <dict>
             <key>inflate</key>
-            <integer>60</integer>
+            <integer>50</integer>
           </dict>
           <key>name</key>
           <string>composant2</string>
@@ -38,7 +38,7 @@
           <key>coord</key>
           <dict>
             <key>inflate</key>
-            <integer>60</integer>
+            <integer>50</integer>
           </dict>
           <key>name</key>
           <string>composant2</string>
@@ -64,59 +64,7 @@
           <key>coord</key>
           <dict>
             <key>inflate</key>
-            <integer>60</integer>
-          </dict>
-          <key>name</key>
-          <string>composant2</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>-90</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>0</integer>
-            <key>y</key>
-            <integer>-1</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>inflate</key>
-            <integer>60</integer>
-          </dict>
-          <key>name</key>
-          <string>composant2</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>-90</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>198</integer>
-            <key>y</key>
-            <integer>-1</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>inflate</key>
-            <integer>60</integer>
+            <integer>50</integer>
           </dict>
           <key>name</key>
           <string>composant2</string>
@@ -142,7 +90,7 @@
           <key>coord</key>
           <dict>
             <key>inflate</key>
-            <integer>60</integer>
+            <integer>50</integer>
           </dict>
           <key>name</key>
           <string>composant2</string>
@@ -161,7 +109,111 @@
             <key>x</key>
             <integer>0</integer>
             <key>y</key>
-            <integer>590</integer>
+            <integer>592</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>inflate</key>
+            <integer>50</integer>
+          </dict>
+          <key>name</key>
+          <string>composant2</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>87.72913684257199</real>
+            <key>scalex</key>
+            <real>-0.9999999999999998</real>
+            <key>scaley</key>
+            <real>-1.0000000000000004</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>198</integer>
+            <key>x</key>
+            <real>197.6573368253644</real>
+            <key>y</key>
+            <real>582.8157387752855</real>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>inflate</key>
+            <integer>50</integer>
+          </dict>
+          <key>name</key>
+          <string>composant2</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>47.574950934605624</real>
+            <key>scalex</key>
+            <real>-0.9999999999999997</real>
+            <key>scaley</key>
+            <real>-1.0000000000000007</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>200</integer>
+            <key>y</key>
+            <integer>781</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>inflate</key>
+            <integer>50</integer>
+          </dict>
+          <key>name</key>
+          <string>composant2</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>-75.21173162793328</real>
+            <key>scalex</key>
+            <real>-0.9999999999999997</real>
+            <key>scaley</key>
+            <real>-1.0000000000000004</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>195</integer>
+            <key>y</key>
+            <integer>474</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>inflate</key>
+            <integer>50</integer>
+          </dict>
+          <key>name</key>
+          <string>composant2</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>-38.276368797988134</real>
+            <key>scalex</key>
+            <real>-0.9999999999999994</real>
+            <key>scaley</key>
+            <real>-1.0000000000000013</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>345</integer>
+            <key>y</key>
+            <integer>645</integer>
           </dict>
         </dict>
       </array>
