@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tigeenverscassée" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="395" y="84" type="curve"/>
+      <point x="272" y="84" type="line"/>
+      <point x="272" y="0" type="line"/>
+      <point x="408" y="0" type="line"/>
+      <point x="408" y="84" type="line"/>
+      <point x="408" y="84" type="line"/>
+      <point x="408" y="84" type="line"/>
+      <point x="408" y="84" type="line"/>
+      <point x="147" y="749" type="line"/>
+      <point x="147" y="714" type="line"/>
+      <point x="229.14840656040678" y="503.7967243895474"/>
+      <point x="395" y="84"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.locationBase</key>
+      <string>ff54fce8</string>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -3,24 +3,6 @@
   <advance width="428"/>
   <unicode hex="0041"/>
   <outline>
-    <contour>
-      <point x="147" y="355" type="line"/>
-      <point x="288" y="355" type="line"/>
-      <point x="288" y="355"/>
-      <point x="395" y="84"/>
-      <point x="395" y="84" type="curve"/>
-      <point x="272" y="84" type="line"/>
-      <point x="272" y="0" type="line"/>
-      <point x="408" y="0" type="line"/>
-      <point x="408" y="84" type="line"/>
-      <point x="408" y="84" type="line"/>
-      <point x="408" y="84" type="line"/>
-      <point x="408" y="84" type="line"/>
-      <point x="147" y="749" type="line"/>
-      <point x="147" y="714" type="line"/>
-      <point x="283" y="366" type="line"/>
-      <point x="147" y="366" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -44,7 +26,53 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>20</integer>
+            <integer>11</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict/>
+          <key>name</key>
+          <string>tigeenverscassée</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>-9</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict/>
+          <key>name</key>
+          <string>tigehorizontale</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <real>0.5664853678346532</real>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <real>33.81414130889705</real>
             <key>y</key>
             <integer>0</integer>
           </dict>
