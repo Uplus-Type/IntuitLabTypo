@@ -12,7 +12,7 @@
           <key>coord</key>
           <dict>
             <key>HAUTEUR</key>
-            <integer>0</integer>
+            <real>5.09599096555618</real>
             <key>dedoublage</key>
             <integer>0</integer>
           </dict>
@@ -33,7 +33,7 @@
             <key>x</key>
             <integer>-87</integer>
             <key>y</key>
-            <integer>251</integer>
+            <integer>240</integer>
           </dict>
         </dict>
         <dict>
@@ -320,7 +320,7 @@
           <key>coord</key>
           <dict>
             <key>HAUTEUR</key>
-            <integer>0</integer>
+            <real>5.1</real>
             <key>dedoublage</key>
             <integer>0</integer>
           </dict>
@@ -341,7 +341,7 @@
             <key>x</key>
             <integer>-87</integer>
             <key>y</key>
-            <integer>-370</integer>
+            <integer>-339</integer>
           </dict>
         </dict>
         <dict>
@@ -498,7 +498,7 @@
               <key>coord</key>
               <dict>
                 <key>HAUTEUR</key>
-                <integer>0</integer>
+                <real>5.09599096555618</real>
                 <key>dedoublage</key>
                 <integer>100</integer>
               </dict>
@@ -519,7 +519,7 @@
                 <key>x</key>
                 <integer>164</integer>
                 <key>y</key>
-                <integer>251</integer>
+                <integer>240</integer>
               </dict>
             </dict>
             <dict>
@@ -806,7 +806,7 @@
               <key>coord</key>
               <dict>
                 <key>HAUTEUR</key>
-                <integer>0</integer>
+                <real>5.1</real>
                 <key>dedoublage</key>
                 <integer>100</integer>
               </dict>
@@ -827,7 +827,7 @@
                 <key>x</key>
                 <integer>164</integer>
                 <key>y</key>
-                <integer>-370</integer>
+                <integer>-339</integer>
               </dict>
             </dict>
             <dict>
