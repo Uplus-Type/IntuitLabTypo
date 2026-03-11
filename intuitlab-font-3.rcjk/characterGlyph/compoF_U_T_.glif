@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="compoFUT" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="-5" y="713" type="line"/>
+      <point x="-5" y="0" type="line"/>
+      <point x="5" y="0" type="line"/>
+      <point x="5" y="713" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.locationBase</key>
+      <string>ff54fce8</string>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
