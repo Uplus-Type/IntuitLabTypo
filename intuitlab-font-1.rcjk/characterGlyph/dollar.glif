@@ -143,19 +143,65 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-74.74470637072318</real>
+            <real>61.37515514901087</real>
             <key>scalex</key>
-            <real>-0.44316872645297084</real>
+            <real>0.44316872645297095</real>
             <key>scaley</key>
-            <real>0.44316872645297084</real>
+            <real>-0.4431687264529709</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>235</integer>
+            <integer>220</integer>
             <key>y</key>
-            <integer>72</integer>
+            <integer>347</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict/>
+          <key>name</key>
+          <string>03</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>-43.45062819634748</real>
+            <key>scalex</key>
+            <real>0.44316872645297073</real>
+            <key>scaley</key>
+            <real>-0.4431687264529709</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>450</integer>
+            <key>y</key>
+            <integer>279</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict/>
+          <key>name</key>
+          <string>03</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>-53.22216224685366</real>
+            <key>scalex</key>
+            <real>-0.44316872645297084</real>
+            <key>scaley</key>
+            <real>0.443168726452971</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <real>17.381928765266913</real>
+            <key>y</key>
+            <real>183.18977462551666</real>
           </dict>
         </dict>
       </array>
