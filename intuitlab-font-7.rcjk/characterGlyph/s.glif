@@ -180,7 +180,7 @@
           <key>coord</key>
           <dict>
             <key>HAUTEUR</key>
-            <real>5.99943534726143</real>
+            <real>0.5787690570299269</real>
             <key>dedoublage</key>
             <integer>0</integer>
           </dict>
@@ -201,7 +201,7 @@
             <key>x</key>
             <integer>12</integer>
             <key>y</key>
-            <integer>-100</integer>
+            <integer>-82</integer>
           </dict>
         </dict>
         <dict>
@@ -264,7 +264,7 @@
           <key>coord</key>
           <dict>
             <key>HAUTEUR</key>
-            <real>5.99943534726143</real>
+            <real>0.5787690570299269</real>
             <key>dedoublage</key>
             <integer>0</integer>
           </dict>
@@ -285,7 +285,7 @@
             <key>x</key>
             <integer>-186</integer>
             <key>y</key>
-            <integer>-292</integer>
+            <integer>-327</integer>
           </dict>
         </dict>
         <dict>
@@ -666,7 +666,7 @@
               <key>coord</key>
               <dict>
                 <key>HAUTEUR</key>
-                <real>5.99943534726143</real>
+                <real>0.5787690570299269</real>
                 <key>dedoublage</key>
                 <integer>0</integer>
               </dict>
@@ -687,7 +687,7 @@
                 <key>x</key>
                 <integer>672</integer>
                 <key>y</key>
-                <integer>-100</integer>
+                <integer>-82</integer>
               </dict>
             </dict>
             <dict>
@@ -750,7 +750,7 @@
               <key>coord</key>
               <dict>
                 <key>HAUTEUR</key>
-                <real>5.99943534726143</real>
+                <real>0.5787690570299269</real>
                 <key>dedoublage</key>
                 <integer>0</integer>
               </dict>
@@ -771,7 +771,7 @@
                 <key>x</key>
                 <integer>-186</integer>
                 <key>y</key>
-                <integer>-292</integer>
+                <integer>-327</integer>
               </dict>
             </dict>
             <dict>
