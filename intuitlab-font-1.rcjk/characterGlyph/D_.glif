@@ -36,25 +36,28 @@
         </dict>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>height</key>
+            <integer>400</integer>
+          </dict>
           <key>name</key>
-          <string>06</string>
+          <string>01</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>82.5926376492865</real>
+            <real>8.13987857606854</real>
             <key>scalex</key>
-            <real>2.831585575696342</real>
+            <real>-1.7147723322958772</real>
             <key>scaley</key>
-            <real>-2.8315855756963435</real>
+            <real>1.714772332295877</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>-530.8968725009745</real>
+            <real>772.1714366869207</real>
             <key>y</key>
-            <real>-255.58345635918215</real>
+            <real>59.20587764712952</real>
           </dict>
         </dict>
       </array>
