@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="period" format="2">
+<glyph name="exclam" format="2">
   <advance width="500"/>
-  <unicode hex="002E"/>
+  <unicode hex="0021"/>
   <outline>
   </outline>
   <lib>
@@ -31,9 +31,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>293</integer>
+            <integer>297</integer>
             <key>y</key>
-            <integer>311</integer>
+            <integer>153</integer>
           </dict>
         </dict>
         <dict>
@@ -59,9 +59,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>185</integer>
+            <integer>189</integer>
             <key>y</key>
-            <integer>194</integer>
+            <integer>36</integer>
           </dict>
         </dict>
       </array>
