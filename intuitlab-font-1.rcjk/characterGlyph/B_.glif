@@ -64,7 +64,7 @@
           <key>coord</key>
           <dict>
             <key>Epaisseur</key>
-            <integer>600</integer>
+            <real>638.438205417607</real>
             <key>Taille</key>
             <real>656.58934169279</real>
           </dict>
