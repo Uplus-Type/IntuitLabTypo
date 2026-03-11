@@ -7,8 +7,9 @@
       <point x="139" y="-3"/>
       <point x="361" y="17"/>
       <point x="361" y="194" type="curve"/>
-      <point x="336" y="500" type="line"/>
-      <point x="265" y="750" type="line"/>
+      <point x="361" y="501"/>
+      <point x="416.61019440760685" y="666.6976953804358"/>
+      <point x="265" y="750" type="curve"/>
       <point x="500" y="750" type="line"/>
       <point x="500" y="0" type="line"/>
       <point x="345" y="0"/>
