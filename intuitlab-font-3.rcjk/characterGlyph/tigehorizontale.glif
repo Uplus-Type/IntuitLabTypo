@@ -2,6 +2,12 @@
 <glyph name="tigehorizontale" format="2">
   <advance width="500"/>
   <outline>
+    <contour>
+      <point x="438" y="372" type="line"/>
+      <point x="78" y="372" type="line"/>
+      <point x="78" y="360" type="line"/>
+      <point x="438" y="360" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
