@@ -2432,7 +2432,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>400</integer>
+                <integer>200</integer>
                 <key>y</key>
                 <integer>200</integer>
               </dict>
@@ -2462,7 +2462,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>400</integer>
+                <integer>200</integer>
                 <key>y</key>
                 <integer>250</integer>
               </dict>
@@ -2492,7 +2492,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>330</integer>
+                <integer>175</integer>
                 <key>y</key>
                 <integer>0</integer>
               </dict>
@@ -2522,7 +2522,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>330</integer>
+                <integer>175</integer>
                 <key>y</key>
                 <integer>200</integer>
               </dict>
@@ -2552,7 +2552,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>330</integer>
+                <integer>175</integer>
                 <key>y</key>
                 <integer>150</integer>
               </dict>
@@ -3291,7 +3291,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>400</integer>
+                <integer>200</integer>
                 <key>y</key>
                 <integer>200</integer>
               </dict>
@@ -3321,7 +3321,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>400</integer>
+                <integer>200</integer>
                 <key>y</key>
                 <integer>250</integer>
               </dict>
@@ -3351,7 +3351,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>330</integer>
+                <integer>175</integer>
                 <key>y</key>
                 <integer>0</integer>
               </dict>
@@ -3381,7 +3381,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>330</integer>
+                <integer>175</integer>
                 <key>y</key>
                 <integer>200</integer>
               </dict>
@@ -3411,7 +3411,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>330</integer>
+                <integer>175</integer>
                 <key>y</key>
                 <integer>150</integer>
               </dict>
