@@ -169,7 +169,7 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>Taille MIn tout </string>
+          <string>Taille MIn tout</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
@@ -391,6 +391,21 @@
           <true/>
           <key>sourceName</key>
           <string>Taille Arche=100,Taille Boule Min=1000,Epaisseur Arche=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>Taille Arche Global min</string>
+          <key>location</key>
+          <dict>
+            <key>Epaisseur Arche </key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>Taille Arche Global min</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
