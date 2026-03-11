@@ -6,25 +6,17 @@
     <contour>
       <point x="400" y="159" type="line"/>
       <point x="289" y="-3"/>
-      <point x="99" y="-35"/>
-      <point x="99" y="326" type="curve"/>
+      <point x="239" y="139"/>
+      <point x="239" y="500" type="curve"/>
       <point x="99" y="0" type="line"/>
       <point x="400" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="99" y="326" type="move"/>
-      <point x="99" y="444"/>
-      <point x="213" y="500"/>
-      <point x="328" y="500" type="curve"/>
-      <point x="277" y="500"/>
-      <point x="99" y="500"/>
-      <point x="99" y="500" type="curve"/>
+      <point x="99" y="331" type="move"/>
     </contour>
     <contour>
-      <point x="328" y="596" type="line"/>
-      <point x="328" y="500" type="line"/>
-      <point x="386" y="500" type="line"/>
-      <point x="386" y="596" type="line"/>
+      <point x="239" y="500" type="move"/>
+      <point x="99" y="501" type="line"/>
     </contour>
   </outline>
   <lib>
