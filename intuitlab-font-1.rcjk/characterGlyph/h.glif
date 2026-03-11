@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="h" format="2">
-  <advance width="500"/>
+  <advance width="499.69724431870395"/>
   <unicode hex="0068"/>
   <outline>
   </outline>
@@ -19,19 +19,45 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-81.39364548327892</real>
+            <real>-89.57008106510341</real>
             <key>scalex</key>
             <integer>1</integer>
             <key>scaley</key>
-            <integer>1</integer>
+            <real>1.0000000000000002</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>14</integer>
+            <integer>19</integer>
             <key>y</key>
-            <integer>414</integer>
+            <integer>435</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>height</key>
+            <integer>500</integer>
+          </dict>
+          <key>name</key>
+          <string>02</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <real>1.4951071065276542</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>-184</integer>
+            <key>y</key>
+            <integer>0</integer>
           </dict>
         </dict>
       </array>
