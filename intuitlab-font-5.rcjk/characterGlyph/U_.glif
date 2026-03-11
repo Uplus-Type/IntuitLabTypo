@@ -4,26 +4,26 @@
   <unicode hex="0055"/>
   <outline>
     <contour>
-      <point x="144" y="758" type="move"/>
-      <point x="144" y="772"/>
-      <point x="141" y="796"/>
-      <point x="156" y="800" type="curve"/>
-      <point x="113" y="800"/>
-      <point x="85" y="800"/>
-      <point x="42" y="800" type="curve"/>
-      <point x="53" y="797"/>
-      <point x="51" y="766"/>
-      <point x="51" y="760" type="curve" smooth="yes"/>
-      <point x="51" y="523"/>
-      <point x="51" y="258"/>
-      <point x="51" y="21" type="curve" smooth="yes"/>
-      <point x="51" y="9"/>
-      <point x="49" y="2"/>
-      <point x="42" y="0" type="curve"/>
-      <point x="134" y="0" type="line"/>
-      <point x="143" y="0"/>
-      <point x="144" y="8"/>
-      <point x="144" y="20" type="curve"/>
+      <point x="143" y="758" type="move"/>
+      <point x="143" y="772"/>
+      <point x="140" y="796"/>
+      <point x="155" y="800" type="curve"/>
+      <point x="112" y="800"/>
+      <point x="84" y="800"/>
+      <point x="41" y="800" type="curve"/>
+      <point x="52" y="797"/>
+      <point x="50" y="766"/>
+      <point x="50" y="760" type="curve" smooth="yes"/>
+      <point x="50" y="523"/>
+      <point x="50" y="258"/>
+      <point x="50" y="21" type="curve" smooth="yes"/>
+      <point x="50" y="9"/>
+      <point x="48" y="2"/>
+      <point x="41" y="0" type="curve"/>
+      <point x="133" y="0" type="line"/>
+      <point x="142" y="0"/>
+      <point x="143" y="8"/>
+      <point x="143" y="20" type="curve"/>
     </contour>
     <contour>
       <point x="128" y="20" type="move"/>
@@ -65,17 +65,17 @@
             <key>rotation</key>
             <integer>0</integer>
             <key>scalex</key>
-            <real>0.5319028206075846</real>
+            <real>0.42305446308995664</real>
             <key>scaley</key>
-            <real>0.5828022194504918</real>
+            <real>0.4635378315076887</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>94</integer>
+            <real>148.3153304012964</real>
             <key>y</key>
-            <integer>519</integer>
+            <real>576.5157389664205</real>
           </dict>
         </dict>
       </array>
