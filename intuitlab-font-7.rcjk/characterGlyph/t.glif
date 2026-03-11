@@ -304,7 +304,7 @@
                 <key>HAUTEUR</key>
                 <real>60.2060982495765</real>
                 <key>dedoublage</key>
-                <integer>100</integer>
+                <integer>0</integer>
               </dict>
               <key>name</key>
               <string>compotest</string>
