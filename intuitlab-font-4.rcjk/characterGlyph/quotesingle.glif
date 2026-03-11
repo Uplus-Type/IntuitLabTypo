@@ -182,9 +182,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>0</integer>
+                <integer>-2</integer>
                 <key>y</key>
-                <integer>0</integer>
+                <integer>-1</integer>
               </dict>
             </dict>
             <dict>
@@ -208,9 +208,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>193</integer>
+                <integer>188</integer>
                 <key>y</key>
-                <integer>121</integer>
+                <integer>112</integer>
               </dict>
             </dict>
             <dict>
@@ -260,9 +260,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>216</integer>
+                <integer>212</integer>
                 <key>y</key>
-                <integer>321</integer>
+                <integer>311</integer>
               </dict>
             </dict>
             <dict>
@@ -286,9 +286,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>27</integer>
+                <integer>29</integer>
                 <key>y</key>
-                <integer>407</integer>
+                <integer>409</integer>
               </dict>
             </dict>
           </array>
