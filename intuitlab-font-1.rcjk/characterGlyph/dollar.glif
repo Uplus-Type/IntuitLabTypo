@@ -19,19 +19,19 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>2.4485984572223187</real>
+            <real>-80.56843999510123</real>
             <key>scalex</key>
-            <real>-0.5385739435683016</real>
+            <real>0.5385739435683016</real>
             <key>scaley</key>
-            <real>-0.5385739435683015</real>
+            <real>0.5385739435683013</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>221</integer>
+            <integer>156</integer>
             <key>y</key>
-            <integer>383</integer>
+            <integer>274</integer>
           </dict>
         </dict>
         <dict>
@@ -45,68 +45,45 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-2.3751782980993768</real>
-            <key>scalex</key>
-            <real>-1.207853529188772</real>
-            <key>scaley</key>
-            <real>-1.2078535291887713</real>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>313</integer>
-            <key>y</key>
-            <integer>532</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>height</key>
-            <integer>400</integer>
-          </dict>
-          <key>name</key>
-          <string>01</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <real>2.3751782980993768</real>
+            <real>-85.39221675042292</real>
             <key>scalex</key>
             <real>1.207853529188772</real>
             <key>scaley</key>
-            <real>-1.2078535291887713</real>
+            <real>1.207853529188771</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>197</integer>
+            <integer>-3</integer>
             <key>y</key>
-            <real>531.4567681464481</real>
+            <integer>347</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>height</key>
+            <integer>400</integer>
+          </dict>
           <key>name</key>
-          <string>03</string>
+          <string>01</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>50.005260878258916</real>
+            <real>-80.64186015422416</real>
             <key>scalex</key>
-            <real>0.4431687264529709</real>
+            <real>-1.2078535291887718</real>
             <key>scaley</key>
-            <real>-0.443168726452971</real>
+            <real>1.2078535291887713</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>664</integer>
+            <integer>12</integer>
             <key>y</key>
-            <integer>135</integer>
+            <integer>232</integer>
           </dict>
         </dict>
         <dict>
@@ -117,7 +94,30 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-50.005260878258916</real>
+            <real>-33.011777574064624</real>
+            <key>scalex</key>
+            <real>-0.4431687264529709</real>
+            <key>scaley</key>
+            <real>0.44316872645297106</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>348</integer>
+            <key>y</key>
+            <integer>744</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict/>
+          <key>name</key>
+          <string>03</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>46.977700669417544</real>
             <key>scalex</key>
             <real>-0.4431687264529709</real>
             <key>scaley</key>
@@ -127,9 +127,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>75</integer>
+            <integer>365</integer>
             <key>y</key>
-            <integer>190</integer>
+            <integer>153</integer>
           </dict>
         </dict>
         <dict>
@@ -143,7 +143,7 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-56.95226693190482</real>
+            <real>40.03069461577165</real>
             <key>scalex</key>
             <real>0.5385739435683016</real>
             <key>scaley</key>
@@ -153,9 +153,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>505</integer>
+            <integer>-15</integer>
             <key>y</key>
-            <integer>521</integer>
+            <integer>539</integer>
           </dict>
         </dict>
         <dict>
@@ -169,19 +169,19 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>23.078809062538102</real>
+            <real>-59.938229389785434</real>
             <key>scalex</key>
-            <real>0.7528704381936784</real>
+            <real>-0.7528704381936784</real>
             <key>scaley</key>
-            <real>0.7528704381936784</real>
+            <real>-0.7528704381936784</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>448</integer>
+            <integer>543</integer>
             <key>y</key>
-            <integer>-35</integer>
+            <integer>550</integer>
           </dict>
         </dict>
       </array>
