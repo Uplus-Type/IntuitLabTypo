@@ -11,8 +11,8 @@
       <point x="64" y="0"/>
       <point x="65" y="6"/>
       <point x="65" y="18" type="curve"/>
-      <point x="64" y="500" type="line"/>
-      <point x="8" y="500" type="line"/>
+      <point x="65" y="500" type="line"/>
+      <point x="9" y="500" type="line"/>
     </contour>
     <contour>
       <point x="454" y="36" type="line"/>
