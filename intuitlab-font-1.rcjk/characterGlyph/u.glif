@@ -57,6 +57,29 @@
             <real>792.019749366936</real>
           </dict>
         </dict>
+        <dict>
+          <key>coord</key>
+          <dict/>
+          <key>name</key>
+          <string>06</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>-89.07062152099361</real>
+            <key>scalex</key>
+            <real>1.7648548467158014</real>
+            <key>scaley</key>
+            <real>-1.7648548467158023</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>744</integer>
+            <key>y</key>
+            <integer>688</integer>
+          </dict>
+        </dict>
       </array>
       <key>robocjk.locationBase</key>
       <string>fae974f5</string>
