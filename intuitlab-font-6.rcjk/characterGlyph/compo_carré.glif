@@ -146,7 +146,7 @@
             <integer>100</integer>
           </dict>
           <key>on</key>
-          <false/>
+          <true/>
           <key>sourceName</key>
           <string>losange</string>
           <key>status</key>
