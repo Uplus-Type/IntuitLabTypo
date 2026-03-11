@@ -34,7 +34,7 @@
           <string>rounded=100</string>
           <key>location</key>
           <dict>
-            <key>rounded</key>
+            <key>Rounded</key>
             <integer>100</integer>
           </dict>
           <key>on</key>
