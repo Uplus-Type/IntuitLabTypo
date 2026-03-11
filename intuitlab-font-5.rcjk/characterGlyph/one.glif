@@ -4,25 +4,21 @@
   <unicode hex="0031"/>
   <outline>
     <contour>
-      <point x="353" y="763" type="line"/>
-      <point x="263" y="763" type="line"/>
-      <point x="263" y="785" type="line"/>
-      <point x="312" y="785" type="line"/>
-    </contour>
-    <contour>
-      <point x="371" y="840" type="move"/>
-      <point x="377" y="833" type="line"/>
-      <point x="359" y="799"/>
-      <point x="353" y="700"/>
-      <point x="351" y="634" type="curve"/>
-      <point x="261" y="634" type="line"/>
-      <point x="263" y="684"/>
-      <point x="256" y="727"/>
-      <point x="286" y="769" type="curve"/>
-      <point x="241" y="834" type="line"/>
-      <point x="293" y="829"/>
-      <point x="322" y="829"/>
-      <point x="371" y="840" type="curve"/>
+      <point x="369" y="794" type="curve"/>
+      <point x="373" y="789" type="line"/>
+      <point x="359" y="762"/>
+      <point x="354" y="685"/>
+      <point x="353" y="633" type="curve"/>
+      <point x="283" y="633" type="line"/>
+      <point x="283" y="640"/>
+      <point x="283" y="646"/>
+      <point x="283" y="653" type="curve" smooth="yes"/>
+      <point x="283" y="684"/>
+      <point x="283" y="712"/>
+      <point x="302" y="739" type="curve"/>
+      <point x="267" y="789" type="line"/>
+      <point x="308" y="785"/>
+      <point x="330" y="785"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +29,7 @@
           <key>coord</key>
           <dict>
             <key>hauteur</key>
-            <integer>100</integer>
+            <real>80.678611738149</real>
           </dict>
           <key>name</key>
           <string>bas2</string>

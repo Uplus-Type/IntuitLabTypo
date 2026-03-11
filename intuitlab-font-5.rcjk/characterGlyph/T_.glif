@@ -18,20 +18,20 @@
       <point x="185" y="674" type="move"/>
     </contour>
     <contour>
-      <point x="29" y="756" type="curve"/>
-      <point x="91" y="815"/>
-      <point x="176" y="635"/>
-      <point x="232" y="767" type="curve"/>
-      <point x="160" y="759"/>
-      <point x="71" y="848"/>
+      <point x="497" y="750" type="curve"/>
+      <point x="424" y="852"/>
+      <point x="326" y="536"/>
+      <point x="259" y="766" type="curve"/>
+      <point x="343" y="754"/>
+      <point x="448" y="912"/>
     </contour>
     <contour>
-      <point x="498" y="746" type="curve"/>
-      <point x="425" y="848"/>
-      <point x="327" y="532"/>
-      <point x="260" y="762" type="curve"/>
-      <point x="344" y="750"/>
-      <point x="449" y="908"/>
+      <point x="-33" y="750" type="curve"/>
+      <point x="40" y="852"/>
+      <point x="138" y="536"/>
+      <point x="205" y="766" type="curve"/>
+      <point x="121" y="754"/>
+      <point x="16" y="912"/>
     </contour>
   </outline>
   <lib>
