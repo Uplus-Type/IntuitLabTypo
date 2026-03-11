@@ -3,14 +3,26 @@
   <advance width="500"/>
   <outline>
     <contour>
-      <point x="368" y="750" type="line"/>
-      <point x="367" y="0" type="line"/>
+      <point x="368" y="750" type="curve"/>
+      <point x="368" y="500"/>
+      <point x="367" y="250"/>
+      <point x="367" y="0" type="curve"/>
       <point x="372" y="0" type="line"/>
       <point x="372" y="0" type="line"/>
-      <point x="499" y="0" type="line"/>
-      <point x="499" y="82" type="line"/>
-      <point x="378" y="82" type="line"/>
-      <point x="379" y="750" type="line"/>
+      <point x="414" y="0"/>
+      <point x="457" y="0"/>
+      <point x="499" y="0" type="curve"/>
+      <point x="499" y="27"/>
+      <point x="499" y="55"/>
+      <point x="499" y="82" type="curve"/>
+      <point x="459" y="82"/>
+      <point x="418" y="82"/>
+      <point x="378" y="82" type="curve"/>
+      <point x="378" y="305"/>
+      <point x="379" y="527"/>
+      <point x="379" y="750" type="curve"/>
+      <point x="375" y="750"/>
+      <point x="372" y="750"/>
     </contour>
   </outline>
   <lib>
@@ -19,6 +31,23 @@
       <string>ff54fce8</string>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>37ddb891</string>
+          <key>location</key>
+          <dict/>
+          <key>locationBase</key>
+          <string>37ddb891</string>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string></string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

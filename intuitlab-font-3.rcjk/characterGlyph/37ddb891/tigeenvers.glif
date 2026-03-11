@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tigeenvers" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="368" y="750" type="curve"/>
+      <point x="368" y="500"/>
+      <point x="378" y="182"/>
+      <point x="332" y="0" type="curve"/>
+      <point x="372" y="0" type="line"/>
+      <point x="372" y="0" type="line"/>
+      <point x="414" y="0"/>
+      <point x="457" y="0"/>
+      <point x="499" y="0" type="curve"/>
+      <point x="499" y="27"/>
+      <point x="499" y="210"/>
+      <point x="499" y="237" type="curve"/>
+      <point x="479" y="-112"/>
+      <point x="374" y="23"/>
+      <point x="378" y="82" type="curve"/>
+      <point x="378" y="305"/>
+      <point x="379" y="527"/>
+      <point x="379" y="750" type="curve"/>
+      <point x="375" y="750"/>
+      <point x="372" y="750"/>
+    </contour>
+  </outline>
+</glyph>
