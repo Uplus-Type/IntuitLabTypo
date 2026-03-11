@@ -22,6 +22,18 @@
       <point x="0" y="59"/>
       <point x="0" y="16" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="154" y="37" type="move"/>
+      <point x="154" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="154" y="0" type="move"/>
+      <point x="119" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="119" y="0" type="move"/>
+      <point x="119" y="37" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
