@@ -7,9 +7,9 @@
       <point x="369" y="794" type="curve"/>
       <point x="373" y="789" type="line"/>
       <point x="359" y="762"/>
-      <point x="354" y="677"/>
-      <point x="353" y="625" type="curve"/>
-      <point x="263" y="625" type="line"/>
+      <point x="354" y="657"/>
+      <point x="353" y="605" type="curve"/>
+      <point x="263" y="605" type="line"/>
       <point x="263" y="789" type="line"/>
       <point x="304" y="785"/>
       <point x="330" y="785"/>
@@ -23,7 +23,7 @@
           <key>coord</key>
           <dict>
             <key>hauteur</key>
-            <integer>81</integer>
+            <real>78.2096501128668</real>
           </dict>
           <key>name</key>
           <string>bas2</string>
@@ -49,7 +49,7 @@
           <key>coord</key>
           <dict>
             <key>Hauteur</key>
-            <integer>333</integer>
+            <real>358.428611738149</real>
           </dict>
           <key>name</key>
           <string>tiret</string>
@@ -58,17 +58,17 @@
             <key>rotation</key>
             <integer>0</integer>
             <key>scalex</key>
-            <real>0.5932683209765596</real>
+            <real>0.5930560473637301</real>
             <key>scaley</key>
-            <real>-0.5932683209765596</real>
+            <real>-0.5930560473637301</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-33</integer>
+            <real>-32.167438398450095</real>
             <key>y</key>
-            <integer>909</integer>
+            <real>909.3687116557145</real>
           </dict>
         </dict>
       </array>
