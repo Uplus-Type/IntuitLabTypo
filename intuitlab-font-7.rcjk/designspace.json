@@ -60,6 +60,62 @@
             },
             "name": "476"
         },
+        "60f7b41d": {
+            "lineMetricsHorizontalLayout": {
+                "ascender": {
+                    "value": 800,
+                    "zone": 16
+                },
+                "baseline": {
+                    "value": 0,
+                    "zone": -16
+                },
+                "capHeight": {
+                    "value": 750,
+                    "zone": 16
+                },
+                "descender": {
+                    "value": -250,
+                    "zone": -16
+                },
+                "xHeight": {
+                    "value": 500,
+                    "zone": 16
+                }
+            },
+            "location": {
+                "weight": 626
+            },
+            "name": "626"
+        },
+        "72d74598": {
+            "lineMetricsHorizontalLayout": {
+                "ascender": {
+                    "value": 800,
+                    "zone": 16
+                },
+                "baseline": {
+                    "value": 0,
+                    "zone": -16
+                },
+                "capHeight": {
+                    "value": 750,
+                    "zone": 16
+                },
+                "descender": {
+                    "value": -250,
+                    "zone": -16
+                },
+                "xHeight": {
+                    "value": 500,
+                    "zone": 16
+                }
+            },
+            "location": {
+                "weight": 624
+            },
+            "name": "624"
+        },
         "94b5e04d": {
             "lineMetricsHorizontalLayout": {
                 "ascender": {
@@ -84,6 +140,34 @@
                 }
             },
             "name": "Default"
+        },
+        "abf5f17f": {
+            "lineMetricsHorizontalLayout": {
+                "ascender": {
+                    "value": 800,
+                    "zone": 16
+                },
+                "baseline": {
+                    "value": 0,
+                    "zone": -16
+                },
+                "capHeight": {
+                    "value": 750,
+                    "zone": 16
+                },
+                "descender": {
+                    "value": -250,
+                    "zone": -16
+                },
+                "xHeight": {
+                    "value": 500,
+                    "zone": 16
+                }
+            },
+            "location": {
+                "weight": 550
+            },
+            "name": "550"
         },
         "c3ca1a36": {
             "lineMetricsHorizontalLayout": {
@@ -112,6 +196,34 @@
                 "weight": 474
             },
             "name": "474"
+        },
+        "d3f65fd9": {
+            "lineMetricsHorizontalLayout": {
+                "ascender": {
+                    "value": 800,
+                    "zone": 16
+                },
+                "baseline": {
+                    "value": 0,
+                    "zone": -16
+                },
+                "capHeight": {
+                    "value": 750,
+                    "zone": 16
+                },
+                "descender": {
+                    "value": -250,
+                    "zone": -16
+                },
+                "xHeight": {
+                    "value": 500,
+                    "zone": 16
+                }
+            },
+            "location": {
+                "weight": 699
+            },
+            "name": "699"
         },
         "ecd46167": {
             "lineMetricsHorizontalLayout": {
