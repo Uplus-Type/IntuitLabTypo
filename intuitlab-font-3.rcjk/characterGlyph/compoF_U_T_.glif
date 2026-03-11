@@ -3,18 +3,51 @@
   <advance width="500"/>
   <outline>
     <contour>
-      <point x="-5" y="402" type="line"/>
-      <point x="-5" y="312" type="line"/>
-      <point x="5" y="312" type="line"/>
-      <point x="5" y="402" type="line"/>
+      <point x="-5" y="714" type="line"/>
+      <point x="-5" y="1" type="line"/>
+      <point x="5" y="1" type="line"/>
+      <point x="5" y="714" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>10</integer>
+          <key>name</key>
+          <string>hauteur</string>
+        </dict>
+      </array>
       <key>robocjk.locationBase</key>
       <string>ff54fce8</string>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>weight=900,hauteur=100</string>
+          <key>location</key>
+          <dict>
+            <key>hauteur</key>
+            <integer>100</integer>
+            <key>weight</key>
+            <integer>900</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=900,hauteur=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>
