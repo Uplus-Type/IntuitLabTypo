@@ -101,7 +101,7 @@
           <key>location</key>
           <dict>
             <key>Taille Arche</key>
-            <integer>1000</integer>
+            <integer>999</integer>
             <key>Taille Boule Min</key>
             <integer>100</integer>
           </dict>
@@ -119,6 +119,8 @@
           <string>Taille Boule Min </string>
           <key>location</key>
           <dict>
+            <key>Taille Arche</key>
+            <integer>1000</integer>
             <key>Taille Boule Min</key>
             <integer>100</integer>
           </dict>
@@ -136,6 +138,8 @@
           <string>Taille Boule Max</string>
           <key>location</key>
           <dict>
+            <key>Taille Arche</key>
+            <integer>100</integer>
             <key>Taille Boule Min</key>
             <integer>1000</integer>
           </dict>
