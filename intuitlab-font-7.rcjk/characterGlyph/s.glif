@@ -173,7 +173,7 @@
             <key>x</key>
             <integer>-21</integer>
             <key>y</key>
-            <integer>-81</integer>
+            <integer>-60</integer>
           </dict>
         </dict>
         <dict>
@@ -201,7 +201,7 @@
             <key>x</key>
             <integer>12</integer>
             <key>y</key>
-            <integer>-82</integer>
+            <integer>-61</integer>
           </dict>
         </dict>
         <dict>
@@ -285,7 +285,7 @@
             <key>x</key>
             <integer>-186</integer>
             <key>y</key>
-            <integer>-327</integer>
+            <integer>-351</integer>
           </dict>
         </dict>
         <dict>
@@ -313,7 +313,7 @@
             <key>x</key>
             <integer>-153</integer>
             <key>y</key>
-            <integer>-327</integer>
+            <integer>-351</integer>
           </dict>
         </dict>
         <dict>
@@ -659,7 +659,7 @@
                 <key>x</key>
                 <integer>507</integer>
                 <key>y</key>
-                <integer>-81</integer>
+                <integer>-60</integer>
               </dict>
             </dict>
             <dict>
@@ -687,7 +687,7 @@
                 <key>x</key>
                 <integer>672</integer>
                 <key>y</key>
-                <integer>-82</integer>
+                <integer>-61</integer>
               </dict>
             </dict>
             <dict>
@@ -771,7 +771,7 @@
                 <key>x</key>
                 <integer>-186</integer>
                 <key>y</key>
-                <integer>-327</integer>
+                <integer>-351</integer>
               </dict>
             </dict>
             <dict>
@@ -799,7 +799,7 @@
                 <key>x</key>
                 <integer>-153</integer>
                 <key>y</key>
-                <integer>-327</integer>
+                <integer>-351</integer>
               </dict>
             </dict>
             <dict>
