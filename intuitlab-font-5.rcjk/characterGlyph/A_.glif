@@ -40,7 +40,7 @@
             <key>Br</key>
             <integer>0</integer>
             <key>Hauteur</key>
-            <real>613.102990970655</real>
+            <integer>614</integer>
           </dict>
           <key>name</key>
           <string>pied</string>
