@@ -3242,7 +3242,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>150</integer>
+                <integer>75</integer>
                 <key>y</key>
                 <integer>600</integer>
               </dict>
@@ -3272,7 +3272,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>150</integer>
+                <integer>75</integer>
                 <key>y</key>
                 <integer>550</integer>
               </dict>
@@ -3392,7 +3392,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>150</integer>
+                <integer>75</integer>
                 <key>y</key>
                 <integer>450</integer>
               </dict>
@@ -3422,7 +3422,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>150</integer>
+                <integer>75</integer>
                 <key>y</key>
                 <integer>350</integer>
               </dict>
@@ -3572,7 +3572,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>150</integer>
+                <integer>75</integer>
                 <key>y</key>
                 <integer>250</integer>
               </dict>
@@ -3602,7 +3602,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>150</integer>
+                <integer>75</integer>
                 <key>y</key>
                 <integer>200</integer>
               </dict>
@@ -3662,7 +3662,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>150</integer>
+                <integer>75</integer>
                 <key>y</key>
                 <integer>100</integer>
               </dict>
@@ -3692,7 +3692,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>150</integer>
+                <integer>75</integer>
                 <key>y</key>
                 <integer>0</integer>
               </dict>
