@@ -11,8 +11,12 @@
     </contour>
     <contour>
       <point x="99" y="326" type="move"/>
-      <point x="227" y="500" type="line"/>
-      <point x="99" y="500" type="line"/>
+      <point x="99" y="444"/>
+      <point x="137" y="500"/>
+      <point x="252" y="500" type="curve"/>
+      <point x="201" y="500"/>
+      <point x="99" y="500"/>
+      <point x="99" y="500" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -67,7 +71,7 @@
             <key>x</key>
             <integer>0</integer>
             <key>y</key>
-            <integer>0</integer>
+            <integer>11</integer>
           </dict>
         </dict>
       </array>
