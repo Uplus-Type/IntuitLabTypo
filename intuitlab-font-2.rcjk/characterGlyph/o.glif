@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="o" format="2">
+  <advance width="500"/>
+  <unicode hex="006F"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.locationBase</key>
+      <string>559ec3ce</string>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
