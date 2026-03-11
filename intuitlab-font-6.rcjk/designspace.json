@@ -19,11 +19,11 @@
             },
             {
                 "defaultValue": 0,
-                "label": "Losange",
+                "label": "Rounded",
                 "maxValue": 100,
                 "minValue": 0,
-                "name": "Rounded",
-                "tag": "RON"
+                "name": "rounded",
+                "tag": "ROND"
             }
         ]
     },
