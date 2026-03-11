@@ -52,6 +52,16 @@
           <key>name</key>
           <string>Taille Arche</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>400</integer>
+          <key>maxValue</key>
+          <integer>1000</integer>
+          <key>minValue</key>
+          <integer>100</integer>
+          <key>name</key>
+          <string>Taille Boule </string>
+        </dict>
       </array>
       <key>robocjk.locationBase</key>
       <string>fae974f5</string>
@@ -90,6 +100,23 @@
           <true/>
           <key>sourceName</key>
           <string>Taille Arche 1000</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>Taille Boule Min</string>
+          <key>location</key>
+          <dict>
+            <key>Taille Boule </key>
+            <integer>100</integer>
+          </dict>
+          <key>locationBase</key>
+          <string>fae974f5</string>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>Taille Boule Min</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
