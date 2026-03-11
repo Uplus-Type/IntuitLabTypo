@@ -35,7 +35,7 @@
           <string>weight</string>
           <key>location</key>
           <dict>
-            <key>weight</key>
+            <key>Epaisseur I</key>
             <integer>900</integer>
           </dict>
           <key>on</key>
@@ -50,7 +50,7 @@
           <string>weight=100</string>
           <key>location</key>
           <dict>
-            <key>weight</key>
+            <key>Epaisseur I</key>
             <integer>100</integer>
           </dict>
           <key>on</key>
