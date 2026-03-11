@@ -22,8 +22,8 @@
                 "label": "Losange",
                 "maxValue": 100,
                 "minValue": 0,
-                "name": "Losange",
-                "tag": "LON"
+                "name": "Rounded",
+                "tag": "RON"
             },
             {
                 "defaultValue": 0,
