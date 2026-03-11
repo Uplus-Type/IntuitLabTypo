@@ -41,6 +41,8 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>epaisseur_fut</key>
+            <integer>40</integer>
             <key>hauteur</key>
             <integer>100</integer>
           </dict>
@@ -59,7 +61,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>61</integer>
+            <integer>67</integer>
             <key>y</key>
             <integer>68</integer>
           </dict>
