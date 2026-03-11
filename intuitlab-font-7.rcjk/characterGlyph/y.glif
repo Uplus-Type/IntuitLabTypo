@@ -33,7 +33,7 @@
             <key>x</key>
             <integer>-153</integer>
             <key>y</key>
-            <integer>-133</integer>
+            <integer>-91</integer>
           </dict>
         </dict>
         <dict>
@@ -201,7 +201,7 @@
             <key>x</key>
             <integer>-21</integer>
             <key>y</key>
-            <integer>-133</integer>
+            <integer>-91</integer>
           </dict>
         </dict>
         <dict>
@@ -264,7 +264,7 @@
           <key>coord</key>
           <dict>
             <key>HAUTEUR</key>
-            <integer>4</integer>
+            <real>10.5166572557877</real>
             <key>dedoublage</key>
             <integer>0</integer>
           </dict>
@@ -285,7 +285,7 @@
             <key>x</key>
             <integer>-153</integer>
             <key>y</key>
-            <integer>-524</integer>
+            <integer>-545</integer>
           </dict>
         </dict>
       </array>
@@ -323,7 +323,7 @@
                 <key>x</key>
                 <integer>-153</integer>
                 <key>y</key>
-                <integer>-133</integer>
+                <integer>-91</integer>
               </dict>
             </dict>
             <dict>
@@ -491,7 +491,7 @@
                 <key>x</key>
                 <integer>507</integer>
                 <key>y</key>
-                <integer>-135</integer>
+                <integer>-93</integer>
               </dict>
             </dict>
             <dict>
@@ -554,7 +554,7 @@
               <key>coord</key>
               <dict>
                 <key>HAUTEUR</key>
-                <integer>4</integer>
+                <real>12.3235460191982</real>
                 <key>dedoublage</key>
                 <integer>100</integer>
               </dict>
@@ -575,7 +575,7 @@
                 <key>x</key>
                 <integer>-153</integer>
                 <key>y</key>
-                <integer>-524</integer>
+                <integer>-549</integer>
               </dict>
             </dict>
           </array>
