@@ -504,6 +504,52 @@
             <integer>500</integer>
           </dict>
         </dict>
+        <dict>
+          <key>coord</key>
+          <dict/>
+          <key>name</key>
+          <string>C</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>-49.577230606487525</real>
+            <key>scalex</key>
+            <real>0.9999999999999998</real>
+            <key>scaley</key>
+            <real>0.9999999999999999</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>-81</integer>
+            <key>y</key>
+            <integer>243</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict/>
+          <key>name</key>
+          <string>C</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>-57.79337766901974</real>
+            <key>scalex</key>
+            <real>-0.9999999999999997</real>
+            <key>scaley</key>
+            <real>-0.9999999999999999</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>556</integer>
+            <key>y</key>
+            <integer>269</integer>
+          </dict>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
