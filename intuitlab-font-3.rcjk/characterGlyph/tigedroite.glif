@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="carre" format="2">
+<glyph name="tigedroite" format="2">
   <advance width="500"/>
   <outline>
     <contour>
-      <point x="48" y="83" type="line"/>
-      <point x="48" y="0" type="line"/>
-      <point x="184" y="0" type="line"/>
-      <point x="184" y="83" type="line"/>
+      <point x="253" y="588" type="line"/>
+      <point x="253" y="4" type="line"/>
+      <point x="264" y="4" type="line"/>
+      <point x="264" y="588" type="line"/>
     </contour>
   </outline>
   <lib>
