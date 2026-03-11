@@ -94,41 +94,11 @@
           <key>coord</key>
           <dict>
             <key>Epaisseur Arche</key>
-            <real>565.057179161372</real>
+            <real>564.23125794155</real>
             <key>Taille Arche</key>
-            <real>183.545108005083</real>
-            <key>Taille Boule Min</key>
-            <integer>100</integer>
-          </dict>
-          <key>name</key>
-          <string>01</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <real>-62.68812557351483</real>
-            <key>scalex</key>
-            <real>0.9999999999999999</real>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>33</integer>
-            <key>y</key>
-            <integer>399</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>Epaisseur Arche</key>
-            <real>538.818297331639</real>
-            <key>Taille Arche</key>
-            <real>273.951715374841</real>
+            <real>272.681067344346</real>
             <key>Taille Boule </key>
-            <real>468.424396442186</real>
+            <real>581.194409148666</real>
           </dict>
           <key>name</key>
           <string>06</string>
@@ -145,9 +115,39 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>105</integer>
+            <integer>112</integer>
             <key>y</key>
-            <integer>52</integer>
+            <integer>55</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>Epaisseur Arche</key>
+            <real>554.764930114358</real>
+            <key>Taille Arche</key>
+            <real>233.672172808132</real>
+            <key>Taille Boule </key>
+            <integer>100</integer>
+          </dict>
+          <key>name</key>
+          <string>06</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>81.23478469503989</real>
+            <key>scalex</key>
+            <real>0.9999999999999998</real>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>584</integer>
+            <key>y</key>
+            <integer>37</integer>
           </dict>
         </dict>
       </array>
