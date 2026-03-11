@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="A" format="2">
-  <advance width="500"/>
+  <advance width="536.6800129487032"/>
   <unicode hex="0041"/>
   <outline>
   </outline>
@@ -29,7 +29,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>54</integer>
+            <real>84.60881655415714</real>
             <key>y</key>
             <integer>1</integer>
           </dict>
@@ -55,7 +55,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>103</integer>
+            <real>133.60881655415716</real>
             <key>y</key>
             <integer>193</integer>
           </dict>
@@ -81,7 +81,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>151</integer>
+            <real>181.60881655415716</real>
             <key>y</key>
             <integer>383</integer>
           </dict>
@@ -107,7 +107,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>200</integer>
+            <real>230.60881655415716</real>
             <key>y</key>
             <integer>576</integer>
           </dict>
@@ -133,7 +133,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>452.13399129862944</real>
+            <real>482.7428078527866</real>
             <key>y</key>
             <real>0.052684223036976174</real>
           </dict>
@@ -159,7 +159,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>401.3520444319389</real>
+            <real>431.96086098609607</real>
             <key>y</key>
             <real>191.65433837150363</real>
           </dict>
@@ -185,7 +185,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>350.5585033728755</real>
+            <real>381.1673199270327</real>
             <key>y</key>
             <real>382.2560597348775</real>
           </dict>
@@ -211,7 +211,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>299.8971078221899</real>
+            <real>330.5059243763471</real>
             <key>y</key>
             <real>574.0854472192276</real>
           </dict>
@@ -237,7 +237,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>350</integer>
+            <real>380.60881655415716</real>
             <key>y</key>
             <integer>185</integer>
           </dict>
@@ -502,6 +502,8 @@
           <string>hola10</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>500</integer>
         </dict>
         <dict>
           <key>deepComponents</key>
@@ -754,6 +756,8 @@
           <string>hola=20</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>500</integer>
         </dict>
         <dict>
           <key>deepComponents</key>
@@ -1006,6 +1010,8 @@
           <string>hola=30</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>500</integer>
         </dict>
         <dict>
           <key>deepComponents</key>
@@ -1258,6 +1264,8 @@
           <string>hola=40</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>500</integer>
         </dict>
         <dict>
           <key>deepComponents</key>
@@ -1510,6 +1518,8 @@
           <string>hola=50</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>500</integer>
         </dict>
         <dict>
           <key>deepComponents</key>
@@ -1762,6 +1772,8 @@
           <string>hola=60</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>500</integer>
         </dict>
         <dict>
           <key>deepComponents</key>
@@ -2014,6 +2026,8 @@
           <string>hola=70</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>500</integer>
         </dict>
         <dict>
           <key>deepComponents</key>
@@ -2266,6 +2280,8 @@
           <string>hola=80</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>500</integer>
         </dict>
         <dict>
           <key>deepComponents</key>
@@ -2518,6 +2534,8 @@
           <string>hola=90</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>500</integer>
         </dict>
       </array>
     </dict>

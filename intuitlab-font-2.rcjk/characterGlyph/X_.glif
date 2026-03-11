@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="X" format="2">
-  <advance width="500"/>
+  <advance width="590.5487585136742"/>
   <unicode hex="0058"/>
   <outline>
   </outline>
@@ -29,7 +29,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>411.56489233987725</real>
+            <real>459.4460405714093</real>
             <key>y</key>
             <real>148.46188865392423</real>
           </dict>
@@ -55,7 +55,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>309.4615443017421</real>
+            <real>357.34269253327415</real>
             <key>y</key>
             <real>312.3975660380844</real>
           </dict>
@@ -81,7 +81,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>104.25295754058953</real>
+            <real>152.1341057721216</real>
             <key>y</key>
             <real>643.2682899159919</real>
           </dict>
@@ -107,7 +107,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>205.35630577736032</real>
+            <real>253.23745400889237</real>
             <key>y</key>
             <real>479.3319822373259</real>
           </dict>
@@ -133,7 +133,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>512.6676102821422</real>
+            <real>560.5487585136742</real>
             <key>y</key>
             <real>-14.47441922337735</real>
           </dict>
@@ -159,7 +159,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>403.22578388137066</real>
+            <real>451.1069321129027</real>
             <key>y</key>
             <real>643.4290398670101</real>
           </dict>
@@ -185,7 +185,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>299.1577911436023</real>
+            <real>347.03893937513436</real>
             <key>y</key>
             <real>480.82875423524433</real>
           </dict>
@@ -211,7 +211,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>89.04480842240957</real>
+            <real>136.92595665394163</real>
             <key>y</key>
             <real>151.6167640343956</real>
           </dict>
@@ -237,7 +237,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>193.11280116017792</real>
+            <real>240.99394939170998</real>
             <key>y</key>
             <real>314.2170496661613</real>
           </dict>
@@ -263,7 +263,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>506.29953555171045</real>
+            <real>554.1806837832426</real>
             <key>y</key>
             <real>805.0235995421461</real>
           </dict>
