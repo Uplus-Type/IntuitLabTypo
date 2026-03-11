@@ -4,22 +4,22 @@
   <unicode hex="0045"/>
   <outline>
     <contour>
-      <point x="102" y="0" type="line"/>
-      <point x="429" y="0" type="line"/>
-      <point x="429" y="7" type="line"/>
-      <point x="429" y="7" type="line"/>
-      <point x="429" y="89" type="line"/>
-      <point x="294" y="89" type="line"/>
-      <point x="294" y="11" type="line"/>
-      <point x="102" y="11" type="line"/>
-      <point x="102" y="739" type="line"/>
-      <point x="276" y="739" type="line"/>
-      <point x="276" y="658" type="line"/>
-      <point x="411" y="658" type="line"/>
-      <point x="411" y="740" type="line"/>
-      <point x="411" y="740" type="line"/>
-      <point x="411" y="750" type="line"/>
-      <point x="102" y="750" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="409" y="0" type="line"/>
+      <point x="409" y="7" type="line"/>
+      <point x="409" y="7" type="line"/>
+      <point x="409" y="89" type="line"/>
+      <point x="274" y="89" type="line"/>
+      <point x="274" y="11" type="line"/>
+      <point x="82" y="11" type="line"/>
+      <point x="82" y="739" type="line"/>
+      <point x="256" y="739" type="line"/>
+      <point x="256" y="658" type="line"/>
+      <point x="391" y="658" type="line"/>
+      <point x="391" y="740" type="line"/>
+      <point x="391" y="740" type="line"/>
+      <point x="391" y="750" type="line"/>
+      <point x="82" y="750" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -44,7 +44,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>68</integer>
+            <integer>48</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
@@ -67,7 +67,30 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>68</integer>
+            <integer>48</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict/>
+          <key>name</key>
+          <string>vertical</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
