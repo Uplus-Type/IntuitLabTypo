@@ -83,8 +83,6 @@
           <dict>
             <key>Taille Arche</key>
             <integer>100</integer>
-            <key>Taille Boule Min</key>
-            <integer>100</integer>
           </dict>
           <key>locationBase</key>
           <string>fae974f5</string>
