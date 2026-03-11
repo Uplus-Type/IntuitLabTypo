@@ -12,7 +12,7 @@
           <key>coord</key>
           <dict>
             <key>Taille Arche</key>
-            <real>349.887133182844</real>
+            <real>747.509875846501</real>
             <key>Taille Boule Min</key>
             <real>281.130079006772</real>
           </dict>
@@ -31,18 +31,18 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>138</integer>
+            <integer>174</integer>
             <key>y</key>
-            <integer>228</integer>
+            <integer>67</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
             <key>Taille Arche</key>
-            <real>652.088036117382</real>
+            <real>316.619638826185</real>
             <key>Taille Boule Min</key>
-            <integer>1000</integer>
+            <real>439.341139954853</real>
           </dict>
           <key>name</key>
           <string>01</string>
@@ -59,9 +59,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>451</integer>
+            <integer>441</integer>
             <key>y</key>
-            <integer>-278</integer>
+            <integer>-442</integer>
           </dict>
         </dict>
         <dict>
@@ -77,19 +77,19 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-35.679848930708914</real>
+            <real>-41.7123489722436</real>
             <key>scalex</key>
-            <real>-0.9999999999999998</real>
+            <real>-0.9999999999999997</real>
             <key>scaley</key>
-            <integer>-1</integer>
+            <real>-0.9999999999999998</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>639</integer>
+            <integer>632</integer>
             <key>y</key>
-            <integer>783</integer>
+            <integer>744</integer>
           </dict>
         </dict>
       </array>
