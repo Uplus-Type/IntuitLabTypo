@@ -17,8 +17,8 @@
       <point x="322" y="800"/>
       <point x="321" y="800" type="curve"/>
       <point x="328" y="240" type="line" smooth="yes"/>
-      <point x="331" y="38"/>
-      <point x="137" y="78"/>
+      <point x="331" y="-16"/>
+      <point x="137" y="-69"/>
       <point x="137" y="245" type="curve" smooth="yes"/>
     </contour>
   </outline>
@@ -69,7 +69,7 @@
             <key>scalex</key>
             <integer>1</integer>
             <key>scaley</key>
-            <integer>1</integer>
+            <real>1.0015910032090936</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
@@ -99,6 +99,29 @@
             <integer>0</integer>
             <key>x</key>
             <integer>-138</integer>
+            <key>y</key>
+            <integer>626</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict/>
+          <key>name</key>
+          <string>haut</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <real>0.8183794762536194</real>
+            <key>scaley</key>
+            <real>0.8445008962411988</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>141</integer>
             <key>y</key>
             <integer>626</integer>
           </dict>
