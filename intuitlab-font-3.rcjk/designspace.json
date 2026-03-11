@@ -8,10 +8,50 @@
                 "minValue": 400,
                 "name": "weight",
                 "tag": "wght"
+            },
+            {
+                "defaultValue": 50,
+                "label": "Width",
+                "maxValue": 200,
+                "minValue": 50,
+                "name": "width",
+                "tag": "wdth"
             }
         ]
     },
+    "fontInfo": {
+        "familyName": "HERITAGE"
+    },
     "sources": {
+        "37ddb891": {
+            "lineMetricsHorizontalLayout": {
+                "ascender": {
+                    "value": 800,
+                    "zone": 16
+                },
+                "baseline": {
+                    "value": 0,
+                    "zone": -16
+                },
+                "capHeight": {
+                    "value": 750,
+                    "zone": 16
+                },
+                "descender": {
+                    "value": -250,
+                    "zone": -16
+                },
+                "xHeight": {
+                    "value": 500,
+                    "zone": 16
+                }
+            },
+            "location": {
+                "weight": 900,
+                "width": 200
+            },
+            "name": "BLACK"
+        },
         "ff54fce8": {
             "lineMetricsHorizontalLayout": {
                 "ascender": {
@@ -35,7 +75,7 @@
                     "zone": 16
                 }
             },
-            "name": "Default"
+            "name": "REGULAR"
         }
     }
 }
