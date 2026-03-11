@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="W" format="2">
-  <advance width="500"/>
+  <advance width="396"/>
   <unicode hex="0057"/>
   <outline>
   </outline>
@@ -648,6 +648,8 @@
           <string>weight=700</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>1586</integer>
         </dict>
       </array>
     </dict>
