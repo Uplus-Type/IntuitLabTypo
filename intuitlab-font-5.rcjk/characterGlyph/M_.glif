@@ -4,15 +4,10 @@
   <unicode hex="004D"/>
   <outline>
     <contour>
-      <point x="102" y="567" type="line"/>
-      <point x="102" y="500" type="line"/>
-      <point x="158" y="500" type="line"/>
-      <point x="158" y="567" type="line"/>
-    </contour>
-    <contour>
-      <point x="102" y="567" type="move"/>
-      <point x="102" y="567" type="line"/>
-      <point x="102" y="567" type="line"/>
+      <point x="9" y="557" type="line"/>
+      <point x="9" y="500" type="line"/>
+      <point x="65" y="500" type="line"/>
+      <point x="65" y="557" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -42,7 +37,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>93</integer>
+            <integer>0</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
@@ -70,7 +65,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>318</integer>
+            <integer>425</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
