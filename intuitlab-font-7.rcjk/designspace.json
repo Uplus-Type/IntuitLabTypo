@@ -7,9 +7,24 @@
                 "maxValue": 700,
                 "minValue": 400,
                 "name": "weight",
-                "tag": "wght"
+                "tag": "wght",
+                "valueLabels": [
+                    {
+                        "name": "Untitled",
+                        "value": 0
+                    },
+                    {
+                        "name": "Normal",
+                        "value": 400
+                    }
+                ]
             }
         ]
+    },
+    "fontInfo": {
+        "familyName": "CheminoFontV3",
+        "versionMajor": 1,
+        "versionMinor": 0
     },
     "sources": {
         "94b5e04d": {
