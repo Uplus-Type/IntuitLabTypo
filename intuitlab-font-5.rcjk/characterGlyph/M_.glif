@@ -14,7 +14,7 @@
             <key>Br</key>
             <integer>0</integer>
             <key>Hauteur</key>
-            <real>498.302158273381</real>
+            <integer>500</integer>
           </dict>
           <key>name</key>
           <string>pied</string>
@@ -31,7 +31,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>92</integer>
+            <integer>93</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
