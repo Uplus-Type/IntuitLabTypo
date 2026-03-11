@@ -12,7 +12,7 @@
           <key>coord</key>
           <dict>
             <key>Taille Arche</key>
-            <integer>723</integer>
+            <real>452.673532731377</real>
             <key>Taille Boule Min</key>
             <real>340.427483069977</real>
           </dict>
@@ -21,9 +21,9 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>36.90995395286955</real>
+            <real>40.41076610451113</real>
             <key>scalex</key>
-            <real>0.9999999999999999</real>
+            <real>0.9999999999999998</real>
             <key>scaley</key>
             <integer>1</integer>
             <key>tcenterx</key>
@@ -31,37 +31,37 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>107</integer>
+            <integer>162</integer>
             <key>y</key>
-            <integer>19</integer>
+            <integer>151</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
             <key>Taille Arche</key>
-            <real>548.984198645598</real>
-            <key>Taille Boule </key>
-            <real>857.660835214447</real>
+            <real>452.673532731377</real>
+            <key>Taille Boule Min</key>
+            <integer>1000</integer>
           </dict>
           <key>name</key>
-          <string>06</string>
+          <string>01</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-35.95056245122836</real>
+            <real>40.41076610451113</real>
             <key>scalex</key>
-            <real>-0.9999999999999999</real>
+            <real>0.9999999999999998</real>
             <key>scaley</key>
-            <integer>-1</integer>
+            <integer>1</integer>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>937</integer>
+            <integer>357</integer>
             <key>y</key>
-            <integer>145</integer>
+            <integer>-290</integer>
           </dict>
         </dict>
       </array>
