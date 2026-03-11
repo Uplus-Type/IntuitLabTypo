@@ -49,7 +49,7 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>weight=900</string>
+          <string>weight=100</string>
           <key>location</key>
           <dict>
             <key>weight</key>
