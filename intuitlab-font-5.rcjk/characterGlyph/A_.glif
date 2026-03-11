@@ -79,7 +79,7 @@
             <key>scalex</key>
             <integer>1</integer>
             <key>scaley</key>
-            <real>0.9723168934109323</real>
+            <real>0.9723094017063819</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
@@ -113,7 +113,7 @@
             <key>x</key>
             <integer>115</integer>
             <key>y</key>
-            <integer>406</integer>
+            <integer>405</integer>
           </dict>
         </dict>
       </array>
