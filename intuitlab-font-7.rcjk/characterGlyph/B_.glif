@@ -201,7 +201,7 @@
             <key>x</key>
             <integer>-120</integer>
             <key>y</key>
-            <integer>256</integer>
+            <integer>245</integer>
           </dict>
         </dict>
         <dict>
@@ -285,7 +285,7 @@
             <key>x</key>
             <integer>-54</integer>
             <key>y</key>
-            <integer>253</integer>
+            <integer>245</integer>
           </dict>
         </dict>
         <dict>
@@ -313,7 +313,7 @@
             <key>x</key>
             <integer>-53</integer>
             <key>y</key>
-            <integer>-140</integer>
+            <integer>-125</integer>
           </dict>
         </dict>
         <dict>
@@ -341,7 +341,7 @@
             <key>x</key>
             <integer>-54</integer>
             <key>y</key>
-            <integer>-357</integer>
+            <integer>-354</integer>
           </dict>
         </dict>
         <dict>
@@ -397,7 +397,7 @@
             <key>x</key>
             <integer>-54</integer>
             <key>y</key>
-            <integer>13</integer>
+            <integer>-6</integer>
           </dict>
         </dict>
         <dict>
@@ -799,7 +799,7 @@
                 <key>x</key>
                 <integer>342</integer>
                 <key>y</key>
-                <integer>-140</integer>
+                <integer>-129</integer>
               </dict>
             </dict>
             <dict>
@@ -827,7 +827,7 @@
                 <key>x</key>
                 <integer>342</integer>
                 <key>y</key>
-                <integer>-340</integer>
+                <integer>-349</integer>
               </dict>
             </dict>
             <dict>
@@ -883,7 +883,7 @@
                 <key>x</key>
                 <integer>342</integer>
                 <key>y</key>
-                <integer>3</integer>
+                <integer>-9</integer>
               </dict>
             </dict>
             <dict>
@@ -985,7 +985,7 @@
           <key>status</key>
           <integer>0</integer>
           <key>width</key>
-          <integer>881</integer>
+          <integer>919</integer>
         </dict>
       </array>
     </dict>
