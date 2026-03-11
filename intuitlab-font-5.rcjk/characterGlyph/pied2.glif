@@ -34,8 +34,8 @@
       <point x="92" y="19" type="move"/>
       <point x="92" y="52" type="line"/>
       <point x="92" y="-37"/>
-      <point x="416" y="-37"/>
-      <point x="416" y="52" type="curve"/>
+      <point x="417" y="-58"/>
+      <point x="417" y="112" type="curve"/>
       <point x="418" y="756" type="line"/>
       <point x="418" y="800"/>
       <point x="420" y="800"/>

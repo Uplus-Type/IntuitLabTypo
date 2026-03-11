@@ -48,58 +48,6 @@
             <key>scalex</key>
             <real>0.6764310602800027</real>
             <key>scaley</key>
-            <real>-0.6764310602800027</real>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>63</integer>
-            <key>y</key>
-            <integer>306</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>Hauteur</key>
-            <integer>333</integer>
-          </dict>
-          <key>name</key>
-          <string>tiret</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <real>-0.6764310602800027</real>
-            <key>scaley</key>
-            <real>0.6764310602800027</real>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>376</integer>
-            <key>y</key>
-            <integer>210</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>Hauteur</key>
-            <integer>333</integer>
-          </dict>
-          <key>name</key>
-          <string>tiret</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <real>0.6764310602800027</real>
-            <key>scaley</key>
             <real>0.6764310602800027</real>
             <key>tcenterx</key>
             <integer>0</integer>
