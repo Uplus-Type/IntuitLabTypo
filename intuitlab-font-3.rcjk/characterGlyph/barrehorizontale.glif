@@ -3,10 +3,18 @@
   <advance width="500"/>
   <outline>
     <contour>
-      <point x="0" y="750" type="line"/>
-      <point x="0" y="667" type="line"/>
-      <point x="497" y="667" type="line"/>
-      <point x="497" y="750" type="line"/>
+      <point x="0" y="750" type="curve"/>
+      <point x="0" y="722"/>
+      <point x="0" y="695"/>
+      <point x="0" y="667" type="curve"/>
+      <point x="166" y="667"/>
+      <point x="331" y="667"/>
+      <point x="497" y="667" type="curve"/>
+      <point x="497" y="695"/>
+      <point x="497" y="722"/>
+      <point x="497" y="750" type="curve"/>
+      <point x="331" y="750"/>
+      <point x="166" y="750"/>
     </contour>
   </outline>
   <lib>
@@ -15,6 +23,23 @@
       <string>ff54fce8</string>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>37ddb891</string>
+          <key>location</key>
+          <dict/>
+          <key>locationBase</key>
+          <string>37ddb891</string>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string></string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

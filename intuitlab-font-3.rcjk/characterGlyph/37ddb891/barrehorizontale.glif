@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="barrehorizontale" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="0" y="750" type="curve"/>
+      <point x="0" y="722"/>
+      <point x="0" y="695"/>
+      <point x="0" y="667" type="curve"/>
+      <point x="166" y="667"/>
+      <point x="331" y="667"/>
+      <point x="497" y="667" type="curve"/>
+      <point x="497" y="695"/>
+      <point x="497" y="722"/>
+      <point x="497" y="750" type="curve"/>
+      <point x="331" y="750"/>
+      <point x="166" y="750"/>
+    </contour>
+  </outline>
+</glyph>
