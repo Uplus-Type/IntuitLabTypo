@@ -5,10 +5,10 @@
     <contour>
       <point x="248" y="333" type="line"/>
       <point x="0" y="333" type="line"/>
-      <point x="0" y="311" type="line"/>
-      <point x="86" y="303"/>
-      <point x="101" y="285"/>
-      <point x="120" y="258" type="curve"/>
+      <point x="0" y="321" type="line"/>
+      <point x="86" y="313"/>
+      <point x="120" y="300"/>
+      <point x="120" y="271" type="curve"/>
       <point x="120" y="20" type="line" smooth="yes"/>
       <point x="120" y="8"/>
       <point x="118" y="2"/>
