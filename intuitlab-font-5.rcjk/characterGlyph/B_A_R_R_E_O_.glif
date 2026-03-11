@@ -4,8 +4,8 @@
   <outline>
     <contour>
       <point x="84" y="301" type="line"/>
-      <point x="83" y="32" type="line"/>
-      <point x="147" y="0" type="line"/>
+      <point x="81" y="32" type="line"/>
+      <point x="145" y="0" type="line"/>
       <point x="148" y="301" type="line"/>
     </contour>
   </outline>
@@ -24,19 +24,19 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>3.800271695588541</real>
+            <integer>0</integer>
             <key>scalex</key>
-            <real>-0.4134301789249684</real>
+            <real>-0.31415312989780214</real>
             <key>scaley</key>
-            <real>-0.41343017892496836</real>
+            <real>-0.31415312989780214</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>300</integer>
+            <integer>270</integer>
             <key>y</key>
-            <integer>171</integer>
+            <integer>122</integer>
           </dict>
         </dict>
       </array>
