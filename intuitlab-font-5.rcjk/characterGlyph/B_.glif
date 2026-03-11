@@ -24,9 +24,9 @@
       <point x="333" y="449" type="curve"/>
       <point x="340" y="240" type="line" smooth="yes"/>
       <point x="347" y="38"/>
-      <point x="92" y="43"/>
-      <point x="92" y="237" type="curve"/>
-      <point x="99" y="612" type="line"/>
+      <point x="97" y="38"/>
+      <point x="97" y="232" type="curve"/>
+      <point x="96" y="612" type="line"/>
     </contour>
     <contour>
       <point x="9" y="612" type="move"/>
@@ -67,9 +67,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>357</integer>
+            <integer>325</integer>
             <key>y</key>
-            <integer>596</integer>
+            <integer>612</integer>
           </dict>
         </dict>
       </array>
