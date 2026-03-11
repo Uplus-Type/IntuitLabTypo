@@ -39,17 +39,17 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>Hauteur</key>
-            <integer>333</integer>
+            <key>Largeur</key>
+            <integer>153</integer>
           </dict>
           <key>name</key>
-          <string>tiret</string>
+          <string>tete</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
             <integer>0</integer>
             <key>scalex</key>
-            <integer>1</integer>
+            <real>0.7199289292639723</real>
             <key>scaley</key>
             <integer>1</integer>
             <key>tcenterx</key>
@@ -57,9 +57,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-71</integer>
+            <integer>532</integer>
             <key>y</key>
-            <integer>229</integer>
+            <integer>540</integer>
           </dict>
         </dict>
       </array>
