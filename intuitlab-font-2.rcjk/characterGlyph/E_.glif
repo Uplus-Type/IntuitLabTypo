@@ -12,7 +12,7 @@
           <key>coord</key>
           <dict>
             <key>inflate</key>
-            <integer>100</integer>
+            <integer>60</integer>
           </dict>
           <key>name</key>
           <string>composant2</string>
@@ -38,7 +38,7 @@
           <key>coord</key>
           <dict>
             <key>inflate</key>
-            <integer>100</integer>
+            <integer>60</integer>
           </dict>
           <key>name</key>
           <string>composant2</string>
@@ -64,7 +64,7 @@
           <key>coord</key>
           <dict>
             <key>inflate</key>
-            <integer>100</integer>
+            <integer>60</integer>
           </dict>
           <key>name</key>
           <string>composant2</string>
@@ -90,7 +90,7 @@
           <key>coord</key>
           <dict>
             <key>inflate</key>
-            <integer>100</integer>
+            <integer>60</integer>
           </dict>
           <key>name</key>
           <string>composant2</string>
@@ -116,7 +116,7 @@
           <key>coord</key>
           <dict>
             <key>inflate</key>
-            <integer>100</integer>
+            <integer>60</integer>
           </dict>
           <key>name</key>
           <string>composant2</string>
@@ -142,7 +142,7 @@
           <key>coord</key>
           <dict>
             <key>inflate</key>
-            <integer>100</integer>
+            <integer>60</integer>
           </dict>
           <key>name</key>
           <string>composant2</string>
