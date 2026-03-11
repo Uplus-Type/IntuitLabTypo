@@ -124,7 +124,7 @@
           <key>coord</key>
           <dict>
             <key>HAUTEUR</key>
-            <real>5.99943534726143</real>
+            <integer>0</integer>
             <key>dedoublage</key>
             <integer>0</integer>
           </dict>
@@ -145,7 +145,7 @@
             <key>x</key>
             <integer>12</integer>
             <key>y</key>
-            <integer>-100</integer>
+            <integer>-66</integer>
           </dict>
         </dict>
         <dict>
@@ -330,7 +330,7 @@
               <key>coord</key>
               <dict>
                 <key>HAUTEUR</key>
-                <real>5.99943534726143</real>
+                <integer>0</integer>
                 <key>dedoublage</key>
                 <integer>0</integer>
               </dict>
@@ -351,7 +351,7 @@
                 <key>x</key>
                 <integer>673</integer>
                 <key>y</key>
-                <integer>-100</integer>
+                <integer>-66</integer>
               </dict>
             </dict>
             <dict>
