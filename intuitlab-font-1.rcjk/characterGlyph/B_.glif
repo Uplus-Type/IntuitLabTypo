@@ -11,6 +11,10 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>Epaisseur</key>
+            <real>490.470219435737</real>
+            <key>Taille</key>
+            <real>671.03</real>
             <key>height</key>
             <integer>500</integer>
           </dict>
@@ -23,15 +27,15 @@
             <key>scalex</key>
             <integer>1</integer>
             <key>scaley</key>
-            <real>1.4991367819022814</real>
+            <integer>1</integer>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-1920</integer>
+            <integer>-192</integer>
             <key>y</key>
-            <integer>2</integer>
+            <integer>116</integer>
           </dict>
         </dict>
         <dict>

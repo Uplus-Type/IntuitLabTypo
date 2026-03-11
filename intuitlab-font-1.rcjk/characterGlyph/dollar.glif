@@ -29,7 +29,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>553</integer>
+            <integer>554</integer>
             <key>y</key>
             <integer>88</integer>
           </dict>
@@ -55,7 +55,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>-50.99999999999994</real>
+            <integer>-52</integer>
             <key>y</key>
             <integer>402</integer>
           </dict>
@@ -106,7 +106,7 @@
             <key>x</key>
             <integer>317</integer>
             <key>y</key>
-            <integer>539</integer>
+            <integer>532</integer>
           </dict>
         </dict>
         <dict>
@@ -120,11 +120,11 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-2.3751782980993768</real>
+            <real>2.3751782980993768</real>
             <key>scalex</key>
             <real>1.207853529188772</real>
             <key>scaley</key>
-            <real>1.2078535291887713</real>
+            <real>-1.2078535291887713</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
@@ -132,7 +132,7 @@
             <key>x</key>
             <integer>197</integer>
             <key>y</key>
-            <integer>-52</integer>
+            <real>531.4567681464481</real>
           </dict>
         </dict>
         <dict>
@@ -166,7 +166,7 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-43.45062819634748</real>
+            <real>-60.142286680801924</real>
             <key>scalex</key>
             <real>0.44316872645297073</real>
             <key>scaley</key>
@@ -176,9 +176,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>450</integer>
+            <integer>498</integer>
             <key>y</key>
-            <integer>279</integer>
+            <integer>303</integer>
           </dict>
         </dict>
         <dict>
