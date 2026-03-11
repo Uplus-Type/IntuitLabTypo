@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="z" format="2">
-  <advance width="500"/>
+  <advance width="450"/>
   <unicode hex="007A"/>
   <outline>
   </outline>
@@ -2013,6 +2013,8 @@
           <string></string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>500</integer>
         </dict>
       </array>
     </dict>
