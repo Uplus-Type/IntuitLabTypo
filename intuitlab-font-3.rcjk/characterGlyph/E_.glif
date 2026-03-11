@@ -33,9 +33,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>428</integer>
+            <integer>432</integer>
             <key>y</key>
-            <integer>620</integer>
+            <integer>624</integer>
           </dict>
         </dict>
         <dict>
@@ -59,9 +59,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>57</integer>
+            <integer>61</integer>
             <key>y</key>
-            <integer>64</integer>
+            <integer>68</integer>
           </dict>
         </dict>
       </array>
@@ -69,6 +69,83 @@
       <string>ff54fce8</string>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>epaisseur_fut</key>
+                <integer>10</integer>
+                <key>goutte</key>
+                <integer>100</integer>
+                <key>hauteur</key>
+                <real>40.4627539503386</real>
+              </dict>
+              <key>name</key>
+              <string>compoE</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>432</integer>
+                <key>y</key>
+                <integer>624</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>hauteur</key>
+                <integer>100</integer>
+              </dict>
+              <key>name</key>
+              <string>compoFUT</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>61</integer>
+                <key>y</key>
+                <integer>68</integer>
+              </dict>
+            </dict>
+          </array>
+          <key>layerName</key>
+          <string></string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <integer>900</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=900</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>
