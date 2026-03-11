@@ -5,12 +5,12 @@
     <contour>
       <point x="65" y="36" type="line"/>
       <point x="65" y="18" type="line" smooth="yes"/>
-      <point x="65" y="14"/>
-      <point x="67.91901219773081" y="0"/>
+      <point x="65" y="6"/>
+      <point x="67" y="2"/>
       <point x="74" y="0" type="curve"/>
       <point x="0" y="0" type="line"/>
-      <point x="6.080987802269202" y="0"/>
-      <point x="9" y="14"/>
+      <point x="6" y="0"/>
+      <point x="9" y="7"/>
       <point x="9" y="18" type="curve" smooth="yes"/>
       <point x="9" y="36" type="line"/>
     </contour>
