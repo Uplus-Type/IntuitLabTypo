@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="E" format="2">
-  <advance width="500"/>
+  <advance width="449"/>
   <unicode hex="0045"/>
   <outline>
     <contour>
-      <point x="409" y="89" type="line"/>
-      <point x="274" y="89" type="line"/>
-      <point x="274" y="11" type="line"/>
-      <point x="82" y="11" type="line"/>
-      <point x="82" y="739" type="line"/>
-      <point x="256" y="739" type="line"/>
-      <point x="256" y="658" type="line"/>
-      <point x="391" y="658" type="line"/>
-      <point x="391" y="740" type="line"/>
-      <point x="391" y="740" type="line"/>
-      <point x="391" y="750" type="line"/>
-      <point x="0" y="750" type="line"/>
-      <point x="0" y="740" type="line"/>
-      <point x="0" y="740" type="line"/>
-      <point x="0" y="1" type="line"/>
-      <point x="0" y="1" type="line"/>
-      <point x="0" y="0" type="line"/>
-      <point x="409" y="0" type="line"/>
-      <point x="409" y="7" type="line"/>
-      <point x="409" y="7" type="line"/>
+      <point x="429" y="89" type="line"/>
+      <point x="294" y="89" type="line"/>
+      <point x="294" y="11" type="line"/>
+      <point x="102" y="11" type="line"/>
+      <point x="102" y="739" type="line"/>
+      <point x="276" y="739" type="line"/>
+      <point x="276" y="658" type="line"/>
+      <point x="411" y="658" type="line"/>
+      <point x="411" y="740" type="line"/>
+      <point x="411" y="740" type="line"/>
+      <point x="411" y="750" type="line"/>
+      <point x="20" y="750" type="line"/>
+      <point x="20" y="740" type="line"/>
+      <point x="20" y="740" type="line"/>
+      <point x="20" y="1" type="line"/>
+      <point x="20" y="1" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="429" y="0" type="line"/>
+      <point x="429" y="7" type="line"/>
+      <point x="429" y="7" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -48,7 +48,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>48</integer>
+            <integer>68</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
@@ -71,7 +71,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>48</integer>
+            <integer>68</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
