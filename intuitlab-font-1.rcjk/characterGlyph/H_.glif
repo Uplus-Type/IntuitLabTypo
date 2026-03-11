@@ -68,7 +68,7 @@
           <key>coord</key>
           <dict>
             <key>Taille Arche</key>
-            <real>268.8769751693</real>
+            <real>271.289503386005</real>
             <key>Taille Boule Min</key>
             <integer>400</integer>
           </dict>
@@ -90,6 +90,34 @@
             <integer>-153</integer>
             <key>y</key>
             <integer>340</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>Taille Arche</key>
+            <real>257.44920993228</real>
+            <key>Taille Boule </key>
+            <integer>400</integer>
+          </dict>
+          <key>name</key>
+          <string>06</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>12.063505845673726</real>
+            <key>scalex</key>
+            <integer>-1</integer>
+            <key>scaley</key>
+            <real>1.0000000000000007</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>699</integer>
+            <key>y</key>
+            <integer>235</integer>
           </dict>
         </dict>
       </array>
