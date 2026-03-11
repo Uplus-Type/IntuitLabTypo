@@ -71,19 +71,19 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>16.93858476159973</real>
+            <real>17.373656035771646</real>
             <key>scalex</key>
             <real>-0.9999999999999994</real>
             <key>scaley</key>
-            <real>-1.0000000000000007</real>
+            <real>-1.0000000000000009</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>380.07028317532405</real>
+            <real>379.5639793245719</real>
             <key>y</key>
-            <real>675.3910799394142</real>
+            <real>679.4049470082426</real>
           </dict>
         </dict>
         <dict>
@@ -107,9 +107,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>437.99985184445137</real>
+            <integer>439</integer>
             <key>y</key>
-            <real>486.8839354855847</real>
+            <integer>491</integer>
           </dict>
         </dict>
         <dict>
@@ -123,19 +123,19 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-22.934131404826434</real>
+            <real>-21.577706815407545</real>
             <key>scalex</key>
-            <real>-0.9999999999999999</real>
+            <real>-0.9999999999999998</real>
             <key>scaley</key>
-            <real>-1.0000000000000016</real>
+            <real>-1.0000000000000013</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>451</integer>
+            <real>445.6590506837453</real>
             <key>y</key>
-            <integer>294</integer>
+            <real>293.0112995928571</real>
           </dict>
         </dict>
         <dict>
