@@ -119,9 +119,9 @@
             <key>rotation</key>
             <integer>0</integer>
             <key>scalex</key>
-            <real>-0.17900013831260458</real>
+            <integer>-1</integer>
             <key>scaley</key>
-            <real>-0.7525760186110212</real>
+            <integer>-1</integer>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
