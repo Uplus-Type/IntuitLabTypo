@@ -98,7 +98,7 @@
           <key>coord</key>
           <dict>
             <key>hauteur</key>
-            <integer>0</integer>
+            <real>22.0231376975169</real>
           </dict>
           <key>name</key>
           <string>compoFUT</string>
@@ -115,7 +115,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-214</integer>
+            <integer>-195</integer>
             <key>y</key>
             <integer>429</integer>
           </dict>
@@ -214,6 +214,32 @@
                 <integer>432</integer>
                 <key>y</key>
                 <integer>75</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>hauteur</key>
+                <real>22.0231376975169</real>
+              </dict>
+              <key>name</key>
+              <string>compoFUT</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>-90</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>-195</integer>
+                <key>y</key>
+                <integer>429</integer>
               </dict>
             </dict>
           </array>
