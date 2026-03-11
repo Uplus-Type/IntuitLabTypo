@@ -22,5 +22,19 @@
       <point x="0" y="59"/>
       <point x="0" y="16" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="358" y="0" type="move"/>
+    </contour>
+    <contour>
+      <point x="358" y="0" type="move"/>
+      <point x="400" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="400" y="0" type="move"/>
+      <point x="400" y="51" type="line"/>
+    </contour>
+    <contour>
+      <point x="400" y="51" type="move"/>
+    </contour>
   </outline>
 </glyph>
