@@ -94,18 +94,18 @@
           <key>coord</key>
           <dict>
             <key>Epaisseur Arche</key>
-            <real>564.23125794155</real>
+            <real>538.818297331639</real>
             <key>Taille Arche</key>
-            <real>272.681067344346</real>
+            <real>244.15501905972</real>
             <key>Taille Boule </key>
-            <real>581.194409148666</real>
+            <real>648.919949174079</real>
           </dict>
           <key>name</key>
           <string>06</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>20.090831721348362</real>
+            <real>29.99392655735064</real>
             <key>scalex</key>
             <integer>1</integer>
             <key>scaley</key>
@@ -115,18 +115,18 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>112</integer>
+            <integer>155</integer>
             <key>y</key>
-            <integer>55</integer>
+            <integer>17</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
             <key>Epaisseur Arche</key>
-            <real>554.764930114358</real>
+            <real>604.701397712833</real>
             <key>Taille Arche</key>
-            <real>233.672172808132</real>
+            <real>186.975857687421</real>
             <key>Taille Boule </key>
             <integer>100</integer>
           </dict>
@@ -135,19 +135,19 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>81.23478469503989</real>
+            <real>71.80504107293568</real>
             <key>scalex</key>
             <real>0.9999999999999998</real>
             <key>scaley</key>
-            <integer>1</integer>
+            <real>1.0000000000000002</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>584</integer>
+            <integer>536</integer>
             <key>y</key>
-            <integer>37</integer>
+            <integer>52</integer>
           </dict>
         </dict>
       </array>
