@@ -19,11 +19,11 @@
             },
             {
                 "defaultValue": 0,
-                "label": "Losange",
+                "label": "Rounded2",
                 "maxValue": 100,
                 "minValue": 0,
-                "name": "losange",
-                "tag": "LOSAN"
+                "name": "rounded2",
+                "tag": "RON2"
             },
             {
                 "defaultValue": 0,
