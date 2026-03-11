@@ -15,19 +15,17 @@
       <point x="9" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="460" y="36" type="line"/>
-      <point x="65" y="153" type="line"/>
+      <point x="65" y="153" type="move"/>
       <point x="65" y="0" type="line"/>
-      <point x="460" y="0" type="line"/>
+      <point x="500" y="0" type="line"/>
+      <point x="500" y="36" type="line"/>
     </contour>
     <contour>
-      <point x="65" y="18" type="move"/>
-      <point x="65" y="500" type="line"/>
-      <point x="9" y="500" type="line"/>
-      <point x="9" y="18" type="line"/>
-      <point x="9" y="6"/>
-      <point x="7" y="2"/>
-      <point x="0" y="0" type="curve"/>
+      <point x="65" y="153" type="move"/>
+      <point x="500" y="36" type="line"/>
+      <point x="500" y="500" type="line"/>
+      <point x="444" y="500" type="line"/>
+      <point x="444" y="52" type="line" smooth="yes"/>
     </contour>
   </outline>
   <lib>
