@@ -32,23 +32,6 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string>height</string>
-          <key>location</key>
-          <dict>
-            <key>height</key>
-            <integer>1000</integer>
-          </dict>
-          <key>locationBase</key>
-          <string>fae974f5</string>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>height</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
           <string>weight</string>
           <key>location</key>
           <dict>
