@@ -42,7 +42,7 @@
           <key>coord</key>
           <dict>
             <key>Epaisseur Arche</key>
-            <real>418.742058449809</real>
+            <integer>1000</integer>
             <key>Taille Arche</key>
             <real>355.654383735705</real>
             <key>Taille Boule </key>
@@ -53,9 +53,9 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-36.60538898884788</real>
+            <real>-52.837779711705906</real>
             <key>scalex</key>
-            <integer>-1</integer>
+            <real>-0.9999999999999998</real>
             <key>scaley</key>
             <integer>-1</integer>
             <key>tcenterx</key>
@@ -63,9 +63,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>471</integer>
+            <integer>442</integer>
             <key>y</key>
-            <integer>687</integer>
+            <integer>566</integer>
           </dict>
         </dict>
         <dict>
@@ -76,14 +76,14 @@
             <key>Taille Arche</key>
             <real>356.607369758577</real>
             <key>Taille Boule </key>
-            <integer>400</integer>
+            <real>401.33418043202</real>
           </dict>
           <key>name</key>
           <string>06</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>21.914826453934833</real>
+            <real>25.491610365352532</real>
             <key>scalex</key>
             <integer>-1</integer>
             <key>scaley</key>
@@ -93,7 +93,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>323</integer>
+            <integer>313</integer>
             <key>y</key>
             <integer>1068</integer>
           </dict>
