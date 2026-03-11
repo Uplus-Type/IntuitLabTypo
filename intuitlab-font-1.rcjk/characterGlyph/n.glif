@@ -6,58 +6,6 @@
   </outline>
   <lib>
     <dict>
-      <key>robocjk.deepComponents</key>
-      <array>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>height</key>
-            <integer>500</integer>
-          </dict>
-          <key>name</key>
-          <string>02</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>-1</integer>
-            <key>scaley</key>
-            <real>-0.9957257952650764</real>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <real>224.02284214373287</real>
-            <key>y</key>
-            <real>513.3757313723961</real>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict/>
-          <key>name</key>
-          <string>05</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <real>-79.72616252415487</real>
-            <key>scalex</key>
-            <real>-1.9078345206184386</real>
-            <key>scaley</key>
-            <real>1.9078345206184366</real>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <real>-115.7000557110714</real>
-            <key>y</key>
-            <real>-277.6440179945399</real>
-          </dict>
-        </dict>
-      </array>
       <key>robocjk.locationBase</key>
       <string>fae974f5</string>
       <key>robocjk.status</key>

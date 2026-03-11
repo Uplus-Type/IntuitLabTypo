@@ -19,19 +19,19 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>24.028027645455154</real>
+            <real>34.30664286204059</real>
             <key>scalex</key>
-            <real>1.7358806751270328</real>
+            <real>1.7445197120506681</real>
             <key>scaley</key>
-            <real>-1.735880675127033</real>
+            <real>1.7445197120506681</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>-416.36240167239583</real>
+            <real>41.3848925574552</real>
             <key>y</key>
-            <real>595.7689213502183</real>
+            <real>-230.1359355449943</real>
           </dict>
         </dict>
         <dict>
@@ -44,40 +44,17 @@
             <key>rotation</key>
             <real>-41.38221435110537</real>
             <key>scalex</key>
-            <real>-1.2244316409854474</real>
+            <real>-1.6175667691670468</real>
             <key>scaley</key>
-            <real>-1.2244316409854472</real>
+            <real>-1.6175667691670468</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>989.910362757429</real>
+            <real>1131.476012298835</real>
             <key>y</key>
-            <real>39.855862487326895</real>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict/>
-          <key>name</key>
-          <string>03</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <real>55.72877263965525</real>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>567</integer>
-            <key>y</key>
-            <integer>-17</integer>
+            <real>11.436183453633927</real>
           </dict>
         </dict>
       </array>
