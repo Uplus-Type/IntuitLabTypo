@@ -584,7 +584,7 @@
                 <key>HAUTEUR</key>
                 <real>34.9096555618295</real>
                 <key>dedoublage</key>
-                <integer>100</integer>
+                <integer>0</integer>
               </dict>
               <key>name</key>
               <string>compotest</string>
