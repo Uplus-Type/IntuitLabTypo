@@ -3,12 +3,12 @@
   <advance width="500"/>
   <outline>
     <contour>
-      <point x="1" y="116" type="move"/>
-      <point x="116" y="90"/>
-      <point x="123" y="88"/>
+      <point x="0" y="116" type="line"/>
+      <point x="0" y="109" type="line"/>
+      <point x="111" y="109"/>
+      <point x="184" y="60"/>
       <point x="184" y="0" type="curve"/>
       <point x="184" y="116" type="line"/>
-      <point x="0" y="116" type="line"/>
     </contour>
   </outline>
   <lib>
