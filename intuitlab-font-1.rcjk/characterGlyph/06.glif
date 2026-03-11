@@ -194,6 +194,25 @@
           <key>status</key>
           <integer>0</integer>
         </dict>
+        <dict>
+          <key>layerName</key>
+          <string>Taille Arche=100,Taille Boule =1000</string>
+          <key>location</key>
+          <dict>
+            <key>Taille Arche</key>
+            <integer>100</integer>
+            <key>Taille Boule </key>
+            <integer>1000</integer>
+          </dict>
+          <key>locationBase</key>
+          <string>fae974f5</string>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>Taille Arche=100,Taille Boule =1000</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
       </array>
     </dict>
   </lib>
