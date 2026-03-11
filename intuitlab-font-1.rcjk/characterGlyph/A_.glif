@@ -132,6 +132,36 @@
             <real>51.03972859978987</real>
           </dict>
         </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>Taille Arche</key>
+            <real>479.92376111817</real>
+            <key>Taille Boule Min</key>
+            <real>423.40875449355</real>
+            <key>height</key>
+            <integer>400</integer>
+          </dict>
+          <key>name</key>
+          <string>01</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>-28.868663558681355</real>
+            <key>scalex</key>
+            <real>-0.9999999999999998</real>
+            <key>scaley</key>
+            <real>1.0000000000000007</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>416</integer>
+            <key>y</key>
+            <integer>-82</integer>
+          </dict>
+        </dict>
       </array>
       <key>robocjk.locationBase</key>
       <string>fae974f5</string>
