@@ -8,14 +8,14 @@
       <point x="46" y="10"/>
       <point x="46" y="10"/>
       <point x="46" y="10" type="curve"/>
-      <point x="546" y="10" type="line"/>
-      <point x="546" y="10"/>
-      <point x="546" y="10"/>
-      <point x="546" y="10" type="curve"/>
-      <point x="546" y="510" type="line"/>
-      <point x="546" y="510"/>
-      <point x="546" y="510"/>
-      <point x="546" y="510" type="curve"/>
+      <point x="526" y="10" type="line"/>
+      <point x="526" y="10"/>
+      <point x="526" y="10"/>
+      <point x="526" y="10" type="curve"/>
+      <point x="526" y="510" type="line"/>
+      <point x="526" y="510"/>
+      <point x="526" y="510"/>
+      <point x="526" y="510" type="curve"/>
       <point x="46" y="510" type="line"/>
       <point x="46" y="510"/>
       <point x="46" y="510"/>
@@ -41,6 +41,21 @@
           <true/>
           <key>sourceName</key>
           <string>rounded=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>width=50</string>
+          <key>location</key>
+          <dict>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=50</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
