@@ -6,9 +6,10 @@
     <contour>
       <point x="353" y="623" type="curve"/>
       <point x="263" y="623" type="line"/>
-      <point x="285" y="745" type="line"/>
-      <point x="298" y="690"/>
-      <point x="306" y="650"/>
+      <point x="263" y="684" type="line"/>
+      <point x="312" y="684" type="line"/>
+      <point x="325" y="647"/>
+      <point x="343" y="635"/>
     </contour>
   </outline>
   <lib>
@@ -54,17 +55,17 @@
             <key>rotation</key>
             <integer>0</integer>
             <key>scalex</key>
-            <real>0.5957118859319526</real>
+            <real>0.5951409293870678</real>
             <key>scaley</key>
-            <real>-0.5957118859319526</real>
+            <real>-0.5951409293870678</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-34</integer>
+            <real>-33.91765563778099</real>
             <key>y</key>
-            <integer>867</integer>
+            <real>804.8186716642444</real>
           </dict>
         </dict>
       </array>
