@@ -33,7 +33,7 @@
             <key>x</key>
             <integer>0</integer>
             <key>y</key>
-            <integer>165</integer>
+            <integer>166</integer>
           </dict>
         </dict>
         <dict>
@@ -49,15 +49,15 @@
             <key>rotation</key>
             <integer>0</integer>
             <key>scalex</key>
-            <integer>1</integer>
+            <real>0.7883793582074532</real>
             <key>scaley</key>
-            <integer>1</integer>
+            <real>1.0004641118304731</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>212</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
