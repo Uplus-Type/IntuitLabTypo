@@ -42,19 +42,19 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-88.9100947113401</real>
+            <real>70.89392995045968</real>
             <key>scalex</key>
-            <real>0.682849214223467</real>
+            <real>-0.6828492142234671</real>
             <key>scaley</key>
-            <real>-0.6828492142234666</real>
+            <real>0.6828492142234666</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>85</integer>
+            <integer>129</integer>
             <key>y</key>
-            <integer>231</integer>
+            <integer>160</integer>
           </dict>
         </dict>
         <dict>
@@ -116,7 +116,7 @@
             <key>Epaisseur</key>
             <integer>400</integer>
             <key>Taille</key>
-            <real>688.945362134689</real>
+            <real>618.805590851334</real>
           </dict>
           <key>name</key>
           <string>02</string>
@@ -133,9 +133,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>171</integer>
+            <integer>186</integer>
             <key>y</key>
-            <integer>60</integer>
+            <integer>75</integer>
           </dict>
         </dict>
         <dict>
@@ -163,7 +163,7 @@
             <key>x</key>
             <integer>241</integer>
             <key>y</key>
-            <integer>67</integer>
+            <integer>45</integer>
           </dict>
         </dict>
       </array>
