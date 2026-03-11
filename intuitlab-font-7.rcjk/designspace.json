@@ -10,12 +10,17 @@
                 "tag": "wght",
                 "valueLabels": [
                     {
-                        "name": "Untitled",
-                        "value": 0
-                    },
-                    {
                         "name": "Normal",
                         "value": 400
+                    },
+                    {
+                        "elidable": true,
+                        "name": "Semi extended",
+                        "value": 503
+                    },
+                    {
+                        "name": "extended",
+                        "value": 700
                     }
                 ]
             }
