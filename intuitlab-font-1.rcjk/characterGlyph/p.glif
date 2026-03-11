@@ -10,12 +10,9 @@
       <array>
         <dict>
           <key>coord</key>
-          <dict>
-            <key>height</key>
-            <integer>500</integer>
-          </dict>
+          <dict/>
           <key>name</key>
-          <string>02</string>
+          <string>b</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -23,38 +20,15 @@
             <key>scalex</key>
             <integer>1</integer>
             <key>scaley</key>
-            <real>-1.4965842152937339</real>
+            <integer>-1</integer>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-190</integer>
+            <integer>-5</integer>
             <key>y</key>
-            <integer>499</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict/>
-          <key>name</key>
-          <string>01</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <real>-1.203030678279848</real>
-            <key>scaley</key>
-            <real>-1.206756201533018</real>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>571</integer>
-            <key>y</key>
-            <integer>553</integer>
+            <integer>500</integer>
           </dict>
         </dict>
       </array>
