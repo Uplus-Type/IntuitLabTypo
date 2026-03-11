@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b" format="2">
-  <advance width="500"/>
+  <advance width="450"/>
   <unicode hex="0062"/>
   <outline>
   </outline>
@@ -3033,6 +3033,8 @@
           <string></string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>455</integer>
         </dict>
       </array>
     </dict>
