@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="L" format="2">
-  <advance width="505.2"/>
+  <advance width="565.2"/>
   <unicode hex="004C"/>
   <outline>
   </outline>
@@ -29,7 +29,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>79.19999999999999</real>
+            <real>109.19999999999999</real>
             <key>y</key>
             <integer>0</integer>
           </dict>
@@ -55,7 +55,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>79.19999999999999</real>
+            <real>109.19999999999999</real>
             <key>y</key>
             <integer>198</integer>
           </dict>
@@ -81,7 +81,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>79.19999999999999</real>
+            <real>109.19999999999999</real>
             <key>y</key>
             <integer>-1</integer>
           </dict>
@@ -107,7 +107,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>277.2</real>
+            <real>307.2</real>
             <key>y</key>
             <integer>-1</integer>
           </dict>
@@ -133,7 +133,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>79.19999999999999</real>
+            <real>109.19999999999999</real>
             <key>y</key>
             <integer>395</integer>
           </dict>
@@ -159,7 +159,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>79.19999999999999</real>
+            <real>109.19999999999999</real>
             <key>y</key>
             <integer>590</integer>
           </dict>
