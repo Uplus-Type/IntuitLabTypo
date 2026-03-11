@@ -3,10 +3,10 @@
   <advance width="500"/>
   <outline>
     <contour>
-      <point x="-5" y="714" type="line"/>
-      <point x="-5" y="1" type="line"/>
-      <point x="5" y="1" type="line"/>
-      <point x="5" y="714" type="line"/>
+      <point x="-5" y="403" type="line"/>
+      <point x="-5" y="313" type="line"/>
+      <point x="5" y="313" type="line"/>
+      <point x="5" y="403" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -19,7 +19,7 @@
           <key>maxValue</key>
           <integer>100</integer>
           <key>minValue</key>
-          <integer>10</integer>
+          <integer>0</integer>
           <key>name</key>
           <string>hauteur</string>
         </dict>
@@ -38,6 +38,8 @@
             <key>hauteur</key>
             <integer>100</integer>
           </dict>
+          <key>locationBase</key>
+          <string>ff54fce8</string>
           <key>on</key>
           <true/>
           <key>sourceName</key>
