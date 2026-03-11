@@ -779,7 +779,7 @@
               <key>coord</key>
               <dict>
                 <key>Grow</key>
-                <integer>200</integer>
+                <real>97.8247989843419</real>
               </dict>
               <key>name</key>
               <string>fil2</string>
@@ -829,15 +829,18 @@
             </dict>
           </array>
           <key>layerName</key>
-          <string>102351bd</string>
+          <string>LONGEUR=20.4</string>
           <key>location</key>
-          <dict/>
+          <dict>
+            <key>LONGEUR</key>
+            <real>20.4281815080177</real>
+          </dict>
           <key>locationBase</key>
-          <string>102351bd</string>
+          <string>8f17d0be</string>
           <key>on</key>
-          <true/>
+          <false/>
           <key>sourceName</key>
-          <string></string>
+          <string>LONGEUR=20.4</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
