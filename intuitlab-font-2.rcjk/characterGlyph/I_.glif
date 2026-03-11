@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="I" format="2">
-  <advance width="500"/>
+  <advance width="158.39999999999998"/>
   <unicode hex="0049"/>
   <outline>
   </outline>
@@ -29,7 +29,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>245</integer>
+            <real>79.19999999999999</real>
             <key>y</key>
             <integer>4</integer>
           </dict>
@@ -55,7 +55,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>245</integer>
+            <real>79.19999999999999</real>
             <key>y</key>
             <integer>202</integer>
           </dict>
@@ -81,7 +81,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>245</integer>
+            <real>79.19999999999999</real>
             <key>y</key>
             <integer>597</integer>
           </dict>
@@ -107,7 +107,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>245</integer>
+            <real>79.19999999999999</real>
             <key>y</key>
             <integer>399</integer>
           </dict>
@@ -240,6 +240,8 @@
           <string>hola10</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>500</integer>
         </dict>
         <dict>
           <key>deepComponents</key>
@@ -362,6 +364,8 @@
           <string>hola=20</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>500</integer>
         </dict>
         <dict>
           <key>deepComponents</key>
@@ -484,6 +488,8 @@
           <string>hola=30</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>500</integer>
         </dict>
         <dict>
           <key>deepComponents</key>
@@ -606,6 +612,8 @@
           <string>hola=40</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>500</integer>
         </dict>
         <dict>
           <key>deepComponents</key>
@@ -728,6 +736,8 @@
           <string>hola=50</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>500</integer>
         </dict>
         <dict>
           <key>deepComponents</key>
@@ -850,6 +860,8 @@
           <string>hola=60</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>500</integer>
         </dict>
       </array>
     </dict>
