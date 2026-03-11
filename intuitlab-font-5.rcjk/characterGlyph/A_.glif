@@ -40,7 +40,7 @@
           <key>coord</key>
           <dict>
             <key>Largeur</key>
-            <real>227.155756207675</real>
+            <integer>153</integer>
           </dict>
           <key>name</key>
           <string>tete</string>
@@ -59,7 +59,35 @@
             <key>x</key>
             <integer>9</integer>
             <key>y</key>
-            <integer>674</integer>
+            <integer>675</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>Br</key>
+            <integer>0</integer>
+            <key>Hauteur</key>
+            <real>717.513402934537</real>
+          </dict>
+          <key>name</key>
+          <string>pied</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>137</integer>
+            <key>y</key>
+            <integer>0</integer>
           </dict>
         </dict>
       </array>
