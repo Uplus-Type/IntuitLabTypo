@@ -38,46 +38,23 @@
           <key>coord</key>
           <dict/>
           <key>name</key>
-          <string>05</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <real>-79.72616252415487</real>
-            <key>scalex</key>
-            <real>1.9078345206184386</real>
-            <key>scaley</key>
-            <real>-1.9078345206184373</real>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <real>593.7228978548043</real>
-            <key>y</key>
-            <real>792.019749366936</real>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict/>
-          <key>name</key>
           <string>06</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-89.07062152099361</real>
+            <real>-80.83948739287213</real>
             <key>scalex</key>
-            <real>1.7648548467158014</real>
+            <real>1.8978765333695362</real>
             <key>scaley</key>
-            <real>-1.7648548467158023</real>
+            <real>-1.897876533369537</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>744</integer>
+            <real>665.7052870325622</real>
             <key>y</key>
-            <integer>688</integer>
+            <real>781.0507119644897</real>
           </dict>
         </dict>
       </array>
