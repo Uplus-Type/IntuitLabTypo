@@ -10,10 +10,7 @@
       <array>
         <dict>
           <key>coord</key>
-          <dict>
-            <key>height</key>
-            <integer>1000</integer>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>01</string>
           <key>transform</key>
