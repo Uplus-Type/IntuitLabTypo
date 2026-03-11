@@ -39,17 +39,17 @@
             <key>rotation</key>
             <integer>0</integer>
             <key>scalex</key>
-            <real>0.5319028206075846</real>
+            <real>0.33043925890663134</real>
             <key>scaley</key>
-            <real>0.5828022194504918</real>
+            <real>0.36205999671966077</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>96</integer>
+            <real>196.5303172887757</real>
             <key>y</key>
-            <integer>519</integer>
+            <real>625.4538399135772</real>
           </dict>
         </dict>
         <dict>
