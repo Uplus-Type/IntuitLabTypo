@@ -1,4 +1,16 @@
 {
+    "axes": {
+        "axes": [
+            {
+                "defaultValue": 0,
+                "label": "Hola",
+                "maxValue": 100,
+                "minValue": 0,
+                "name": "hola",
+                "tag": "HOLA"
+            }
+        ]
+    },
     "sources": {
         "559ec3ce": {
             "lineMetricsHorizontalLayout": {
