@@ -31,11 +31,11 @@
         </dict>
         <dict>
           <key>defaultValue</key>
-          <integer>0</integer>
+          <integer>36</integer>
           <key>maxValue</key>
-          <integer>100</integer>
+          <integer>750</integer>
           <key>minValue</key>
-          <integer>0</integer>
+          <integer>36</integer>
           <key>name</key>
           <string>Hauteur</string>
         </dict>
@@ -60,6 +60,23 @@
           <true/>
           <key>sourceName</key>
           <string>Br=1</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>Hauteur=750</string>
+          <key>location</key>
+          <dict>
+            <key>Hauteur</key>
+            <integer>750</integer>
+          </dict>
+          <key>locationBase</key>
+          <string>92610cbd</string>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>Hauteur=750</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
