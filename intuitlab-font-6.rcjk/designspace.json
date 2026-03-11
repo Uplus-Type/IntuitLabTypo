@@ -8,6 +8,14 @@
                 "minValue": 400,
                 "name": "weight",
                 "tag": "wght"
+            },
+            {
+                "defaultValue": 100,
+                "label": "Width",
+                "maxValue": 100,
+                "minValue": 50,
+                "name": "width",
+                "tag": "wdth"
             }
         ]
     },
