@@ -4,8 +4,8 @@
   <outline>
     <contour>
       <point x="84" y="301" type="line"/>
-      <point x="81" y="32" type="line"/>
-      <point x="145" y="0" type="line"/>
+      <point x="81" y="31" type="line"/>
+      <point x="145" y="-1" type="line"/>
       <point x="148" y="301" type="line"/>
     </contour>
   </outline>
@@ -34,9 +34,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>270</integer>
+            <real>152.44176306814506</real>
             <key>y</key>
-            <integer>122</integer>
+            <real>141.92853802896263</real>
           </dict>
         </dict>
       </array>
