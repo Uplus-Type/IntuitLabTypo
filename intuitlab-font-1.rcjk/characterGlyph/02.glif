@@ -23,6 +23,16 @@
           <key>name</key>
           <string>Taille</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>400</integer>
+          <key>maxValue</key>
+          <integer>1000</integer>
+          <key>minValue</key>
+          <integer>100</integer>
+          <key>name</key>
+          <string>Epaisseur</string>
+        </dict>
       </array>
       <key>robocjk.locationBase</key>
       <string>fae974f5</string>
@@ -32,7 +42,7 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string>weight</string>
+          <string>Epaisseur Font 900</string>
           <key>location</key>
           <dict>
             <key>Epaisseur I</key>
@@ -41,13 +51,13 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>weight</string>
+          <string>Epaisseur Font 900</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>weight=100</string>
+          <string>Epaisseur Font 100</string>
           <key>location</key>
           <dict>
             <key>Epaisseur I</key>
@@ -56,7 +66,7 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>weight=100</string>
+          <string>Epaisseur Font 100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
