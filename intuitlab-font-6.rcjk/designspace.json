@@ -80,6 +80,66 @@
                 }
             },
             "name": "Default"
+        },
+        "a685d615": {
+            "lineMetricsHorizontalLayout": {
+                "ascender": {
+                    "value": 800,
+                    "zone": 16
+                },
+                "baseline": {
+                    "value": 0,
+                    "zone": -16
+                },
+                "capHeight": {
+                    "value": 750,
+                    "zone": 16
+                },
+                "descender": {
+                    "value": -350,
+                    "zone": -16
+                },
+                "xHeight": {
+                    "value": 350,
+                    "zone": 16
+                }
+            },
+            "location": {
+                "rounded": 0,
+                "weight": 400,
+                "width": 50
+            },
+            "name": "Condensed Default"
+        },
+        "b706925a": {
+            "lineMetricsHorizontalLayout": {
+                "ascender": {
+                    "value": 800,
+                    "zone": 16
+                },
+                "baseline": {
+                    "value": 0,
+                    "zone": -16
+                },
+                "capHeight": {
+                    "value": 750,
+                    "zone": 16
+                },
+                "descender": {
+                    "value": -350,
+                    "zone": -16
+                },
+                "xHeight": {
+                    "value": 350,
+                    "zone": 16
+                }
+            },
+            "location": {
+                "rounded": 0,
+                "weight": 700,
+                "width": 50
+            },
+            "name": "Condensed bold"
         }
     }
 }
