@@ -91,9 +91,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>215.12787008193072</real>
+            <integer>226</integer>
             <key>y</key>
-            <real>665.2780049869465</real>
+            <integer>665</integer>
           </dict>
         </dict>
       </array>
