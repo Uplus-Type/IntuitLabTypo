@@ -146,9 +146,24 @@
             <integer>100</integer>
           </dict>
           <key>on</key>
-          <true/>
+          <false/>
           <key>sourceName</key>
           <string>losange</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>Rounded=100</string>
+          <key>location</key>
+          <dict>
+            <key>Rounded</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>Rounded=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
