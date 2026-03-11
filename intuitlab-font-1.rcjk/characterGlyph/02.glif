@@ -112,8 +112,6 @@
             <key>Epaisseur</key>
             <integer>100</integer>
           </dict>
-          <key>locationBase</key>
-          <string>fae974f5</string>
           <key>on</key>
           <true/>
           <key>sourceName</key>
