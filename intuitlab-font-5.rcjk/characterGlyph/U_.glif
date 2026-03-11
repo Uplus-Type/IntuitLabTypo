@@ -58,7 +58,7 @@
             <key>Br</key>
             <integer>0</integer>
             <key>Hauteur</key>
-            <integer>750</integer>
+            <real>575.654676258993</real>
           </dict>
           <key>name</key>
           <string>pied</string>
@@ -78,6 +78,29 @@
             <integer>38</integer>
             <key>y</key>
             <integer>0</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict/>
+          <key>name</key>
+          <string>haut</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <real>0.8183794762536194</real>
+            <key>scaley</key>
+            <real>0.8445008962411988</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <real>-128.25119616502042</real>
+            <key>y</key>
+            <integer>576</integer>
           </dict>
         </dict>
       </array>
