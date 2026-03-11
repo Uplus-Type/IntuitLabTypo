@@ -14,7 +14,7 @@
             <key>Br</key>
             <integer>0</integer>
             <key>Hauteur</key>
-            <integer>675</integer>
+            <integer>613</integer>
           </dict>
           <key>name</key>
           <string>pied</string>
@@ -49,9 +49,9 @@
             <key>rotation</key>
             <integer>0</integer>
             <key>scalex</key>
-            <real>2.293421133356276</real>
+            <real>2.2859509060384724</real>
             <key>scaley</key>
-            <real>2.293421133356276</real>
+            <real>2.2859550149362424</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
@@ -59,7 +59,35 @@
             <key>x</key>
             <integer>9</integer>
             <key>y</key>
-            <real>612.9756538988643</real>
+            <integer>613</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>Br</key>
+            <integer>0</integer>
+            <key>Hauteur</key>
+            <integer>613</integer>
+          </dict>
+          <key>name</key>
+          <string>pied</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>272</integer>
+            <key>y</key>
+            <integer>0</integer>
           </dict>
         </dict>
       </array>
