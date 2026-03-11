@@ -12,12 +12,10 @@
       <point x="137" y="-37"/>
       <point x="420" y="-33"/>
       <point x="420" y="112" type="curve"/>
-      <point x="421" y="800" type="line"/>
-      <point x="418" y="800"/>
-      <point x="322" y="800"/>
-      <point x="321" y="800" type="curve"/>
+      <point x="416" y="626" type="line"/>
+      <point x="326" y="626" type="line"/>
       <point x="328" y="240" type="line" smooth="yes"/>
-      <point x="331" y="-16"/>
+      <point x="329" y="-16"/>
       <point x="137" y="-69"/>
       <point x="137" y="245" type="curve" smooth="yes"/>
     </contour>
@@ -47,9 +45,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>164</integer>
+            <integer>163</integer>
             <key>y</key>
-            <integer>625</integer>
+            <integer>634</integer>
           </dict>
         </dict>
         <dict>
