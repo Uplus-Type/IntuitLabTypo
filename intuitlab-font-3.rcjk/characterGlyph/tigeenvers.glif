@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tigeenvers" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="368" y="750" type="line"/>
+      <point x="367" y="0" type="line"/>
+      <point x="372" y="0" type="line"/>
+      <point x="372" y="0" type="line"/>
+      <point x="499" y="0" type="line"/>
+      <point x="499" y="82" type="line"/>
+      <point x="378" y="82" type="line"/>
+      <point x="379" y="750" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.locationBase</key>
+      <string>ff54fce8</string>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
