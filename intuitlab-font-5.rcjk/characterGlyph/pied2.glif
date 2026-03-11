@@ -3,45 +3,22 @@
   <advance width="500"/>
   <outline>
     <contour>
-      <point x="9" y="18" type="move"/>
+      <point x="9" y="18" type="line"/>
       <point x="9" y="6"/>
       <point x="7" y="2"/>
       <point x="0" y="0" type="curve"/>
-    </contour>
-    <contour>
-      <point x="0" y="0" type="move"/>
       <point x="55" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="55" y="0" type="move"/>
       <point x="64" y="0"/>
       <point x="65" y="6"/>
       <point x="65" y="18" type="curve"/>
       <point x="65" y="36" type="line"/>
-    </contour>
-    <contour>
-      <point x="65" y="36" type="move"/>
       <point x="9" y="36" type="line"/>
     </contour>
     <contour>
-      <point x="9" y="36" type="move"/>
-      <point x="9" y="18" type="line"/>
-    </contour>
-    <contour>
-      <point x="186" y="36" type="move"/>
-      <point x="65" y="36" type="line"/>
-    </contour>
-    <contour>
-      <point x="65" y="36" type="move"/>
-      <point x="65" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="65" y="0" type="move"/>
-      <point x="186" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="186" y="0" type="move"/>
       <point x="186" y="36" type="line"/>
+      <point x="65" y="36" type="line"/>
+      <point x="65" y="0" type="line"/>
+      <point x="186" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
