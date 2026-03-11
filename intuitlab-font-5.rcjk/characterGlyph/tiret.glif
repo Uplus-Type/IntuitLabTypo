@@ -2,6 +2,15 @@
 <glyph name="tiret" format="2">
   <advance width="500"/>
   <outline>
+    <contour>
+      <point x="96" y="126" type="move"/>
+      <point x="396" y="126" type="line"/>
+      <point x="396" y="387" type="line"/>
+      <point x="96" y="387" type="line"/>
+    </contour>
+    <contour>
+      <point x="96" y="387" type="move"/>
+    </contour>
   </outline>
   <lib>
     <dict>
