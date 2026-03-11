@@ -12,12 +12,12 @@
       <point x="276" y="119"/>
       <point x="251" y="120" type="curve" smooth="yes"/>
       <point x="212" y="122"/>
-      <point x="166" y="123"/>
-      <point x="151" y="110" type="curve" smooth="yes"/>
-      <point x="131" y="93"/>
-      <point x="128" y="78"/>
-      <point x="128" y="46" type="curve" smooth="yes"/>
-      <point x="128" y="0" type="line"/>
+      <point x="155" y="117"/>
+      <point x="135" y="101" type="curve" smooth="yes"/>
+      <point x="125" y="93"/>
+      <point x="97" y="70"/>
+      <point x="97" y="41" type="curve" smooth="yes"/>
+      <point x="97" y="0" type="line"/>
       <point x="0" y="0" type="line"/>
       <point x="0" y="40" type="line"/>
       <point x="0" y="151"/>
