@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="L" format="2">
+<glyph name="P" format="2">
   <advance width="500"/>
-  <unicode hex="004C"/>
+  <unicode hex="0050"/>
   <outline>
   </outline>
   <lib>
@@ -40,30 +40,30 @@
           <key>coord</key>
           <dict>
             <key>Epaisseur Arche</key>
-            <real>644.790343074968</real>
+            <real>525.031766200762</real>
             <key>Taille Arche</key>
-            <real>386.975857687421</real>
-            <key>Taille Boule </key>
-            <real>712.388818297332</real>
+            <real>322.299872935197</real>
+            <key>Taille Boule Min</key>
+            <integer>400</integer>
           </dict>
           <key>name</key>
-          <string>06</string>
+          <string>01</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>28.526732300699123</real>
+            <real>18.409841274031944</real>
             <key>scalex</key>
             <real>-0.9999999999999999</real>
             <key>scaley</key>
-            <integer>-1</integer>
+            <real>1.0000000000000007</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>373</integer>
+            <real>639.9169760277015</real>
             <key>y</key>
-            <integer>433</integer>
+            <real>423.75683829261305</real>
           </dict>
         </dict>
       </array>
