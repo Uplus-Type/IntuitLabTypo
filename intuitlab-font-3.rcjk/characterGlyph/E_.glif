@@ -16,7 +16,7 @@
             <key>goutte</key>
             <integer>0</integer>
             <key>hauteur</key>
-            <integer>0</integer>
+            <real>46.875</real>
           </dict>
           <key>name</key>
           <string>compoE</string>
