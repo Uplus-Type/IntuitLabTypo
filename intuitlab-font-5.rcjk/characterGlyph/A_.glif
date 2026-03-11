@@ -64,7 +64,10 @@
         </dict>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>Hauteur</key>
+            <real>0.670781602708804</real>
+          </dict>
           <key>name</key>
           <string>tiret</string>
           <key>transform</key>
@@ -80,7 +83,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>179</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
