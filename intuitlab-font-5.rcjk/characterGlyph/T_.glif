@@ -4,11 +4,11 @@
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="780" y="774" type="move"/>
-      <point x="770" y="760"/>
+      <point x="780" y="774" type="line"/>
+      <point x="772" y="762"/>
       <point x="758" y="748"/>
-      <point x="744" y="743" type="curve"/>
-      <point x="728" y="736"/>
+      <point x="744" y="742" type="curve"/>
+      <point x="728" y="737"/>
       <point x="710" y="735"/>
       <point x="688" y="740" type="curve"/>
       <point x="644" y="746"/>
@@ -24,9 +24,8 @@
       <point x="680" y="664"/>
       <point x="716" y="676" type="curve"/>
       <point x="740" y="681"/>
-      <point x="760" y="695"/>
-      <point x="774" y="716" type="curve"/>
-      <point x="780" y="774" type="line"/>
+      <point x="758" y="695"/>
+      <point x="772" y="716" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -74,9 +73,9 @@
             <key>rotation</key>
             <integer>0</integer>
             <key>scalex</key>
-            <real>0.7199289292639723</real>
+            <real>0.720883408783222</real>
             <key>scaley</key>
-            <integer>1</integer>
+            <real>0.9999657024071243</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
