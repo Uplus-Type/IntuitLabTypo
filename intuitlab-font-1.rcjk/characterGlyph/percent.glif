@@ -1,13 +1,65 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="B" format="2">
+<glyph name="percent" format="2">
   <advance width="500"/>
-  <unicode hex="0042"/>
+  <unicode hex="0025"/>
   <outline>
   </outline>
   <lib>
     <dict>
       <key>robocjk.deepComponents</key>
       <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>height</key>
+            <integer>400</integer>
+          </dict>
+          <key>name</key>
+          <string>01</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>43.480040783636504</real>
+            <key>scalex</key>
+            <real>-0.4505417330818046</real>
+            <key>scaley</key>
+            <real>-0.45054173308180456</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>137</integer>
+            <key>y</key>
+            <integer>526</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>height</key>
+            <integer>400</integer>
+          </dict>
+          <key>name</key>
+          <string>01</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>64.74152026130803</real>
+            <key>scalex</key>
+            <real>0.4505417330818047</real>
+            <key>scaley</key>
+            <real>0.4505417330818046</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>421</integer>
+            <key>y</key>
+            <integer>-16</integer>
+          </dict>
+        </dict>
         <dict>
           <key>coord</key>
           <dict>
@@ -19,71 +71,19 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <integer>0</integer>
+            <integer>-45</integer>
             <key>scalex</key>
-            <real>8.937376275029662</real>
+            <integer>1</integer>
             <key>scaley</key>
-            <real>1.4991367819022814</real>
+            <integer>1</integer>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-1901</integer>
+            <integer>-75</integer>
             <key>y</key>
-            <integer>2</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>height</key>
-            <integer>400</integer>
-          </dict>
-          <key>name</key>
-          <string>01</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <real>3.9463433276712143</real>
-            <key>scalex</key>
-            <real>-0.6787986512664459</real>
-            <key>scaley</key>
-            <real>-0.6787986512664462</real>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>376</integer>
-            <key>y</key>
-            <integer>776</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>height</key>
-            <integer>400</integer>
-          </dict>
-          <key>name</key>
-          <string>01</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <real>5.828171504437818</real>
-            <key>scalex</key>
-            <real>-1.0255240217171722</real>
-            <key>scaley</key>
-            <real>-1.0255240217171724</real>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>509</integer>
-            <key>y</key>
-            <integer>509</integer>
+            <integer>228</integer>
           </dict>
         </dict>
       </array>
