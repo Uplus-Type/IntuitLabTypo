@@ -10,14 +10,14 @@
       <point x="137" y="19" type="move"/>
       <point x="137" y="52" type="line"/>
       <point x="137" y="-37"/>
-      <point x="453" y="-39"/>
-      <point x="453" y="112" type="curve"/>
-      <point x="454" y="800" type="line"/>
-      <point x="451" y="800"/>
-      <point x="355" y="800"/>
-      <point x="354" y="800" type="curve"/>
-      <point x="361" y="240" type="line" smooth="yes"/>
-      <point x="364" y="38"/>
+      <point x="420" y="-33"/>
+      <point x="420" y="112" type="curve"/>
+      <point x="421" y="800" type="line"/>
+      <point x="418" y="800"/>
+      <point x="322" y="800"/>
+      <point x="321" y="800" type="curve"/>
+      <point x="328" y="240" type="line" smooth="yes"/>
+      <point x="331" y="38"/>
       <point x="137" y="78"/>
       <point x="137" y="245" type="curve" smooth="yes"/>
     </contour>
@@ -47,9 +47,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>196.5303172887757</real>
+            <integer>164</integer>
             <key>y</key>
-            <real>625.4538399135772</real>
+            <integer>625</integer>
           </dict>
         </dict>
         <dict>
@@ -58,7 +58,7 @@
             <key>Br</key>
             <integer>0</integer>
             <key>Hauteur</key>
-            <real>575.654676258993</real>
+            <integer>626</integer>
           </dict>
           <key>name</key>
           <string>pied</string>
@@ -98,9 +98,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>-128.25119616502042</real>
+            <integer>-138</integer>
             <key>y</key>
-            <integer>576</integer>
+            <integer>626</integer>
           </dict>
         </dict>
       </array>
