@@ -29,11 +29,11 @@
     </contour>
     <contour>
       <point x="185" y="698" type="move"/>
-      <point x="233" y="689" type="line"/>
-      <point x="221" y="677"/>
-      <point x="196" y="663"/>
-      <point x="188" y="605" type="curve"/>
-      <point x="163" y="611"/>
+      <point x="237" y="688" type="line"/>
+      <point x="225" y="676"/>
+      <point x="197" y="663"/>
+      <point x="189" y="605" type="curve"/>
+      <point x="164" y="611"/>
       <point x="127" y="613"/>
       <point x="69" y="607" type="curve"/>
       <point x="19" y="600"/>
