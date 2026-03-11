@@ -6,10 +6,10 @@
       <point x="96" y="387" type="move"/>
     </contour>
     <contour>
-      <point x="96" y="360" type="line"/>
-      <point x="272" y="360"/>
-      <point x="370" y="260"/>
-      <point x="370" y="125" type="curve"/>
+      <point x="96" y="368" type="line"/>
+      <point x="395" y="368"/>
+      <point x="388" y="261"/>
+      <point x="388" y="126" type="curve"/>
       <point x="396" y="126" type="line"/>
       <point x="396" y="387" type="line"/>
       <point x="96" y="387" type="line"/>
