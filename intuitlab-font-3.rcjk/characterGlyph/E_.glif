@@ -16,7 +16,7 @@
             <key>goutte</key>
             <integer>0</integer>
             <key>hauteur</key>
-            <integer>0</integer>
+            <real>40.6602708803612</real>
           </dict>
           <key>name</key>
           <string>compoE</string>
@@ -33,9 +33,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>282</integer>
+            <integer>432</integer>
             <key>y</key>
-            <integer>380</integer>
+            <integer>378</integer>
           </dict>
         </dict>
       </array>
