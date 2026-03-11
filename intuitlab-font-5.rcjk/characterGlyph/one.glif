@@ -4,12 +4,12 @@
   <unicode hex="0031"/>
   <outline>
     <contour>
-      <point x="353" y="623" type="curve"/>
-      <point x="263" y="623" type="line"/>
-      <point x="263" y="684" type="line"/>
-      <point x="312" y="684" type="line"/>
-      <point x="325" y="647"/>
-      <point x="343" y="635"/>
+      <point x="353" y="763" type="curve"/>
+      <point x="263" y="763" type="line"/>
+      <point x="263" y="785" type="line"/>
+      <point x="312" y="785" type="line"/>
+      <point x="325" y="748"/>
+      <point x="343" y="771"/>
     </contour>
   </outline>
   <lib>
@@ -20,7 +20,7 @@
           <key>coord</key>
           <dict>
             <key>hauteur</key>
-            <real>80.7420993227991</real>
+            <integer>100</integer>
           </dict>
           <key>name</key>
           <string>bas2</string>
@@ -55,17 +55,17 @@
             <key>rotation</key>
             <integer>0</integer>
             <key>scalex</key>
-            <real>0.5951409293870678</real>
+            <real>0.5932683209765596</real>
             <key>scaley</key>
-            <real>-0.5951409293870678</real>
+            <real>-0.5932683209765596</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>-33.91765563778099</real>
+            <real>-33.747647602066735</real>
             <key>y</key>
-            <real>804.8186716642444</real>
+            <real>905.4443014784733</real>
           </dict>
         </dict>
       </array>
