@@ -16,6 +16,14 @@
                 "minValue": 50,
                 "name": "width",
                 "tag": "wdth"
+            },
+            {
+                "defaultValue": 0,
+                "label": "Morphing",
+                "maxValue": 100,
+                "minValue": 0,
+                "name": "morphing",
+                "tag": "MORF"
             }
         ]
     },
