@@ -6,19 +6,45 @@
     <contour>
       <point x="159" y="697" type="line"/>
       <point x="159" y="654"/>
-      <point x="334" y="262"/>
-      <point x="355" y="247" type="curve"/>
-      <point x="383" y="227" type="line"/>
-      <point x="440" y="184"/>
-      <point x="321" y="114"/>
-      <point x="300" y="105" type="curve"/>
-      <point x="295" y="111" type="line"/>
-      <point x="324" y="140"/>
-      <point x="320" y="176"/>
-      <point x="297" y="196" type="curve"/>
-      <point x="225" y="255"/>
+      <point x="334.04553447541986" y="577.2396112906038"/>
+      <point x="355" y="562" type="curve"/>
+      <point x="383" y="542" type="line"/>
+      <point x="440" y="499"/>
+      <point x="321" y="429"/>
+      <point x="300" y="420" type="curve"/>
+      <point x="295" y="426" type="line"/>
+      <point x="324" y="455"/>
+      <point x="320" y="491"/>
+      <point x="297" y="511" type="curve"/>
+      <point x="224.7471650040744" y="570.5023347025269"/>
       <point x="72" y="585.3997863250302"/>
       <point x="72" y="679" type="curve"/>
+    </contour>
+    <contour>
+      <point x="339" y="691.6422924901185" type="move"/>
+      <point x="429" y="691.6422924901185" type="line"/>
+    </contour>
+    <contour>
+      <point x="355" y="562" type="move"/>
+      <point x="383" y="542" type="line"/>
+      <point x="440" y="499"/>
+      <point x="321" y="429"/>
+      <point x="300" y="420" type="curve"/>
+      <point x="295" y="426" type="line"/>
+      <point x="324" y="455"/>
+      <point x="320" y="491"/>
+      <point x="297" y="511" type="curve"/>
+    </contour>
+    <contour>
+      <point x="399" y="145" type="move"/>
+      <point x="427" y="125" type="line"/>
+      <point x="484" y="82"/>
+      <point x="365" y="12"/>
+      <point x="344" y="3" type="curve"/>
+      <point x="339" y="9" type="line"/>
+      <point x="368" y="38"/>
+      <point x="364" y="74"/>
+      <point x="341" y="94" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -47,32 +73,6 @@
             <integer>0</integer>
             <key>x</key>
             <integer>57</integer>
-            <key>y</key>
-            <integer>0</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>hauteur</key>
-            <real>91.8266516092603</real>
-          </dict>
-          <key>name</key>
-          <string>bas2</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>327</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
