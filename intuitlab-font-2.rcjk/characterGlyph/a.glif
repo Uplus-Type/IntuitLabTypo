@@ -3,23 +3,90 @@
   <advance width="500"/>
   <unicode hex="0061"/>
   <outline>
-    <contour>
-      <point x="0" y="0" type="curve"/>
-      <point x="0" y="42"/>
-      <point x="-82" y="63"/>
-      <point x="-82" y="99" type="curve" smooth="yes"/>
-      <point x="-82" y="135"/>
-      <point x="0" y="156"/>
-      <point x="0" y="198" type="curve"/>
-      <point x="0" y="156"/>
-      <point x="82" y="135"/>
-      <point x="82" y="99" type="curve" smooth="yes"/>
-      <point x="82" y="63"/>
-      <point x="0" y="42"/>
-    </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>inflate</key>
+            <integer>60</integer>
+          </dict>
+          <key>name</key>
+          <string>composant2</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>-20.71640980762374</real>
+            <key>scalex</key>
+            <real>0.9999999999999998</real>
+            <key>scaley</key>
+            <real>1.0000000000000004</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <real>43.98287587783959</real>
+            <key>y</key>
+            <real>-1.7810445029939372</real>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>inflate</key>
+            <integer>60</integer>
+          </dict>
+          <key>name</key>
+          <string>composant2</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>-20.71640980762374</real>
+            <key>scalex</key>
+            <real>0.9999999999999998</real>
+            <key>scaley</key>
+            <real>1.0000000000000004</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <real>114.16300410955546</real>
+            <key>y</key>
+            <real>183.32095332895796</real>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>inflate</key>
+            <integer>60</integer>
+          </dict>
+          <key>name</key>
+          <string>composant2</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>-20.71640980762374</real>
+            <key>scalex</key>
+            <real>0.9999999999999998</real>
+            <key>scaley</key>
+            <real>1.0000000000000004</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <real>183.3002650404457</real>
+            <key>y</key>
+            <real>367.4677402978703</real>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.locationBase</key>
       <string>559ec3ce</string>
       <key>robocjk.status</key>
