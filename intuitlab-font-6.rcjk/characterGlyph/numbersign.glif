@@ -25,17 +25,17 @@
             <key>rotation</key>
             <integer>0</integer>
             <key>scalex</key>
-            <integer>1</integer>
+            <real>0.7708160155183642</real>
             <key>scaley</key>
-            <integer>1</integer>
+            <real>0.7708160155183642</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>252</integer>
+            <real>205.309123026081</real>
             <key>y</key>
-            <integer>250</integer>
+            <real>193.84992380199924</real>
           </dict>
         </dict>
         <dict>
@@ -55,17 +55,17 @@
             <key>rotation</key>
             <integer>0</integer>
             <key>scalex</key>
-            <integer>1</integer>
+            <real>0.7708160155183642</real>
             <key>scaley</key>
-            <integer>1</integer>
+            <real>0.7708160155183642</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>50</integer>
+            <real>51.145919922408176</real>
             <key>y</key>
-            <integer>50</integer>
+            <real>39.68672069832638</real>
           </dict>
         </dict>
         <dict>
@@ -85,47 +85,17 @@
             <key>rotation</key>
             <integer>0</integer>
             <key>scalex</key>
-            <integer>1</integer>
+            <real>0.7708160155183642</real>
             <key>scaley</key>
-            <integer>1</integer>
+            <real>0.7708160155183642</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>150</integer>
+            <real>128.2275214742446</real>
             <key>y</key>
-            <integer>0</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>erosion</key>
-            <integer>40</integer>
-            <key>hauteur</key>
-            <integer>1</integer>
-            <key>largeur</key>
-            <integer>2</integer>
-          </dict>
-          <key>name</key>
-          <string>compo_carré</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>100</integer>
-            <key>y</key>
-            <integer>100</integer>
+            <real>1.1459199224081789</real>
           </dict>
         </dict>
         <dict>
@@ -145,17 +115,17 @@
             <key>rotation</key>
             <integer>0</integer>
             <key>scalex</key>
-            <integer>1</integer>
+            <real>0.7708160155183642</real>
             <key>scaley</key>
-            <integer>1</integer>
+            <real>0.7708160155183642</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>150</integer>
+            <real>89.68672069832638</real>
             <key>y</key>
-            <integer>150</integer>
+            <real>78.2275214742446</real>
           </dict>
         </dict>
         <dict>
@@ -175,47 +145,17 @@
             <key>rotation</key>
             <integer>0</integer>
             <key>scalex</key>
-            <integer>1</integer>
+            <real>0.7708160155183642</real>
             <key>scaley</key>
-            <integer>1</integer>
+            <real>0.7708160155183642</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>200</integer>
+            <real>128.2275214742446</real>
             <key>y</key>
-            <integer>200</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>erosion</key>
-            <integer>40</integer>
-            <key>hauteur</key>
-            <integer>1</integer>
-            <key>largeur</key>
-            <integer>1</integer>
-          </dict>
-          <key>name</key>
-          <string>compo_carré</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>200</integer>
-            <key>y</key>
-            <integer>50</integer>
+            <real>116.76832225016281</real>
           </dict>
         </dict>
         <dict>
@@ -235,17 +175,227 @@
             <key>rotation</key>
             <integer>0</integer>
             <key>scalex</key>
-            <integer>1</integer>
+            <real>0.7708160155183642</real>
             <key>scaley</key>
-            <integer>1</integer>
+            <real>0.7708160155183642</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>250</integer>
+            <real>166.76832225016278</real>
             <key>y</key>
-            <integer>100</integer>
+            <real>155.309123026081</real>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>erosion</key>
+            <integer>40</integer>
+            <key>hauteur</key>
+            <integer>1</integer>
+            <key>largeur</key>
+            <integer>1</integer>
+          </dict>
+          <key>name</key>
+          <string>compo_carré</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <real>0.7708160155183642</real>
+            <key>scaley</key>
+            <real>0.7708160155183642</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <real>166.76832225016278</real>
+            <key>y</key>
+            <real>39.68672069832638</real>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>erosion</key>
+            <integer>40</integer>
+            <key>hauteur</key>
+            <integer>1</integer>
+            <key>largeur</key>
+            <integer>2</integer>
+          </dict>
+          <key>name</key>
+          <string>compo_carré</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <real>0.7708160155183642</real>
+            <key>scaley</key>
+            <real>0.7708160155183642</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <real>205.309123026081</real>
+            <key>y</key>
+            <real>78.2275214742446</real>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>erosion</key>
+            <integer>40</integer>
+            <key>hauteur</key>
+            <integer>1</integer>
+            <key>largeur</key>
+            <integer>2</integer>
+          </dict>
+          <key>name</key>
+          <string>compo_carré</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <real>0.7708160155183642</real>
+            <key>scaley</key>
+            <real>0.7708160155183642</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <real>243.84992380199924</real>
+            <key>y</key>
+            <real>116.76832225016281</real>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>erosion</key>
+            <integer>40</integer>
+            <key>hauteur</key>
+            <integer>1</integer>
+            <key>largeur</key>
+            <integer>1</integer>
+          </dict>
+          <key>name</key>
+          <string>compo_carré</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <real>0.7708160155183642</real>
+            <key>scaley</key>
+            <real>0.7708160155183642</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <real>282.39072457791747</real>
+            <key>y</key>
+            <real>155.309123026081</real>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>erosion</key>
+            <integer>40</integer>
+            <key>hauteur</key>
+            <integer>1</integer>
+            <key>largeur</key>
+            <integer>2</integer>
+          </dict>
+          <key>name</key>
+          <string>compo_carré</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <real>0.7708160155183642</real>
+            <key>scaley</key>
+            <real>0.7708160155183642</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <real>282.39072457791747</real>
+            <key>y</key>
+            <real>193.84992380199924</real>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>erosion</key>
+            <integer>40</integer>
+            <key>hauteur</key>
+            <integer>3</integer>
+            <key>largeur</key>
+            <integer>1</integer>
+          </dict>
+          <key>name</key>
+          <string>compo_carré</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <real>0.7708160155183642</real>
+            <key>scaley</key>
+            <real>0.7708160155183642</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <real>205.309123026081</real>
+            <key>y</key>
+            <real>232.39072457791744</real>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>erosion</key>
+            <integer>40</integer>
+            <key>hauteur</key>
+            <integer>1</integer>
+            <key>largeur</key>
+            <integer>2</integer>
+          </dict>
+          <key>name</key>
+          <string>compo_carré</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <real>0.7708160155183642</real>
+            <key>scaley</key>
+            <real>0.7708160155183642</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>166</integer>
+            <key>y</key>
+            <integer>350</integer>
           </dict>
         </dict>
       </array>
@@ -275,17 +425,17 @@
                 <key>rotation</key>
                 <integer>0</integer>
                 <key>scalex</key>
-                <integer>1</integer>
+                <real>0.7765456151304051</real>
                 <key>scaley</key>
-                <integer>1</integer>
+                <real>0.7765456151304051</real>
                 <key>tcenterx</key>
                 <integer>0</integer>
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>252</integer>
+                <real>205.309123026081</real>
                 <key>y</key>
-                <integer>250</integer>
+                <real>194.13640378260126</real>
               </dict>
             </dict>
             <dict>
@@ -305,9 +455,9 @@
                 <key>rotation</key>
                 <integer>0</integer>
                 <key>scalex</key>
-                <integer>1</integer>
+                <real>0.7765456151304051</real>
                 <key>scaley</key>
-                <integer>1</integer>
+                <real>0.7765456151304051</real>
                 <key>tcenterx</key>
                 <integer>0</integer>
                 <key>tcentery</key>
@@ -315,7 +465,7 @@
                 <key>x</key>
                 <integer>50</integer>
                 <key>y</key>
-                <integer>50</integer>
+                <real>38.82728075652025</real>
               </dict>
             </dict>
             <dict>
@@ -335,47 +485,17 @@
                 <key>rotation</key>
                 <integer>0</integer>
                 <key>scalex</key>
-                <integer>1</integer>
+                <real>0.7765456151304051</real>
                 <key>scaley</key>
-                <integer>1</integer>
+                <real>0.7765456151304051</real>
                 <key>tcenterx</key>
                 <integer>0</integer>
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>150</integer>
+                <real>127.6545615130405</real>
                 <key>y</key>
                 <integer>0</integer>
-              </dict>
-            </dict>
-            <dict>
-              <key>coord</key>
-              <dict>
-                <key>erosion</key>
-                <integer>50</integer>
-                <key>hauteur</key>
-                <integer>1</integer>
-                <key>largeur</key>
-                <integer>2</integer>
-              </dict>
-              <key>name</key>
-              <string>compo_carré</string>
-              <key>transform</key>
-              <dict>
-                <key>rotation</key>
-                <integer>0</integer>
-                <key>scalex</key>
-                <integer>1</integer>
-                <key>scaley</key>
-                <integer>1</integer>
-                <key>tcenterx</key>
-                <integer>0</integer>
-                <key>tcentery</key>
-                <integer>0</integer>
-                <key>x</key>
-                <integer>100</integer>
-                <key>y</key>
-                <integer>100</integer>
               </dict>
             </dict>
             <dict>
@@ -395,17 +515,17 @@
                 <key>rotation</key>
                 <integer>0</integer>
                 <key>scalex</key>
-                <integer>1</integer>
+                <real>0.7765456151304051</real>
                 <key>scaley</key>
-                <integer>1</integer>
+                <real>0.7765456151304051</real>
                 <key>tcenterx</key>
                 <integer>0</integer>
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>150</integer>
+                <real>88.82728075652025</real>
                 <key>y</key>
-                <integer>150</integer>
+                <real>77.6545615130405</real>
               </dict>
             </dict>
             <dict>
@@ -425,47 +545,17 @@
                 <key>rotation</key>
                 <integer>0</integer>
                 <key>scalex</key>
-                <integer>1</integer>
+                <real>0.7765456151304051</real>
                 <key>scaley</key>
-                <integer>1</integer>
+                <real>0.7765456151304051</real>
                 <key>tcenterx</key>
                 <integer>0</integer>
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>200</integer>
+                <real>127.6545615130405</real>
                 <key>y</key>
-                <integer>200</integer>
-              </dict>
-            </dict>
-            <dict>
-              <key>coord</key>
-              <dict>
-                <key>erosion</key>
-                <integer>50</integer>
-                <key>hauteur</key>
-                <integer>1</integer>
-                <key>largeur</key>
-                <integer>1</integer>
-              </dict>
-              <key>name</key>
-              <string>compo_carré</string>
-              <key>transform</key>
-              <dict>
-                <key>rotation</key>
-                <integer>0</integer>
-                <key>scalex</key>
-                <integer>1</integer>
-                <key>scaley</key>
-                <integer>1</integer>
-                <key>tcenterx</key>
-                <integer>0</integer>
-                <key>tcentery</key>
-                <integer>0</integer>
-                <key>x</key>
-                <integer>200</integer>
-                <key>y</key>
-                <integer>50</integer>
+                <real>116.48184226956076</real>
               </dict>
             </dict>
             <dict>
@@ -485,17 +575,227 @@
                 <key>rotation</key>
                 <integer>0</integer>
                 <key>scalex</key>
-                <integer>1</integer>
+                <real>0.7765456151304051</real>
                 <key>scaley</key>
-                <integer>1</integer>
+                <real>0.7765456151304051</real>
                 <key>tcenterx</key>
                 <integer>0</integer>
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>250</integer>
+                <real>166.48184226956076</real>
                 <key>y</key>
-                <integer>100</integer>
+                <real>155.309123026081</real>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>erosion</key>
+                <integer>50</integer>
+                <key>hauteur</key>
+                <integer>1</integer>
+                <key>largeur</key>
+                <integer>1</integer>
+              </dict>
+              <key>name</key>
+              <string>compo_carré</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <real>0.7765456151304051</real>
+                <key>scaley</key>
+                <real>0.7765456151304051</real>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <real>166.48184226956076</real>
+                <key>y</key>
+                <real>38.82728075652025</real>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>erosion</key>
+                <integer>50</integer>
+                <key>hauteur</key>
+                <integer>1</integer>
+                <key>largeur</key>
+                <integer>2</integer>
+              </dict>
+              <key>name</key>
+              <string>compo_carré</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <real>0.7765456151304051</real>
+                <key>scaley</key>
+                <real>0.7765456151304051</real>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <real>205.309123026081</real>
+                <key>y</key>
+                <real>77.6545615130405</real>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>erosion</key>
+                <integer>50</integer>
+                <key>hauteur</key>
+                <integer>1</integer>
+                <key>largeur</key>
+                <integer>2</integer>
+              </dict>
+              <key>name</key>
+              <string>compo_carré</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <real>0.7765456151304051</real>
+                <key>scaley</key>
+                <real>0.7765456151304051</real>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <real>244.13640378260126</real>
+                <key>y</key>
+                <real>116.48184226956076</real>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>erosion</key>
+                <integer>50</integer>
+                <key>hauteur</key>
+                <integer>1</integer>
+                <key>largeur</key>
+                <integer>1</integer>
+              </dict>
+              <key>name</key>
+              <string>compo_carré</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <real>0.7765456151304051</real>
+                <key>scaley</key>
+                <real>0.7765456151304051</real>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <real>282.9636845391216</real>
+                <key>y</key>
+                <real>155.309123026081</real>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>erosion</key>
+                <integer>50</integer>
+                <key>hauteur</key>
+                <integer>1</integer>
+                <key>largeur</key>
+                <integer>2</integer>
+              </dict>
+              <key>name</key>
+              <string>compo_carré</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <real>0.7765456151304051</real>
+                <key>scaley</key>
+                <real>0.7765456151304051</real>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <real>282.9636845391216</real>
+                <key>y</key>
+                <real>194.13640378260126</real>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>erosion</key>
+                <integer>50</integer>
+                <key>hauteur</key>
+                <integer>3</integer>
+                <key>largeur</key>
+                <integer>1</integer>
+              </dict>
+              <key>name</key>
+              <string>compo_carré</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <real>0.7765456151304051</real>
+                <key>scaley</key>
+                <real>0.7765456151304051</real>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <real>205.309123026081</real>
+                <key>y</key>
+                <real>232.96368453912152</real>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>erosion</key>
+                <integer>50</integer>
+                <key>hauteur</key>
+                <integer>1</integer>
+                <key>largeur</key>
+                <integer>2</integer>
+              </dict>
+              <key>name</key>
+              <string>compo_carré</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <real>0.7765456151304051</real>
+                <key>scaley</key>
+                <real>0.7765456151304051</real>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>166</integer>
+                <key>y</key>
+                <integer>350</integer>
               </dict>
             </dict>
           </array>
