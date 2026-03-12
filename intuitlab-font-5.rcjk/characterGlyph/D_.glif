@@ -3,6 +3,18 @@
   <advance width="500"/>
   <unicode hex="0044"/>
   <outline>
+    <contour>
+      <point x="9" y="403" type="line"/>
+      <point x="9" y="176" type="line"/>
+      <point x="99" y="176" type="line"/>
+      <point x="99" y="403" type="line"/>
+    </contour>
+    <contour>
+      <point x="239" y="404" type="line"/>
+      <point x="239" y="177" type="line"/>
+      <point x="329" y="177" type="line"/>
+      <point x="329" y="404" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -31,9 +43,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>615</integer>
             <key>y</key>
-            <integer>0</integer>
+            <integer>24</integer>
           </dict>
         </dict>
         <dict>
@@ -57,9 +69,35 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>-79</integer>
             <key>y</key>
+            <integer>206</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>Hauteur</key>
             <integer>0</integer>
+          </dict>
+          <key>name</key>
+          <string>tete2-d</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>-1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>-79</integer>
+            <key>y</key>
+            <integer>388</integer>
           </dict>
         </dict>
       </array>
