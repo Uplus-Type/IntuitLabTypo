@@ -14,7 +14,7 @@
             <key>Epaisseur</key>
             <integer>600</integer>
             <key>Taille</key>
-            <integer>659</integer>
+            <integer>688</integer>
           </dict>
           <key>name</key>
           <string>02</string>
@@ -31,16 +31,16 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>158.4033947504659</real>
+            <integer>158</integer>
             <key>y</key>
-            <integer>114</integer>
+            <integer>113</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
             <key>Epaisseur Arche</key>
-            <real>644.790343074968</real>
+            <real>564.067261031486</real>
             <key>Taille Arche</key>
             <real>386.975857687421</real>
             <key>Taille Boule </key>
