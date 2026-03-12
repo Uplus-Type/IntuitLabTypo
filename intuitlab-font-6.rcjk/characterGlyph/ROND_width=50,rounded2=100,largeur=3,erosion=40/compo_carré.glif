@@ -3,26 +3,26 @@
   <advance width="500"/>
   <outline>
     <contour>
-      <point x="20" y="45" type="curve"/>
-      <point x="4" y="45"/>
+      <point x="25" y="45" type="curve"/>
+      <point x="8" y="45"/>
       <point x="5" y="32"/>
       <point x="5" y="5" type="curve"/>
       <point x="5" y="5"/>
       <point x="5" y="5"/>
       <point x="5" y="5" type="curve"/>
-      <point x="55" y="5" type="line"/>
-      <point x="55" y="5"/>
-      <point x="55" y="5"/>
-      <point x="55" y="5" type="curve"/>
+      <point x="48" y="5" type="line"/>
+      <point x="48" y="5"/>
+      <point x="48" y="5"/>
+      <point x="48" y="5" type="curve"/>
       <point x="62" y="5"/>
       <point x="70" y="13"/>
       <point x="70" y="45" type="curve"/>
       <point x="70" y="45"/>
       <point x="70" y="45"/>
       <point x="70" y="45" type="curve"/>
-      <point x="20" y="45" type="line"/>
-      <point x="20" y="45"/>
-      <point x="20" y="45"/>
+      <point x="25" y="45" type="line"/>
+      <point x="25" y="45"/>
+      <point x="25" y="45"/>
     </contour>
   </outline>
 </glyph>
