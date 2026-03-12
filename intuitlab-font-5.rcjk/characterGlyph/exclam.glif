@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="exclam" format="2">
-  <advance width="209"/>
+  <advance width="108"/>
   <unicode hex="0021"/>
   <outline>
   </outline>
@@ -31,9 +31,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>159</integer>
+            <integer>108</integer>
             <key>y</key>
-            <integer>153</integer>
+            <integer>117</integer>
           </dict>
         </dict>
         <dict>
@@ -59,9 +59,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>51</integer>
+            <integer>0</integer>
             <key>y</key>
-            <integer>36</integer>
+            <integer>0</integer>
           </dict>
         </dict>
         <dict>
@@ -70,7 +70,7 @@
             <key>Br</key>
             <integer>0</integer>
             <key>Hauteur</key>
-            <real>46.5830039525692</real>
+            <real>40.1324110671937</real>
           </dict>
           <key>name</key>
           <string>pied</string>
@@ -87,9 +87,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>158</integer>
+            <integer>108</integer>
             <key>y</key>
-            <integer>750</integer>
+            <integer>800</integer>
           </dict>
         </dict>
       </array>

@@ -4,30 +4,30 @@
   <unicode hex="0052"/>
   <outline>
     <contour>
-      <point x="437" y="61" type="line"/>
-      <point x="423" y="51"/>
-      <point x="411" y="46"/>
-      <point x="390" y="46" type="curve" smooth="yes"/>
-      <point x="340" y="46"/>
-      <point x="329" y="81"/>
-      <point x="322" y="169" type="curve" smooth="yes"/>
-      <point x="308" y="336" type="line" smooth="yes"/>
-      <point x="296" y="469"/>
-      <point x="252" y="507"/>
-      <point x="148" y="507" type="curve" smooth="yes"/>
-      <point x="118" y="507"/>
-      <point x="91" y="499"/>
-      <point x="71" y="481" type="curve"/>
-      <point x="167" y="487"/>
-      <point x="214" y="435"/>
-      <point x="222" y="328" type="curve" smooth="yes"/>
-      <point x="235" y="147" type="line" smooth="yes"/>
-      <point x="243" y="46"/>
-      <point x="269" y="-9"/>
-      <point x="336" y="-9" type="curve" smooth="yes"/>
-      <point x="389" y="-9"/>
-      <point x="417" y="12"/>
-      <point x="443" y="54" type="curve"/>
+      <point x="468" y="61" type="line"/>
+      <point x="454" y="51"/>
+      <point x="442" y="46"/>
+      <point x="421" y="46" type="curve" smooth="yes"/>
+      <point x="371" y="46"/>
+      <point x="360" y="81"/>
+      <point x="353" y="169" type="curve" smooth="yes"/>
+      <point x="339" y="336" type="line" smooth="yes"/>
+      <point x="327" y="469"/>
+      <point x="283" y="507"/>
+      <point x="179" y="507" type="curve" smooth="yes"/>
+      <point x="149" y="507"/>
+      <point x="122" y="499"/>
+      <point x="102" y="481" type="curve"/>
+      <point x="198" y="487"/>
+      <point x="245" y="435"/>
+      <point x="253" y="328" type="curve" smooth="yes"/>
+      <point x="266" y="147" type="line" smooth="yes"/>
+      <point x="274" y="46"/>
+      <point x="300" y="-9"/>
+      <point x="367" y="-9" type="curve" smooth="yes"/>
+      <point x="420" y="-9"/>
+      <point x="448" y="12"/>
+      <point x="474" y="54" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -57,7 +57,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>31</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
@@ -80,7 +80,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>329</integer>
+            <integer>360</integer>
             <key>y</key>
             <integer>595</integer>
           </dict>
@@ -106,7 +106,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-42</integer>
+            <integer>-11</integer>
             <key>y</key>
             <integer>94</integer>
           </dict>
