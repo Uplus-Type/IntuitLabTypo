@@ -12,16 +12,16 @@
       <point x="0.0025" y="0" type="curve"/>
       <point x="0.0025" y="0" type="line"/>
       <point x="0.0025" y="0"/>
-      <point x="78" y="0"/>
-      <point x="78" y="0" type="curve"/>
-      <point x="93" y="0"/>
-      <point x="100" y="8"/>
-      <point x="100" y="24" type="curve"/>
-      <point x="100" y="24"/>
-      <point x="100" y="50"/>
-      <point x="100" y="50" type="curve"/>
-      <point x="100" y="50" type="line"/>
-      <point x="100" y="50"/>
+      <point x="128" y="0"/>
+      <point x="128" y="0" type="curve"/>
+      <point x="143" y="0"/>
+      <point x="150" y="8"/>
+      <point x="150" y="24" type="curve"/>
+      <point x="150" y="24"/>
+      <point x="150" y="50"/>
+      <point x="150" y="50" type="curve"/>
+      <point x="150" y="50" type="line"/>
+      <point x="150" y="50"/>
       <point x="18" y="49.9975"/>
     </contour>
   </outline>
