@@ -3210,7 +3210,7 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string></string>
+          <string>source_1</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
@@ -4819,9 +4819,11 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string></string>
+          <string>source_2</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>255</integer>
         </dict>
         <dict>
           <key>deepComponents</key>
@@ -6428,9 +6430,11 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string></string>
+          <string>source_3</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>255</integer>
         </dict>
       </array>
     </dict>

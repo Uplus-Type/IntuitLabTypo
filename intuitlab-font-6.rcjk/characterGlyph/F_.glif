@@ -3832,6 +3832,8 @@
           <string></string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>245</integer>
         </dict>
         <dict>
           <key>deepComponents</key>
@@ -5111,6 +5113,8 @@
           <string></string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>245</integer>
         </dict>
       </array>
     </dict>
