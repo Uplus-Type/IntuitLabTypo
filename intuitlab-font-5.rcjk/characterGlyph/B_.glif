@@ -101,7 +101,10 @@
         </dict>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>Hauteur</key>
+            <integer>100</integer>
+          </dict>
           <key>name</key>
           <string>barreH</string>
           <key>transform</key>
