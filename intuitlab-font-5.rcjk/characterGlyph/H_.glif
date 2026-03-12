@@ -75,7 +75,7 @@
             <key>scalex</key>
             <integer>1</integer>
             <key>scaley</key>
-            <real>0.9991557742682212</real>
+            <integer>1</integer>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
