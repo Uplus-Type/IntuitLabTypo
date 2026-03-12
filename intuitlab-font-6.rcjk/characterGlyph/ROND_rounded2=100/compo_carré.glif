@@ -4,7 +4,9 @@
   <outline>
     <contour>
       <point x="11" y="50" type="curve"/>
-      <point x="0" y="37" type="line"/>
+      <point x="7" y="46"/>
+      <point x="4" y="41"/>
+      <point x="0" y="37" type="curve"/>
       <point x="0" y="27"/>
       <point x="0" y="0"/>
       <point x="0" y="0" type="curve"/>
@@ -18,7 +20,7 @@
       <point x="50" y="50" type="curve"/>
       <point x="50" y="50" type="line"/>
       <point x="50" y="50"/>
-      <point x="18" y="50"/>
+      <point x="11" y="50"/>
     </contour>
   </outline>
 </glyph>
