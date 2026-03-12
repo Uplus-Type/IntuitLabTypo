@@ -42,9 +42,9 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-49.51003191527099</real>
+            <real>-52.60504478198019</real>
             <key>scalex</key>
-            <real>0.9994870727831778</real>
+            <real>-0.9994870727831778</real>
             <key>scaley</key>
             <real>0.9994870727831773</real>
             <key>tcenterx</key>
@@ -52,9 +52,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>-27.531190319264766</real>
+            <integer>224</integer>
             <key>y</key>
-            <integer>246</integer>
+            <integer>-66</integer>
           </dict>
         </dict>
         <dict>
