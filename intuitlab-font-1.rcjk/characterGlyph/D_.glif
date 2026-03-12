@@ -42,7 +42,7 @@
             <key>Taille Arche</key>
             <integer>734</integer>
             <key>Taille Boule Min</key>
-            <integer>1000</integer>
+            <real>700.575555806342</real>
           </dict>
           <key>name</key>
           <string>01</string>
