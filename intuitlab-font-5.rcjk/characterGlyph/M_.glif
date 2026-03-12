@@ -3,6 +3,15 @@
   <advance width="500"/>
   <unicode hex="004D"/>
   <outline>
+    <contour>
+      <point x="141" y="735" type="line"/>
+      <point x="218" y="656" type="line"/>
+      <point x="320" y="751" type="line"/>
+      <point x="321" y="645" type="line"/>
+      <point x="277" y="564" type="line"/>
+      <point x="187" y="564" type="line"/>
+      <point x="141" y="626" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -91,7 +100,7 @@
           <key>coord</key>
           <dict>
             <key>DESCENTE</key>
-            <integer>0</integer>
+            <real>30.6359147975737</real>
           </dict>
           <key>name</key>
           <string>GrandeBarre</string>
@@ -100,7 +109,7 @@
             <key>rotation</key>
             <integer>0</integer>
             <key>scalex</key>
-            <integer>1</integer>
+            <integer>-1</integer>
             <key>scaley</key>
             <integer>1</integer>
             <key>tcenterx</key>
@@ -108,9 +117,35 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>153</integer>
             <key>y</key>
+            <integer>-9</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>DESCENTE</key>
+            <real>30.6359147975737</real>
+          </dict>
+          <key>name</key>
+          <string>GrandeBarre</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
             <integer>0</integer>
+            <key>scalex</key>
+            <integer>-1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>423</integer>
+            <key>y</key>
+            <integer>-9</integer>
           </dict>
         </dict>
       </array>

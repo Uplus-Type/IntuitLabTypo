@@ -11,62 +11,9 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>Br</key>
-            <integer>0</integer>
-            <key>Hauteur</key>
-            <integer>36</integer>
+            <key>weight</key>
+            <integer>700</integer>
           </dict>
-          <key>name</key>
-          <string>pied</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <real>14.484744446587541</real>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>230</integer>
-            <key>y</key>
-            <integer>0</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>Br</key>
-            <integer>0</integer>
-            <key>Hauteur</key>
-            <integer>36</integer>
-          </dict>
-          <key>name</key>
-          <string>pied</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>-1</integer>
-            <key>scaley</key>
-            <real>-7.8835111117113</real>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>338</integer>
-            <key>y</key>
-            <integer>800</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict/>
           <key>name</key>
           <string>barreG</string>
           <key>transform</key>
@@ -82,9 +29,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>62</integer>
+            <integer>66</integer>
             <key>y</key>
-            <integer>24</integer>
+            <integer>39</integer>
           </dict>
         </dict>
         <dict>
@@ -139,6 +86,60 @@
             <integer>0</integer>
             <key>y</key>
             <integer>0</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>hauteur</key>
+            <integer>100</integer>
+          </dict>
+          <key>name</key>
+          <string>bas2</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>230</integer>
+            <key>y</key>
+            <integer>-3</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>DESCENTE</key>
+            <real>8.70976849237719</real>
+            <key>weight</key>
+            <real>466.944789632523</real>
+          </dict>
+          <key>name</key>
+          <string>GrandeBarre</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>230</integer>
+            <key>y</key>
+            <integer>-3</integer>
           </dict>
         </dict>
       </array>
