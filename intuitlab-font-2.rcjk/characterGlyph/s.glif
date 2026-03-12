@@ -107,9 +107,9 @@
             <key>tcentery</key>
             <integer>198</integer>
             <key>x</key>
-            <integer>295</integer>
+            <integer>256</integer>
             <key>y</key>
-            <integer>-177</integer>
+            <integer>-174</integer>
           </dict>
         </dict>
         <dict>
@@ -133,9 +133,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>353</integer>
+            <integer>314</integer>
             <key>y</key>
-            <integer>38</integer>
+            <integer>41</integer>
           </dict>
         </dict>
         <dict>
@@ -159,9 +159,87 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>214</integer>
+            <integer>175</integer>
             <key>y</key>
-            <integer>22</integer>
+            <integer>25</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>inflate</key>
+            <integer>60</integer>
+          </dict>
+          <key>name</key>
+          <string>composant2</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>47.49162401912243</real>
+            <key>scalex</key>
+            <real>-0.9999999999999997</real>
+            <key>scaley</key>
+            <real>-1.0000000000000002</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>198</integer>
+            <key>x</key>
+            <real>177.1022810837079</real>
+            <key>y</key>
+            <real>52.17499136863884</real>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>inflate</key>
+            <integer>60</integer>
+          </dict>
+          <key>name</key>
+          <string>composant2</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>81.01298933812059</real>
+            <key>scalex</key>
+            <real>-0.9999999999999997</real>
+            <key>scaley</key>
+            <real>-1.0000000000000002</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>198</integer>
+            <key>x</key>
+            <integer>338</integer>
+            <key>y</key>
+            <integer>39</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>inflate</key>
+            <integer>60</integer>
+          </dict>
+          <key>name</key>
+          <string>composant2</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>42.25279460755031</real>
+            <key>scalex</key>
+            <real>-0.9999999999999997</real>
+            <key>scaley</key>
+            <real>-1.0000000000000002</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>198</integer>
+            <key>x</key>
+            <integer>435</integer>
+            <key>y</key>
+            <integer>-86</integer>
           </dict>
         </dict>
       </array>
