@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="m" format="2">
-  <advance width="577.7766264149961"/>
+  <advance width="584.8163009404389"/>
   <unicode hex="006D"/>
   <outline>
   </outline>
@@ -31,7 +31,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-182</integer>
+            <real>-175.18369905956112</real>
             <key>y</key>
             <integer>0</integer>
           </dict>
@@ -54,7 +54,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>359.09551787239064</real>
+            <real>365.91181881282955</real>
             <key>y</key>
             <integer>0</integer>
           </dict>
@@ -77,7 +77,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>608</integer>
+            <real>614.8163009404389</real>
             <key>y</key>
             <integer>0</integer>
           </dict>

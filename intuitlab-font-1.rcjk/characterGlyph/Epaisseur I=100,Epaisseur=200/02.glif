@@ -4,8 +4,8 @@
   <outline>
     <contour>
       <point x="213" y="500" type="line"/>
+      <point x="214" y="0" type="line"/>
       <point x="213" y="0" type="line"/>
-      <point x="212" y="0" type="line"/>
       <point x="212" y="500" type="line"/>
     </contour>
   </outline>
