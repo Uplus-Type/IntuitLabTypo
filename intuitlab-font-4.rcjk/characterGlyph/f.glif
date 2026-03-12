@@ -440,9 +440,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>68.71409051878268</real>
+            <integer>55</integer>
             <key>y</key>
-            <real>639.0482347514433</real>
+            <integer>655</integer>
           </dict>
         </dict>
       </array>
