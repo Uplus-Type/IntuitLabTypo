@@ -12,7 +12,7 @@
           <key>coord</key>
           <dict>
             <key>Epaisseur</key>
-            <integer>400</integer>
+            <integer>600</integer>
             <key>Taille</key>
             <real>717.15374841169</real>
           </dict>
@@ -98,7 +98,7 @@
           <key>coord</key>
           <dict>
             <key>Barre verticale</key>
-            <integer>400</integer>
+            <integer>1000</integer>
             <key>Epaisseur Arche</key>
             <integer>400</integer>
             <key>Taille Arche </key>
@@ -111,19 +111,19 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <integer>0</integer>
+            <real>15.728868891303502</real>
             <key>scalex</key>
             <integer>1</integer>
             <key>scaley</key>
-            <integer>1</integer>
+            <integer>-1</integer>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-221</integer>
+            <real>135.47743472064235</real>
             <key>y</key>
-            <integer>0</integer>
+            <real>426.77869314003266</real>
           </dict>
         </dict>
       </array>
