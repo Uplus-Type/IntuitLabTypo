@@ -171,6 +171,8 @@
           <string></string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <real>486.8690197583516</real>
         </dict>
       </array>
     </dict>

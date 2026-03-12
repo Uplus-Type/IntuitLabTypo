@@ -217,6 +217,8 @@
           <string></string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <real>602.6174111012492</real>
         </dict>
       </array>
     </dict>
