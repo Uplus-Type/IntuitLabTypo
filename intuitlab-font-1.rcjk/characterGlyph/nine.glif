@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nine" format="2">
-  <advance width="587.3281946678566"/>
+  <advance width="587.1074785304866"/>
   <unicode hex="0039"/>
   <outline>
   </outline>
@@ -42,7 +42,7 @@
           <key>coord</key>
           <dict>
             <key>Epaisseur Arche</key>
-            <real>223.235109717868</real>
+            <real>421.058571267351</real>
             <key>Taille Arche</key>
             <real>663.811912225705</real>
             <key>Taille Boule </key>
