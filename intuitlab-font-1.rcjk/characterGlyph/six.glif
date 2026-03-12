@@ -91,9 +91,71 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-501</integer>
+            <integer>-212</integer>
             <key>y</key>
-            <integer>204</integer>
+            <integer>269</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>Epaisseur Arche</key>
+            <integer>400</integer>
+            <key>Taille Arche</key>
+            <integer>400</integer>
+            <key>Taille Boule Min</key>
+            <integer>400</integer>
+          </dict>
+          <key>name</key>
+          <string>01</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>-22.776461673096833</real>
+            <key>scalex</key>
+            <real>-0.9999999999999998</real>
+            <key>scaley</key>
+            <integer>-1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>1256</integer>
+            <key>y</key>
+            <integer>389</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>Barre verticale</key>
+            <integer>100</integer>
+            <key>Epaisseur Arche</key>
+            <integer>400</integer>
+            <key>Taille Arche </key>
+            <real>439.912225705329</real>
+            <key>Taille Boule </key>
+            <integer>400</integer>
+          </dict>
+          <key>name</key>
+          <string>07</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>638</integer>
+            <key>y</key>
+            <integer>268</integer>
           </dict>
         </dict>
       </array>
