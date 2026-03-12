@@ -50,7 +50,7 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>MORPH</string>
+          <string></string>
           <key>status</key>
           <integer>0</integer>
         </dict>

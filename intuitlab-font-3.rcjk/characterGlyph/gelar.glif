@@ -39,16 +39,18 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string>37ddb891</string>
+          <string>MORPH</string>
           <key>location</key>
           <dict>
             <key>morphing</key>
             <integer>100</integer>
           </dict>
+          <key>locationBase</key>
+          <string>37ddb891</string>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>37ddb891</string>
+          <string></string>
           <key>status</key>
           <integer>0</integer>
         </dict>
