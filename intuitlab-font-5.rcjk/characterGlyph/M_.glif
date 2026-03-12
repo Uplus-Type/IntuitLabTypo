@@ -66,34 +66,6 @@
             <key>Br</key>
             <integer>0</integer>
             <key>Hauteur</key>
-            <real>485.120908577878</real>
-          </dict>
-          <key>name</key>
-          <string>pied</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <real>1.4160003798886571</real>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>42</integer>
-            <key>y</key>
-            <integer>0</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>Br</key>
-            <integer>0</integer>
-            <key>Hauteur</key>
             <real>481.645598194131</real>
           </dict>
           <key>name</key>
@@ -120,7 +92,7 @@
           <key>coord</key>
           <dict>
             <key>hauteur</key>
-            <real>28.5855448898927</real>
+            <integer>80</integer>
           </dict>
           <key>name</key>
           <string>bas2</string>
@@ -138,6 +110,32 @@
             <integer>0</integer>
             <key>x</key>
             <integer>39</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>hauteur</key>
+            <integer>80</integer>
+          </dict>
+          <key>name</key>
+          <string>bas2</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>309</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
