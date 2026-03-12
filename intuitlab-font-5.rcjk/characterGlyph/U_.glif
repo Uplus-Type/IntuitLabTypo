@@ -61,7 +61,7 @@
           <key>coord</key>
           <dict>
             <key>MONTER</key>
-            <real>636.462450592885</real>
+            <integer>0</integer>
           </dict>
           <key>name</key>
           <string>bas2soloD</string>
