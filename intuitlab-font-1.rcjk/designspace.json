@@ -24,6 +24,30 @@
                 "minValue": 100,
                 "name": "Boule Epaisseur",
                 "tag": "wght"
+            },
+            {
+                "defaultValue": 400,
+                "label": "Boule",
+                "maxValue": 900,
+                "minValue": 100,
+                "name": "boule",
+                "tag": "BOUL"
+            },
+            {
+                "defaultValue": 400,
+                "label": "Arche",
+                "maxValue": 900,
+                "minValue": 100,
+                "name": "arche",
+                "tag": "ARCH"
+            },
+            {
+                "defaultValue": 400,
+                "label": "Barre",
+                "maxValue": 900,
+                "minValue": 100,
+                "name": "barre",
+                "tag": "BARR"
             }
         ]
     },
