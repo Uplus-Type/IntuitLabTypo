@@ -445,9 +445,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>164</integer>
+            <integer>191</integer>
             <key>y</key>
-            <integer>934</integer>
+            <integer>769</integer>
           </dict>
         </dict>
         <dict>
@@ -471,9 +471,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>270</integer>
+            <integer>295</integer>
             <key>y</key>
-            <integer>766</integer>
+            <integer>605</integer>
           </dict>
         </dict>
         <dict>
@@ -497,9 +497,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>717.3468498958987</real>
+            <integer>718</integer>
             <key>y</key>
-            <real>16.853908524518843</real>
+            <integer>1</integer>
           </dict>
         </dict>
         <dict>
@@ -523,9 +523,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>671.0309773155652</real>
+            <integer>672</integer>
             <key>y</key>
-            <real>209.35024601467038</real>
+            <integer>194</integer>
           </dict>
         </dict>
         <dict>
@@ -549,9 +549,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>624.8091867142118</real>
+            <integer>626</integer>
             <key>y</key>
-            <real>400.85101905124236</real>
+            <integer>385</integer>
           </dict>
         </dict>
         <dict>
@@ -575,9 +575,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>578.7755600708188</real>
+            <integer>580</integer>
             <key>y</key>
-            <real>590.3606631806551</real>
+            <integer>575</integer>
           </dict>
         </dict>
         <dict>
@@ -601,9 +601,61 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>490</integer>
+            <integer>505</integer>
             <key>y</key>
-            <integer>769</integer>
+            <integer>1001</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>inflate</key>
+            <integer>60</integer>
+          </dict>
+          <key>name</key>
+          <string>composant2</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>-32.39355149511305</real>
+            <key>scalex</key>
+            <real>-0.9999999999999999</real>
+            <key>scaley</key>
+            <real>-0.9999999999999999</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>533</integer>
+            <key>y</key>
+            <integer>767</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>inflate</key>
+            <integer>60</integer>
+          </dict>
+          <key>name</key>
+          <string>composant2</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>-32.39355149511305</real>
+            <key>scalex</key>
+            <real>-0.9999999999999999</real>
+            <key>scaley</key>
+            <real>-0.9999999999999999</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>426</integer>
+            <key>y</key>
+            <integer>599</integer>
           </dict>
         </dict>
       </array>
