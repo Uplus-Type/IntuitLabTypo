@@ -35,7 +35,7 @@
             <key>x</key>
             <integer>0</integer>
             <key>y</key>
-            <integer>170</integer>
+            <integer>160</integer>
           </dict>
         </dict>
         <dict>
@@ -65,7 +65,7 @@
             <key>x</key>
             <integer>100</integer>
             <key>y</key>
-            <integer>170</integer>
+            <integer>160</integer>
           </dict>
         </dict>
         <dict>
@@ -95,7 +95,7 @@
             <key>x</key>
             <integer>0</integer>
             <key>y</key>
-            <integer>220</integer>
+            <integer>210</integer>
           </dict>
         </dict>
         <dict>
@@ -125,7 +125,7 @@
             <key>x</key>
             <integer>100</integer>
             <key>y</key>
-            <integer>220</integer>
+            <integer>210</integer>
           </dict>
         </dict>
         <dict>
@@ -155,7 +155,7 @@
             <key>x</key>
             <integer>50</integer>
             <key>y</key>
-            <integer>220</integer>
+            <integer>210</integer>
           </dict>
         </dict>
         <dict>
@@ -185,7 +185,7 @@
             <key>x</key>
             <integer>250</integer>
             <key>y</key>
-            <integer>170</integer>
+            <integer>160</integer>
           </dict>
         </dict>
         <dict>
@@ -215,7 +215,7 @@
             <key>x</key>
             <integer>150</integer>
             <key>y</key>
-            <integer>170</integer>
+            <integer>160</integer>
           </dict>
         </dict>
         <dict>
@@ -245,7 +245,7 @@
             <key>x</key>
             <integer>200</integer>
             <key>y</key>
-            <integer>220</integer>
+            <integer>210</integer>
           </dict>
         </dict>
       </array>
@@ -285,7 +285,7 @@
                 <key>x</key>
                 <integer>0</integer>
                 <key>y</key>
-                <integer>170</integer>
+                <integer>160</integer>
               </dict>
             </dict>
             <dict>
@@ -315,7 +315,7 @@
                 <key>x</key>
                 <integer>100</integer>
                 <key>y</key>
-                <integer>170</integer>
+                <integer>160</integer>
               </dict>
             </dict>
             <dict>
@@ -345,7 +345,7 @@
                 <key>x</key>
                 <integer>0</integer>
                 <key>y</key>
-                <integer>220</integer>
+                <integer>210</integer>
               </dict>
             </dict>
             <dict>
@@ -375,7 +375,7 @@
                 <key>x</key>
                 <integer>100</integer>
                 <key>y</key>
-                <integer>220</integer>
+                <integer>210</integer>
               </dict>
             </dict>
             <dict>
@@ -405,7 +405,7 @@
                 <key>x</key>
                 <integer>50</integer>
                 <key>y</key>
-                <integer>220</integer>
+                <integer>210</integer>
               </dict>
             </dict>
             <dict>
@@ -435,7 +435,7 @@
                 <key>x</key>
                 <integer>250</integer>
                 <key>y</key>
-                <integer>170</integer>
+                <integer>160</integer>
               </dict>
             </dict>
             <dict>
@@ -465,7 +465,7 @@
                 <key>x</key>
                 <integer>150</integer>
                 <key>y</key>
-                <integer>170</integer>
+                <integer>160</integer>
               </dict>
             </dict>
             <dict>
@@ -495,7 +495,7 @@
                 <key>x</key>
                 <integer>200</integer>
                 <key>y</key>
-                <integer>220</integer>
+                <integer>210</integer>
               </dict>
             </dict>
           </array>
@@ -544,7 +544,7 @@
                 <key>x</key>
                 <integer>0</integer>
                 <key>y</key>
-                <integer>170</integer>
+                <integer>160</integer>
               </dict>
             </dict>
             <dict>
@@ -574,7 +574,7 @@
                 <key>x</key>
                 <integer>50</integer>
                 <key>y</key>
-                <integer>170</integer>
+                <integer>160</integer>
               </dict>
             </dict>
             <dict>
@@ -604,7 +604,7 @@
                 <key>x</key>
                 <integer>0</integer>
                 <key>y</key>
-                <integer>220</integer>
+                <integer>210</integer>
               </dict>
             </dict>
             <dict>
@@ -634,7 +634,7 @@
                 <key>x</key>
                 <integer>50</integer>
                 <key>y</key>
-                <integer>220</integer>
+                <integer>210</integer>
               </dict>
             </dict>
             <dict>
@@ -664,7 +664,7 @@
                 <key>x</key>
                 <integer>25</integer>
                 <key>y</key>
-                <integer>220</integer>
+                <integer>210</integer>
               </dict>
             </dict>
             <dict>
@@ -694,7 +694,7 @@
                 <key>x</key>
                 <integer>125</integer>
                 <key>y</key>
-                <integer>170</integer>
+                <integer>160</integer>
               </dict>
             </dict>
             <dict>
@@ -724,7 +724,7 @@
                 <key>x</key>
                 <integer>75</integer>
                 <key>y</key>
-                <integer>170</integer>
+                <integer>160</integer>
               </dict>
             </dict>
             <dict>
@@ -754,7 +754,7 @@
                 <key>x</key>
                 <integer>100</integer>
                 <key>y</key>
-                <integer>220</integer>
+                <integer>210</integer>
               </dict>
             </dict>
           </array>
@@ -803,7 +803,7 @@
                 <key>x</key>
                 <integer>0</integer>
                 <key>y</key>
-                <integer>170</integer>
+                <integer>160</integer>
               </dict>
             </dict>
             <dict>
@@ -833,7 +833,7 @@
                 <key>x</key>
                 <integer>50</integer>
                 <key>y</key>
-                <integer>170</integer>
+                <integer>160</integer>
               </dict>
             </dict>
             <dict>
@@ -863,7 +863,7 @@
                 <key>x</key>
                 <integer>0</integer>
                 <key>y</key>
-                <integer>220</integer>
+                <integer>210</integer>
               </dict>
             </dict>
             <dict>
@@ -893,7 +893,7 @@
                 <key>x</key>
                 <integer>50</integer>
                 <key>y</key>
-                <integer>220</integer>
+                <integer>210</integer>
               </dict>
             </dict>
             <dict>
@@ -923,7 +923,7 @@
                 <key>x</key>
                 <integer>25</integer>
                 <key>y</key>
-                <integer>220</integer>
+                <integer>210</integer>
               </dict>
             </dict>
             <dict>
@@ -953,7 +953,7 @@
                 <key>x</key>
                 <integer>125</integer>
                 <key>y</key>
-                <integer>170</integer>
+                <integer>160</integer>
               </dict>
             </dict>
             <dict>
@@ -983,7 +983,7 @@
                 <key>x</key>
                 <integer>75</integer>
                 <key>y</key>
-                <integer>170</integer>
+                <integer>160</integer>
               </dict>
             </dict>
             <dict>
@@ -1013,7 +1013,7 @@
                 <key>x</key>
                 <integer>100</integer>
                 <key>y</key>
-                <integer>220</integer>
+                <integer>210</integer>
               </dict>
             </dict>
           </array>
