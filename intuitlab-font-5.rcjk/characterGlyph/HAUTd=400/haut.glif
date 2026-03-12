@@ -6,10 +6,10 @@
       <point x="115" y="800" type="curve"/>
       <point x="121" y="793" type="line"/>
       <point x="103" y="759"/>
-      <point x="106" y="361"/>
-      <point x="106" y="254" type="curve"/>
-      <point x="16" y="254" type="line"/>
-      <point x="16" y="362"/>
+      <point x="106" y="169"/>
+      <point x="106" y="62" type="curve"/>
+      <point x="16" y="62" type="line"/>
+      <point x="16" y="170"/>
       <point x="16" y="760"/>
       <point x="0" y="794" type="curve"/>
       <point x="6" y="800" type="line"/>
