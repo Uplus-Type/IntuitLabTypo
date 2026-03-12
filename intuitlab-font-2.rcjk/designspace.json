@@ -4,7 +4,7 @@
             {
                 "defaultValue": 0,
                 "label": "Hola",
-                "maxValue": 120,
+                "maxValue": 160,
                 "minValue": 0,
                 "name": "hola",
                 "tag": "HOLA"
