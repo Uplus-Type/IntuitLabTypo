@@ -31,9 +31,9 @@
     </contour>
     <contour>
       <point x="214" y="533" type="line"/>
-      <point x="265" y="530" type="line" smooth="yes"/>
-      <point x="298" y="528"/>
-      <point x="329" y="544"/>
+      <point x="277" y="517" type="line" smooth="yes"/>
+      <point x="306" y="510"/>
+      <point x="329" y="541.148396200231"/>
       <point x="329" y="576" type="curve" smooth="yes"/>
       <point x="329" y="622" type="line"/>
       <point x="239" y="621" type="line"/>
