@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="O" format="2">
-  <advance width="783.8540757660369"/>
+  <advance width="803.8540757660367"/>
   <unicode hex="004F"/>
   <outline>
   </outline>
@@ -33,7 +33,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>754.4394551954417</real>
+            <real>764.4394551954416</real>
             <key>y</key>
             <integer>321</integer>
           </dict>
