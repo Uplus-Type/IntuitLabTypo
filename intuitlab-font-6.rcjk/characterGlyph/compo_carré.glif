@@ -490,6 +490,23 @@
           <key>status</key>
           <integer>0</integer>
         </dict>
+        <dict>
+          <key>layerName</key>
+          <string>LOSANGE_rounded=100,largeur=2</string>
+          <key>location</key>
+          <dict>
+            <key>largeur</key>
+            <integer>2</integer>
+            <key>rounded</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>LOSANGE_rounded=100,largeur=2</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
       </array>
     </dict>
   </lib>
