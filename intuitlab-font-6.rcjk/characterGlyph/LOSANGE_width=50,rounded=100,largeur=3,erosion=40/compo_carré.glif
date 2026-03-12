@@ -16,8 +16,8 @@
       <point x="46" y="28"/>
       <point x="26" y="58"/>
       <point x="26" y="58" type="curve"/>
-      <point x="6" y="27" type="line"/>
-      <point x="6" y="27"/>
+      <point x="12" y="35" type="line"/>
+      <point x="12" y="35"/>
       <point x="6" y="26"/>
     </contour>
   </outline>
