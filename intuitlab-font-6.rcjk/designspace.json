@@ -24,6 +24,14 @@
                 "minValue": 0,
                 "name": "rounded",
                 "tag": "ROND"
+            },
+            {
+                "defaultValue": 0,
+                "label": "Rounded2",
+                "maxValue": 100,
+                "minValue": 0,
+                "name": "rounded2",
+                "tag": "RON2"
             }
         ]
     },
