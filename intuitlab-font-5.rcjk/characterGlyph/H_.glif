@@ -115,7 +115,10 @@
         </dict>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>weight</key>
+            <real>524.889046689153</real>
+          </dict>
           <key>name</key>
           <string>TETEcourte</string>
           <key>transform</key>
