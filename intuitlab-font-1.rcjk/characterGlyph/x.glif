@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="x" format="2">
-  <advance width="500"/>
+  <advance width="388.2309909443367"/>
   <unicode hex="0078"/>
   <outline>
   </outline>
@@ -11,6 +11,8 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>Barre verticale</key>
+            <real>528.353787558189</real>
             <key>Epaisseur Arche</key>
             <integer>400</integer>
             <key>Taille Arche </key>
@@ -33,7 +35,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>439</integer>
+            <real>423.54726243352127</real>
             <key>y</key>
             <integer>73</integer>
           </dict>
@@ -61,7 +63,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>30.790132412917075</real>
+            <real>15.337394846438363</real>
             <key>y</key>
             <real>77.12367448848124</real>
           </dict>
