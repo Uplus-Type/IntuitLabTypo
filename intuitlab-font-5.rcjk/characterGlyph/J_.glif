@@ -52,11 +52,11 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>Hauteur</key>
+            <key>hauteur</key>
             <integer>0</integer>
           </dict>
           <key>name</key>
-          <string>barreH</string>
+          <string>bas2</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -70,9 +70,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-245</integer>
+            <integer>231</integer>
             <key>y</key>
-            <integer>-398</integer>
+            <integer>0</integer>
           </dict>
         </dict>
       </array>
