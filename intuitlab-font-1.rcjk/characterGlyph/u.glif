@@ -23,22 +23,26 @@
             <key>scalex</key>
             <integer>-1</integer>
             <key>scaley</key>
-            <real>-1.0017736554716574</real>
+            <integer>-1</integer>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>519</integer>
+            <real>577.6889547185781</real>
             <key>y</key>
-            <real>500.101803825702</real>
+            <real>523.9144857519702</real>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
+            <key>Barre verticale</key>
+            <real>300.846381718155</real>
             <key>Epaisseur Arche</key>
-            <integer>400</integer>
+            <real>203.343207786712</real>
+            <key>Taille Arche </key>
+            <real>674.608548455353</real>
           </dict>
           <key>name</key>
           <string>07</string>
@@ -55,9 +59,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-30</integer>
+            <real>-31.31104528142191</real>
             <key>y</key>
-            <integer>501</integer>
+            <real>650.9144857519702</real>
           </dict>
         </dict>
       </array>
