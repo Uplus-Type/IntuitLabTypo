@@ -2660,6 +2660,8 @@
           <string>condenced default</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>255</integer>
         </dict>
         <dict>
           <key>deepComponents</key>
@@ -3550,6 +3552,8 @@
           <string>condenced bold</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>255</integer>
         </dict>
       </array>
     </dict>
