@@ -413,6 +413,54 @@
           <key>status</key>
           <integer>0</integer>
         </dict>
+        <dict>
+          <key>fontraLayerName</key>
+          <string>Epaisseur I=900,Epaisseur Arche =608.6,Taille Arche=540,Taille Boule =630,Epaisseur Arche=500</string>
+          <key>layerName</key>
+          <string>Epaisseur I=900,Epaisseur Arche =608..12f734fd8ad0</string>
+          <key>location</key>
+          <dict>
+            <key>Epaisseur Arche</key>
+            <integer>500</integer>
+            <key>Epaisseur Arche </key>
+            <real>608.586074327211</real>
+            <key>Epaisseur I</key>
+            <integer>900</integer>
+            <key>Taille Arche</key>
+            <integer>540</integer>
+            <key>Taille Boule </key>
+            <integer>630</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>Epaisseur I=900,Epaisseur Arche =608.6,Taille Arche=540,Taille Boule =630,Epaisseur Arche=500</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>fontraLayerName</key>
+          <string>Taille Arche=540,Taille Boule =630,Epaisseur Arche=500</string>
+          <key>layerName</key>
+          <string>Taille Arche=540,Taille Boule =630,Ep.edc388c515db</string>
+          <key>location</key>
+          <dict>
+            <key>Epaisseur Arche</key>
+            <integer>500</integer>
+            <key>Taille Arche</key>
+            <integer>540</integer>
+            <key>Taille Boule </key>
+            <integer>630</integer>
+          </dict>
+          <key>locationBase</key>
+          <string>fae974f5</string>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>Taille Arche=540,Taille Boule =630,Epaisseur Arche=500</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
       </array>
     </dict>
   </lib>
