@@ -225,6 +225,48 @@
           <key>status</key>
           <integer>0</integer>
         </dict>
+        <dict>
+          <key>layerName</key>
+          <string>Epaisseur Arche=1000,Taille Arche =100</string>
+          <key>location</key>
+          <dict>
+            <key>Epaisseur Arche</key>
+            <integer>1000</integer>
+            <key>Taille Arche </key>
+            <integer>100</integer>
+          </dict>
+          <key>locationBase</key>
+          <string>fae974f5</string>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>Epaisseur Arche=1000,Taille Arche =100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>fontraLayerName</key>
+          <string>Epaisseur Arche=1000,Taille Arche =100,Taille Boule =100</string>
+          <key>layerName</key>
+          <string>Epaisseur Arche=1000,Taille Arche =10.479fc80c06e5</string>
+          <key>location</key>
+          <dict>
+            <key>Epaisseur Arche</key>
+            <integer>1000</integer>
+            <key>Taille Arche </key>
+            <integer>100</integer>
+            <key>Taille Boule </key>
+            <integer>100</integer>
+          </dict>
+          <key>locationBase</key>
+          <string>fae974f5</string>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>Epaisseur Arche=1000,Taille Arche =100,Taille Boule =100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
       </array>
     </dict>
   </lib>
