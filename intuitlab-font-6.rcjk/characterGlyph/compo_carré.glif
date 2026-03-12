@@ -75,7 +75,7 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>erosion=40</string>
+          <string>CARRE_erosion=40</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
@@ -130,7 +130,7 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>width=50,largeur=3</string>
+          <string>CARRE_width=50,largeur=3</string>
           <key>location</key>
           <dict>
             <key>largeur</key>
@@ -141,7 +141,7 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>width=50,largeur=3</string>
+          <string>CARRE_width=50,largeur=3</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
@@ -213,7 +213,7 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>width=50,rounded=100</string>
+          <string>LOSANGE_width=50,rounded=100</string>
           <key>location</key>
           <dict>
             <key>rounded</key>
@@ -224,7 +224,7 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>width=50,rounded=100</string>
+          <string>LOSANGE_width=50,rounded=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
@@ -247,7 +247,7 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>width=50,rounded=100,erosion=40</string>
+          <string>LOSANGE_width=50,rounded=100,erosion=40</string>
           <key>location</key>
           <dict>
             <key>erosion</key>
@@ -260,13 +260,13 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>width=50,rounded=100,erosion=40</string>
+          <string>LOSANGE_width=50,rounded=100,erosion=40</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>width=50,rounded=100,largeur=3</string>
+          <string>LOSANGE_width=50,rounded=100,largeur=3</string>
           <key>location</key>
           <dict>
             <key>largeur</key>
@@ -279,13 +279,13 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>width=50,rounded=100,largeur=3</string>
+          <string>LOSANGE_width=50,rounded=100,largeur=3</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>width=50,rounded=100,hauteur=3</string>
+          <string>LOSANGE_width=50,rounded=100,hauteur=3</string>
           <key>location</key>
           <dict>
             <key>hauteur</key>
@@ -298,7 +298,7 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>width=50,rounded=100,hauteur=3</string>
+          <string>LOSANGE_width=50,rounded=100,hauteur=3</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
@@ -315,13 +315,13 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>width=50,hauteur=3</string>
+          <string>CARRE_width=50,hauteur=3</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>width=50,rounded=100,largeur=2</string>
+          <string>LOSANGE_width=50,rounded=100,largeur=2</string>
           <key>location</key>
           <dict>
             <key>largeur</key>
@@ -334,7 +334,7 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>width=50,rounded=100,largeur=2</string>
+          <string>LOSANGE_width=50,rounded=100,largeur=2</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
@@ -357,7 +357,7 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>width=50,largeur=3,erosion=40</string>
+          <string>CARRE_width=50,largeur=3,erosion=40</string>
           <key>location</key>
           <dict>
             <key>erosion</key>
@@ -370,13 +370,13 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>width=50,largeur=3,erosion=40</string>
+          <string>CARRE_width=50,largeur=3,erosion=40</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>width=50,rounded=100,largeur=3,erosion=40</string>
+          <string>LOSANGE_width=50,rounded=100,largeur=3,erosion=40</string>
           <key>location</key>
           <dict>
             <key>erosion</key>
@@ -391,13 +391,13 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>width=50,rounded=100,largeur=3,erosion=40</string>
+          <string>LOSANGE_width=50,rounded=100,largeur=3,erosion=40</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>width=50,rounded=100,largeur=2,erosion=40</string>
+          <string>LOSANGE_width=50,rounded=100,largeur=2,erosion=40</string>
           <key>location</key>
           <dict>
             <key>erosion</key>
@@ -412,7 +412,7 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>width=50,rounded=100,largeur=2,erosion=40</string>
+          <string>LOSANGE_width=50,rounded=100,largeur=2,erosion=40</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
@@ -450,7 +450,7 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>largeur=2,erosion=40</string>
+          <string>CARRE_largeur=2,erosion=40</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
