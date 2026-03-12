@@ -14,7 +14,9 @@
       <point x="0" y="0"/>
       <point x="25" y="0"/>
       <point x="25" y="0" type="curve"/>
-      <point x="25" y="0" type="line"/>
+      <point x="25" y="0"/>
+      <point x="25" y="0"/>
+      <point x="25" y="0" type="curve"/>
       <point x="25" y="0"/>
       <point x="25" y="150"/>
       <point x="25" y="150" type="curve"/>
