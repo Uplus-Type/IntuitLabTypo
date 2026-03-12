@@ -40,30 +40,30 @@
           <key>coord</key>
           <dict>
             <key>Epaisseur Arche</key>
-            <integer>500</integer>
+            <integer>400</integer>
             <key>Taille Arche</key>
             <real>462.833545108005</real>
             <key>Taille Boule Min</key>
-            <real>333.54510800508297</real>
+            <real>902.115954295387</real>
           </dict>
           <key>name</key>
           <string>01</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>61.130853667876295</real>
+            <real>68.66820488498989</real>
             <key>scalex</key>
-            <real>0.9962833839832694</real>
+            <real>1.0242871855383768</real>
             <key>scaley</key>
-            <real>0.9962833839832698</real>
+            <real>1.0242871855383768</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>440.13666666666666</real>
+            <integer>501</integer>
             <key>y</key>
-            <integer>-92</integer>
+            <integer>-101</integer>
           </dict>
         </dict>
         <dict>
@@ -72,28 +72,28 @@
             <key>Epaisseur Arche</key>
             <integer>500</integer>
             <key>Taille Arche</key>
-            <real>279.542566709022</real>
+            <integer>280</integer>
             <key>Taille Boule Min</key>
-            <integer>100</integer>
+            <integer>220</integer>
           </dict>
           <key>name</key>
           <string>01</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>57.56056030566663</real>
+            <real>65.5036666542803</real>
             <key>scalex</key>
-            <real>-0.9999999999999994</real>
+            <real>-1.0281082691986132</real>
             <key>scaley</key>
-            <real>-0.9999999999999994</real>
+            <real>-1.0281082691986125</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>233.13666666666666</real>
+            <integer>143</integer>
             <key>y</key>
-            <integer>984</integer>
+            <integer>968</integer>
           </dict>
         </dict>
       </array>
