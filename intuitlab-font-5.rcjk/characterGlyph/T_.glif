@@ -6,12 +6,12 @@
     <contour>
       <point x="173" y="799" type="line"/>
       <point x="319" y="799" type="line"/>
-      <point x="473" y="800"/>
-      <point x="488" y="727"/>
+      <point x="380" y="799"/>
+      <point x="484" y="772"/>
       <point x="490" y="700" type="curve" smooth="yes"/>
       <point x="497" y="611" type="line"/>
       <point x="486" y="611" type="line"/>
-      <point x="418" y="762"/>
+      <point x="398" y="707"/>
       <point x="357" y="742"/>
       <point x="175" y="745" type="curve"/>
     </contour>
@@ -24,7 +24,7 @@
           <key>coord</key>
           <dict>
             <key>hauteur</key>
-            <real>91.1611173814898</real>
+            <integer>100</integer>
           </dict>
           <key>name</key>
           <string>bas2</string>
