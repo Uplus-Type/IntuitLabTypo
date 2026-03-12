@@ -97,9 +97,9 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-36.96360690785078</real>
+            <real>-35.44776220158398</real>
             <key>scalex</key>
-            <real>0.9999999999999998</real>
+            <real>0.9999999999999997</real>
             <key>scaley</key>
             <integer>1</integer>
             <key>tcenterx</key>
@@ -109,7 +109,7 @@
             <key>x</key>
             <integer>182</integer>
             <key>y</key>
-            <integer>544</integer>
+            <real>556.9999999999999</real>
           </dict>
         </dict>
         <dict>
@@ -135,7 +135,7 @@
             <key>x</key>
             <integer>181</integer>
             <key>y</key>
-            <integer>741</integer>
+            <integer>754</integer>
           </dict>
         </dict>
         <dict>
@@ -149,9 +149,9 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>41.20969526053244</real>
+            <real>39.448384946477496</real>
             <key>scalex</key>
-            <real>-0.9999999999999998</real>
+            <real>-0.9999999999999997</real>
             <key>scaley</key>
             <real>-0.9999999999999998</real>
             <key>tcenterx</key>
@@ -161,7 +161,7 @@
             <key>x</key>
             <integer>378</integer>
             <key>y</key>
-            <integer>741</integer>
+            <integer>754</integer>
           </dict>
         </dict>
         <dict>
@@ -263,7 +263,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>110</integer>
+            <integer>115</integer>
             <key>y</key>
             <integer>310</integer>
           </dict>
@@ -289,7 +289,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>257</integer>
+            <integer>262</integer>
             <key>y</key>
             <integer>310</integer>
           </dict>
