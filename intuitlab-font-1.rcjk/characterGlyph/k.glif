@@ -10,32 +10,11 @@
       <array>
         <dict>
           <key>coord</key>
-          <dict/>
-          <key>name</key>
-          <string>01</string>
-          <key>transform</key>
           <dict>
-            <key>rotation</key>
-            <real>34.47146061478078</real>
-            <key>scalex</key>
-            <real>1.1992247464742205</real>
-            <key>scaley</key>
-            <real>1.1992247464742212</real>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <real>199.9177738263531</real>
-            <key>y</key>
-            <real>-171.80801043179318</real>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>height</key>
-            <integer>500</integer>
+            <key>Epaisseur</key>
+            <integer>400</integer>
+            <key>Taille</key>
+            <integer>657</integer>
           </dict>
           <key>name</key>
           <string>02</string>
@@ -44,17 +23,17 @@
             <key>rotation</key>
             <integer>0</integer>
             <key>scalex</key>
-            <real>1.1113393119406447</real>
+            <integer>1</integer>
             <key>scaley</key>
-            <real>1.4958628002816667</real>
+            <integer>1</integer>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-246</integer>
+            <integer>-202</integer>
             <key>y</key>
-            <integer>1</integer>
+            <integer>115</integer>
           </dict>
         </dict>
       </array>
