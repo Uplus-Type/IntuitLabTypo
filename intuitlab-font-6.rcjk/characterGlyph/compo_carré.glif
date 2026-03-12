@@ -3,9 +3,9 @@
   <advance width="500"/>
   <outline>
     <contour>
-      <point x="0" y="50" type="curve"/>
-      <point x="0" y="50" type="line"/>
-      <point x="0" y="50"/>
+      <point x="-2" y="50" type="curve"/>
+      <point x="0" y="42" type="line"/>
+      <point x="7" y="42"/>
       <point x="0" y="0"/>
       <point x="0" y="0" type="curve"/>
       <point x="0" y="0" type="line"/>
@@ -18,7 +18,7 @@
       <point x="50" y="50" type="curve"/>
       <point x="50" y="50" type="line"/>
       <point x="50" y="50"/>
-      <point x="0" y="50"/>
+      <point x="5" y="50"/>
     </contour>
   </outline>
   <lib>
@@ -542,21 +542,6 @@
           <true/>
           <key>sourceName</key>
           <string>LOSANGE_rounded=100,largeur=3,erosion=40</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>rounded2=100</string>
-          <key>location</key>
-          <dict>
-            <key>rounded2</key>
-            <integer>100</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>rounded2=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
