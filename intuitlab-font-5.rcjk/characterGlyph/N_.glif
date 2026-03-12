@@ -4,25 +4,25 @@
   <unicode hex="004E"/>
   <outline>
     <contour>
-      <point x="174" y="693" type="line"/>
-      <point x="183" y="680"/>
-      <point x="197" y="674"/>
-      <point x="212" y="664" type="curve"/>
-      <point x="235" y="649"/>
-      <point x="267" y="640"/>
-      <point x="272" y="627" type="curve" smooth="yes"/>
-      <point x="337" y="459" type="line" smooth="yes"/>
-      <point x="363" y="393"/>
-      <point x="365" y="41"/>
-      <point x="344" y="32" type="curve"/>
-      <point x="339" y="38" type="line"/>
-      <point x="368" y="67"/>
-      <point x="298" y="345"/>
-      <point x="275" y="365" type="curve" smooth="yes"/>
-      <point x="258" y="379"/>
-      <point x="170" y="609"/>
-      <point x="141" y="623" type="curve"/>
-      <point x="107" y="641"/>
+      <point x="159" y="697" type="line"/>
+      <point x="166" y="650"/>
+      <point x="230" y="612"/>
+      <point x="242" y="599" type="curve" smooth="yes"/>
+      <point x="322" y="515"/>
+      <point x="375" y="145"/>
+      <point x="386" y="137" type="curve" smooth="yes"/>
+      <point x="414" y="117" type="line"/>
+      <point x="471" y="74"/>
+      <point x="352" y="4"/>
+      <point x="331" y="-5" type="curve"/>
+      <point x="326" y="1" type="line"/>
+      <point x="355" y="30"/>
+      <point x="351" y="66"/>
+      <point x="328" y="86" type="curve"/>
+      <point x="311" y="100"/>
+      <point x="257" y="474"/>
+      <point x="171" y="558" type="curve" smooth="yes"/>
+      <point x="144" y="585"/>
       <point x="72" y="655"/>
       <point x="72" y="679" type="curve"/>
     </contour>
@@ -60,32 +60,6 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>hauteur</key>
-            <real>91.8266516092603</real>
-          </dict>
-          <key>name</key>
-          <string>bas2</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>327</integer>
-            <key>y</key>
-            <integer>0</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
             <key>HAUTd</key>
             <integer>0</integer>
           </dict>
@@ -105,6 +79,32 @@
             <integer>0</integer>
             <key>x</key>
             <integer>53</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>HAUTd</key>
+            <real>378.498871331828</real>
+          </dict>
+          <key>name</key>
+          <string>haut</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>327</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>

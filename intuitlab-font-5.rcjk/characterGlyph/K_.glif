@@ -12,7 +12,7 @@
           <key>coord</key>
           <dict>
             <key>hauteur</key>
-            <integer>100</integer>
+            <real>71.9508752117448</real>
           </dict>
           <key>name</key>
           <string>bas2</string>
@@ -29,7 +29,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>4</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
@@ -52,9 +52,35 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>102</integer>
+            <integer>494</integer>
             <key>y</key>
-            <integer>60</integer>
+            <integer>63</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>HAUTd</key>
+            <real>38.4528514963298</real>
+          </dict>
+          <key>name</key>
+          <string>haut</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
           </dict>
         </dict>
       </array>
