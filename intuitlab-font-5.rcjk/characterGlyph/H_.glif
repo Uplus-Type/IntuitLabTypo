@@ -116,11 +116,11 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>weight</key>
-            <real>524.889046689153</real>
+            <key>DESCENTE</key>
+            <integer>0</integer>
           </dict>
           <key>name</key>
-          <string>TETEcourte</string>
+          <string>GrandeBarre</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
