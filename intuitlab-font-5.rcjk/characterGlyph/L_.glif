@@ -3,6 +3,63 @@
   <advance width="500"/>
   <unicode hex="004C"/>
   <outline>
+    <contour>
+      <point x="411" y="167" type="line"/>
+      <point x="370" y="81"/>
+      <point x="322" y="53"/>
+      <point x="277" y="53" type="curve" smooth="yes"/>
+      <point x="239" y="53"/>
+      <point x="199" y="69"/>
+      <point x="185" y="114" type="curve" smooth="yes"/>
+      <point x="165" y="179"/>
+      <point x="169" y="384"/>
+      <point x="169" y="331" type="curve"/>
+      <point x="169" y="0" type="line"/>
+      <point x="277" y="0" type="line"/>
+      <point x="411" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="307" y="653" type="curve"/>
+      <point x="310" y="629"/>
+      <point x="315" y="614"/>
+      <point x="327" y="602" type="curve" smooth="yes"/>
+      <point x="348" y="579"/>
+      <point x="378" y="567"/>
+      <point x="432" y="577" type="curve"/>
+      <point x="434" y="583" type="line"/>
+      <point x="405" y="591"/>
+      <point x="398" y="611"/>
+      <point x="398" y="653" type="curve" smooth="yes"/>
+      <point x="393" y="702"/>
+      <point x="373" y="741"/>
+      <point x="338" y="767" type="curve" smooth="yes"/>
+      <point x="307" y="791"/>
+      <point x="257" y="800"/>
+      <point x="190" y="794" type="curve" smooth="yes"/>
+      <point x="138" y="789"/>
+      <point x="110" y="792"/>
+      <point x="60" y="800" type="curve"/>
+      <point x="54" y="793" type="line"/>
+      <point x="70" y="761"/>
+      <point x="76" y="683"/>
+      <point x="79" y="630" type="curve" smooth="yes"/>
+      <point x="79" y="632"/>
+      <point x="79" y="657"/>
+      <point x="79" y="625" type="curve"/>
+      <point x="169" y="625" type="line"/>
+      <point x="169" y="626" type="line" smooth="yes"/>
+      <point x="169" y="627"/>
+      <point x="169" y="622"/>
+      <point x="169" y="630" type="curve"/>
+      <point x="168" y="677"/>
+      <point x="162" y="699"/>
+      <point x="136" y="730" type="curve"/>
+      <point x="193" y="729"/>
+      <point x="254" y="728"/>
+      <point x="279" y="707" type="curve" smooth="yes"/>
+      <point x="293" y="695"/>
+      <point x="303" y="677"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -11,11 +68,13 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>HAUTd</key>
-            <integer>400</integer>
+            <key>Br</key>
+            <integer>0</integer>
+            <key>Hauteur</key>
+            <real>634.156320541761</real>
           </dict>
           <key>name</key>
-          <string>haut</string>
+          <string>pied</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -23,39 +82,13 @@
             <key>scalex</key>
             <integer>1</integer>
             <key>scaley</key>
-            <integer>1</integer>
+            <real>0.9918538086678865</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
-            <key>y</key>
-            <integer>0</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>hauteur</key>
-            <real>6.90287972896669</real>
-          </dict>
-          <key>name</key>
-          <string>bas2</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>4</integer>
+            <integer>70</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
