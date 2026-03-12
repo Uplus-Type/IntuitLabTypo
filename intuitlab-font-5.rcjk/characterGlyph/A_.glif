@@ -13,6 +13,8 @@
           <dict>
             <key>Hauteur</key>
             <integer>333</integer>
+            <key>weight</key>
+            <integer>700</integer>
           </dict>
           <key>name</key>
           <string>barreG</string>
@@ -31,7 +33,7 @@
             <key>x</key>
             <integer>130</integer>
             <key>y</key>
-            <integer>60</integer>
+            <integer>59</integer>
           </dict>
         </dict>
         <dict>
