@@ -64,13 +64,13 @@
             <key>scalex</key>
             <integer>1</integer>
             <key>scaley</key>
-            <integer>1</integer>
+            <real>3.2119538064335362</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>231</integer>
+            <integer>230</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
