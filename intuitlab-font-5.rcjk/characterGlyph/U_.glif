@@ -102,18 +102,15 @@
         </dict>
         <dict>
           <key>coord</key>
-          <dict>
-            <key>Hauteur</key>
-            <integer>333</integer>
-          </dict>
+          <dict/>
           <key>name</key>
-          <string>tiret</string>
+          <string>barreD</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
             <integer>0</integer>
             <key>scalex</key>
-            <integer>-1</integer>
+            <integer>1</integer>
             <key>scaley</key>
             <integer>1</integer>
             <key>tcenterx</key>
@@ -121,9 +118,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>545</integer>
+            <integer>47</integer>
             <key>y</key>
-            <integer>314</integer>
+            <integer>323</integer>
           </dict>
         </dict>
       </array>
