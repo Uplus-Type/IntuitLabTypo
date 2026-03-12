@@ -14,7 +14,7 @@
             <key>Epaisseur</key>
             <integer>400</integer>
             <key>Taille</key>
-            <real>609.570025956438</real>
+            <real>583.568445999323</real>
           </dict>
           <key>name</key>
           <string>02</string>
@@ -31,9 +31,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-7</integer>
+            <integer>17</integer>
             <key>y</key>
-            <integer>145</integer>
+            <integer>135</integer>
           </dict>
         </dict>
         <dict>
@@ -47,7 +47,7 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-37.390699002603064</real>
+            <real>-37.29708265000542</real>
             <key>scalex</key>
             <real>-0.9999999999999999</real>
             <key>scaley</key>
@@ -57,9 +57,37 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>534</integer>
+            <integer>558</integer>
             <key>y</key>
-            <integer>746</integer>
+            <integer>745</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>Epaisseur</key>
+            <integer>400</integer>
+            <key>Taille</key>
+            <real>141.54158672836</real>
+          </dict>
+          <key>name</key>
+          <string>02</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>89.81433671054657</real>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>307</integer>
+            <key>y</key>
+            <integer>282</integer>
           </dict>
         </dict>
       </array>

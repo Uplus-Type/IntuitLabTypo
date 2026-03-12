@@ -40,26 +40,26 @@
           <key>coord</key>
           <dict>
             <key>Taille </key>
-            <real>463.351671603893</real>
+            <integer>400</integer>
           </dict>
           <key>name</key>
           <string>03</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>13.327373309935435</real>
+            <real>1.4620912404002242</real>
             <key>scalex</key>
-            <real>0.9999999999999999</real>
+            <real>0.9999999999999997</real>
             <key>scaley</key>
-            <integer>1</integer>
+            <real>0.9999999999999999</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-97</integer>
+            <integer>-181</integer>
             <key>y</key>
-            <integer>314</integer>
+            <integer>373</integer>
           </dict>
         </dict>
       </array>
