@@ -31,9 +31,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>300.71279078722574</real>
+            <integer>304</integer>
             <key>y</key>
-            <real>45.26406567729552</real>
+            <integer>45</integer>
           </dict>
         </dict>
         <dict>
@@ -59,9 +59,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-223</integer>
+            <integer>-219</integer>
             <key>y</key>
-            <integer>713</integer>
+            <integer>714</integer>
           </dict>
         </dict>
       </array>
