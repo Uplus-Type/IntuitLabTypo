@@ -89,9 +89,12 @@
         </dict>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>DESCENTE</key>
+            <integer>0</integer>
+          </dict>
           <key>name</key>
-          <string>haut</string>
+          <string>GrandeBarre</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -105,9 +108,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-185</integer>
+            <integer>0</integer>
             <key>y</key>
-            <integer>688</integer>
+            <integer>0</integer>
           </dict>
         </dict>
       </array>

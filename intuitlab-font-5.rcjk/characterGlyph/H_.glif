@@ -117,7 +117,9 @@
           <key>coord</key>
           <dict>
             <key>DESCENTE</key>
-            <integer>0</integer>
+            <real>8.70976849237719</real>
+            <key>weight</key>
+            <real>466.944789632523</real>
           </dict>
           <key>name</key>
           <string>GrandeBarre</string>
