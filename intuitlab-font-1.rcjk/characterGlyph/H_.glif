@@ -31,9 +31,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-214</integer>
+            <integer>-195</integer>
             <key>y</key>
-            <integer>116</integer>
+            <integer>114</integer>
           </dict>
         </dict>
         <dict>
@@ -51,7 +51,7 @@
             <key>rotation</key>
             <integer>0</integer>
             <key>scalex</key>
-            <integer>1</integer>
+            <integer>-1</integer>
             <key>scaley</key>
             <integer>1</integer>
             <key>tcenterx</key>
@@ -59,16 +59,16 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>244</integer>
+            <real>715.9233333333334</real>
             <key>y</key>
-            <integer>113</integer>
+            <integer>117</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
             <key>Taille Arche</key>
-            <real>271.289503386005</real>
+            <real>274.015247776366</real>
             <key>Taille Boule Min</key>
             <integer>400</integer>
           </dict>
@@ -87,7 +87,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-162</integer>
+            <integer>-157</integer>
             <key>y</key>
             <integer>337</integer>
           </dict>
@@ -117,7 +117,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>292</integer>
+            <integer>306</integer>
             <key>y</key>
             <integer>109</integer>
           </dict>
