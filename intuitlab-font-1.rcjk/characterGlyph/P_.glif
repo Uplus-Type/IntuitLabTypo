@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="P" format="2">
-  <advance width="500"/>
+  <advance width="596.067404213165"/>
   <unicode hex="0050"/>
   <outline>
   </outline>
@@ -31,65 +31,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-197</integer>
-            <key>y</key>
-            <integer>114</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>Epaisseur Arche</key>
-            <real>668.48792884371</real>
-            <key>Taille Arche</key>
-            <real>203.684879288437</real>
-            <key>Taille Boule Min</key>
-            <real>243.964421855146</real>
-          </dict>
-          <key>name</key>
-          <string>01</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <real>17.82194378496356</real>
-            <key>scalex</key>
-            <real>-1.4714290179901428</real>
-            <key>scaley</key>
-            <real>1.4714290179901441</real>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>227</integer>
-            <key>y</key>
-            <integer>388</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>Epaisseur</key>
-            <integer>600</integer>
-            <key>Taille</key>
-            <integer>659</integer>
-          </dict>
-          <key>name</key>
-          <string>02</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>-1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>273</integer>
+            <real>271.06</real>
             <key>y</key>
             <integer>114</integer>
           </dict>
@@ -119,7 +61,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>629</integer>
+            <real>627.06</real>
             <key>y</key>
             <integer>80</integer>
           </dict>
