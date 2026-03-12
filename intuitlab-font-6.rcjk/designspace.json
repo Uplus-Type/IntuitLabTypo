@@ -43,7 +43,7 @@
                     "rounded2": 100
                 },
                 "outputLocation": {
-                    "rounded2": 0
+                    "rounded": 0.01
                 }
             },
             {
@@ -53,7 +53,9 @@
                     "rounded": 0.01,
                     "rounded2": 100
                 },
-                "outputLocation": {}
+                "outputLocation": {
+                    "rounded2": 0.01
+                }
             }
         ]
     },
