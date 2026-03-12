@@ -10,14 +10,16 @@
       <point x="192" y="674"/>
       <point x="192" y="603" type="curve"/>
       <point x="282" y="603" type="line"/>
-      <point x="282" y="661"/>
-      <point x="292" y="695"/>
-      <point x="321" y="739" type="curve"/>
-      <point x="321" y="791" type="line"/>
-      <point x="306" y="791"/>
-      <point x="296" y="791"/>
-      <point x="287" y="791" type="curve"/>
-      <point x="234" y="640" type="line"/>
+      <point x="285" y="651"/>
+      <point x="411" y="673"/>
+      <point x="411" y="679" type="curve"/>
+      <point x="410" y="791" type="line"/>
+      <point x="381" y="785"/>
+      <point x="287" y="784"/>
+      <point x="256" y="791" type="curve"/>
+      <point x="258" y="736"/>
+      <point x="258" y="684"/>
+      <point x="234" y="640" type="curve"/>
       <point x="215" y="689"/>
       <point x="151" y="715"/>
     </contour>
@@ -130,32 +132,6 @@
             <integer>0</integer>
             <key>x</key>
             <integer>153</integer>
-            <key>y</key>
-            <integer>-9</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>DESCENTE</key>
-            <real>30.6359147975737</real>
-          </dict>
-          <key>name</key>
-          <string>GrandeBarre</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>-1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>423</integer>
             <key>y</key>
             <integer>-9</integer>
           </dict>

@@ -31,6 +31,19 @@
   </outline>
   <lib>
     <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Hauteur</string>
+        </dict>
+      </array>
       <key>robocjk.locationBase</key>
       <string>92610cbd</string>
       <key>robocjk.status</key>
