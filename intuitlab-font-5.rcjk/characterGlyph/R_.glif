@@ -73,11 +73,11 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>hauteur</key>
-            <real>80.081874647092</real>
+            <key>MONTEE</key>
+            <real>566.897233201581</real>
           </dict>
           <key>name</key>
-          <string>bas2</string>
+          <string>bas2soloG</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -91,9 +91,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>36</integer>
+            <integer>25</integer>
             <key>y</key>
-            <integer>0</integer>
+            <integer>-10</integer>
           </dict>
         </dict>
       </array>
