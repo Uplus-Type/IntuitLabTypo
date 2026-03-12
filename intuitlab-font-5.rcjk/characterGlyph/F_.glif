@@ -3,15 +3,6 @@
   <advance width="500"/>
   <unicode hex="0046"/>
   <outline>
-    <contour>
-      <point x="99" y="331" type="move"/>
-      <point x="99" y="449"/>
-      <point x="119" y="500"/>
-      <point x="234" y="500" type="curve"/>
-      <point x="168" y="535"/>
-      <point x="99" y="500"/>
-      <point x="99" y="500" type="curve"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -66,6 +57,32 @@
             <integer>0</integer>
             <key>y</key>
             <integer>0</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>Hauteur</key>
+            <integer>333</integer>
+          </dict>
+          <key>name</key>
+          <string>barreD</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>99</integer>
+            <key>y</key>
+            <integer>45</integer>
           </dict>
         </dict>
       </array>
