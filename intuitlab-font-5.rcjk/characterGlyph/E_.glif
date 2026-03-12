@@ -29,7 +29,7 @@
             <key>Br</key>
             <integer>0</integer>
             <key>Hauteur</key>
-            <real>626.17</real>
+            <real>629.85</real>
           </dict>
           <key>name</key>
           <string>pied</string>
@@ -81,7 +81,7 @@
           <key>coord</key>
           <dict>
             <key>Hauteur</key>
-            <real>65.9283295711061</real>
+            <integer>100</integer>
           </dict>
           <key>name</key>
           <string>barreH</string>
@@ -100,14 +100,14 @@
             <key>x</key>
             <integer>680</integer>
             <key>y</key>
-            <integer>144</integer>
+            <integer>167</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
             <key>Hauteur</key>
-            <real>79.1972347629797</real>
+            <integer>100</integer>
           </dict>
           <key>name</key>
           <string>tete2-d</string>
