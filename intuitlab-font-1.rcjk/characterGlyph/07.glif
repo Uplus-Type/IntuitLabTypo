@@ -70,13 +70,30 @@
           <string>Epaisseur I=100</string>
           <key>location</key>
           <dict>
-            <key>Epaisseur Arche </key>
+            <key>Epaisseur Arche</key>
             <integer>100</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
           <string>Epaisseur I=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>Epaisseur Arche=1000</string>
+          <key>location</key>
+          <dict>
+            <key>Epaisseur Arche</key>
+            <integer>1000</integer>
+          </dict>
+          <key>locationBase</key>
+          <string>fae974f5</string>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>Epaisseur Arche=1000</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
