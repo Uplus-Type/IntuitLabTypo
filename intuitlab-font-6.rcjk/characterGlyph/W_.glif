@@ -7073,7 +7073,7 @@
           <key>status</key>
           <integer>0</integer>
           <key>width</key>
-          <integer>405</integer>
+          <integer>400</integer>
         </dict>
         <dict>
           <key>deepComponents</key>
@@ -9434,7 +9434,7 @@
           <key>status</key>
           <integer>0</integer>
           <key>width</key>
-          <integer>405</integer>
+          <integer>400</integer>
         </dict>
       </array>
     </dict>

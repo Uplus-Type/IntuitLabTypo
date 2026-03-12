@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="X" format="2">
-  <advance width="561"/>
+  <advance width="550"/>
   <unicode hex="0058"/>
   <outline>
   </outline>
@@ -6713,7 +6713,7 @@
           <key>status</key>
           <integer>0</integer>
           <key>width</key>
-          <integer>305</integer>
+          <integer>300</integer>
         </dict>
         <dict>
           <key>deepComponents</key>
@@ -8954,7 +8954,7 @@
           <key>status</key>
           <integer>0</integer>
           <key>width</key>
-          <integer>305</integer>
+          <integer>300</integer>
         </dict>
       </array>
     </dict>
