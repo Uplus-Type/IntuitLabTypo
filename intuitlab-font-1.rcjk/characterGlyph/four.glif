@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four" format="2">
-  <advance width="500"/>
+  <advance width="571.3930784701715"/>
   <unicode hex="0034"/>
   <outline>
   </outline>
@@ -31,7 +31,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>538</integer>
+            <real>582.4842673385722</real>
             <key>y</key>
             <integer>109</integer>
           </dict>
@@ -61,7 +61,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-119</integer>
+            <real>-74.51573266142788</real>
             <key>y</key>
             <integer>725</integer>
           </dict>
@@ -89,7 +89,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>393</integer>
+            <real>437.4842673385721</real>
             <key>y</key>
             <integer>522</integer>
           </dict>
