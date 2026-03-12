@@ -21,43 +21,11 @@
       <point x="290" y="-1"/>
       <point x="313" y="21"/>
     </contour>
-    <contour>
-      <point x="168" y="645" type="line"/>
-      <point x="105" y="660"/>
-      <point x="73" y="668"/>
-      <point x="73" y="668" type="curve"/>
-      <point x="71" y="667" type="line"/>
-      <point x="71" y="505" type="line"/>
-      <point x="154" y="505" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>robocjk.deepComponents</key>
       <array>
-        <dict>
-          <key>coord</key>
-          <dict/>
-          <key>name</key>
-          <string>barreD</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>74</integer>
-            <key>y</key>
-            <integer>157</integer>
-          </dict>
-        </dict>
         <dict>
           <key>coord</key>
           <dict>
@@ -79,9 +47,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>386</integer>
+            <integer>415</integer>
             <key>y</key>
-            <integer>165</integer>
+            <integer>9</integer>
           </dict>
         </dict>
         <dict>
@@ -95,19 +63,19 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <integer>0</integer>
+            <real>-0.17617152939877187</real>
             <key>scalex</key>
-            <integer>1</integer>
+            <real>-0.9999999999999999</real>
             <key>scaley</key>
-            <integer>1</integer>
+            <integer>-1</integer>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>444</integer>
             <key>y</key>
-            <integer>0</integer>
+            <integer>1028</integer>
           </dict>
         </dict>
       </array>
