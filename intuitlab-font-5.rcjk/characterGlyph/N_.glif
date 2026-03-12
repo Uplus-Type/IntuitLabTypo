@@ -55,7 +55,7 @@
           <key>coord</key>
           <dict>
             <key>hauteur</key>
-            <integer>100</integer>
+            <real>91.8266516092603</real>
           </dict>
           <key>name</key>
           <string>bas2</string>
@@ -66,7 +66,7 @@
             <key>scalex</key>
             <integer>1</integer>
             <key>scaley</key>
-            <integer>-1</integer>
+            <integer>1</integer>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
@@ -74,7 +74,7 @@
             <key>x</key>
             <integer>327</integer>
             <key>y</key>
-            <integer>796</integer>
+            <integer>0</integer>
           </dict>
         </dict>
         <dict>
@@ -99,6 +99,32 @@
             <integer>0</integer>
             <key>x</key>
             <integer>53</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>HAUTd</key>
+            <integer>0</integer>
+          </dict>
+          <key>name</key>
+          <string>haut</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>323</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
