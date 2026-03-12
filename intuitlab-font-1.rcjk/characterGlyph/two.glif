@@ -11,23 +11,43 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>Barre verticale</key>
-            <integer>400</integer>
-            <key>Epaisseur Arche</key>
-            <integer>400</integer>
-            <key>Taille Arche </key>
-            <real>635.571605913554</real>
-            <key>Taille Boule </key>
-            <real>525.064891095813</real>
+            <key>Taille </key>
+            <real>603.069630967159</real>
           </dict>
           <key>name</key>
-          <string>07</string>
+          <string>03</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-21.472753862563188</real>
+            <real>-38.368212466408664</real>
             <key>scalex</key>
-            <real>-0.9999999999999999</real>
+            <integer>-1</integer>
+            <key>scaley</key>
+            <integer>-1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>536</integer>
+            <key>y</key>
+            <integer>735</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>Taille </key>
+            <real>603.069630967159</real>
+          </dict>
+          <key>name</key>
+          <string>03</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>-38.368212466408664</real>
+            <key>scalex</key>
+            <integer>1</integer>
             <key>scaley</key>
             <integer>1</integer>
             <key>tcenterx</key>
@@ -35,37 +55,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>230</integer>
+            <integer>-44</integer>
             <key>y</key>
-            <integer>54</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>Epaisseur</key>
-            <integer>400</integer>
-            <key>Taille</key>
-            <real>336.553436406726</real>
-          </dict>
-          <key>name</key>
-          <string>02</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <real>-89.854076143033</real>
-            <key>scalex</key>
-            <integer>-1</integer>
-            <key>scaley</key>
-            <integer>-1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <real>548.5076739737726</real>
-            <key>y</key>
-            <real>-204.71976858092552</real>
+            <integer>18</integer>
           </dict>
         </dict>
       </array>
