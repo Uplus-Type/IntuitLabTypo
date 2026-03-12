@@ -39,15 +39,16 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string>37ddb891</string>
+          <string>morphing=100</string>
           <key>location</key>
-          <dict/>
-          <key>locationBase</key>
-          <string>37ddb891</string>
+          <dict>
+            <key>morphing</key>
+            <integer>100</integer>
+          </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string></string>
+          <string>morphing=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
