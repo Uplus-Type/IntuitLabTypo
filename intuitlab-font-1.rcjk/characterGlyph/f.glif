@@ -33,7 +33,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>503</integer>
+            <integer>502</integer>
             <key>y</key>
             <integer>421</integer>
           </dict>
@@ -42,9 +42,9 @@
           <key>coord</key>
           <dict>
             <key>Epaisseur</key>
-            <real>408.057781288794</real>
+            <integer>415</integer>
             <key>Taille</key>
-            <real>499.063311138698</real>
+            <integer>580</integer>
           </dict>
           <key>name</key>
           <string>02</string>
@@ -61,9 +61,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-102</integer>
+            <integer>-103</integer>
             <key>y</key>
-            <integer>47</integer>
+            <integer>4</integer>
           </dict>
         </dict>
       </array>
