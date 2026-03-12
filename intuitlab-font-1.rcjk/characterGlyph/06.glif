@@ -362,7 +362,7 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>Epaisseur Arche global =900</string>
+          <string>Epaisseur Arche global</string>
           <key>location</key>
           <dict>
             <key>Epaisseur Arche </key>
@@ -371,7 +371,7 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>Epaisseur Arche global =900</string>
+          <string>Epaisseur Arche global</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
