@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="compo_carré" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="6" y="26" type="curve"/>
+      <point x="26" y="-8" type="line"/>
+      <point x="26" y="-8"/>
+      <point x="26" y="-8"/>
+      <point x="26" y="-8" type="curve"/>
+      <point x="47" y="26" type="line"/>
+      <point x="47" y="26"/>
+      <point x="47" y="26"/>
+      <point x="47" y="26" type="curve"/>
+      <point x="26" y="59" type="line"/>
+      <point x="26" y="58"/>
+      <point x="26" y="59"/>
+      <point x="26" y="59" type="curve"/>
+      <point x="6" y="26" type="line"/>
+      <point x="6" y="26"/>
+      <point x="6" y="26"/>
+    </contour>
+  </outline>
+</glyph>
