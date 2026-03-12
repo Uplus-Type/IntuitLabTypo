@@ -59,16 +59,16 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>721.6066666666667</real>
+            <integer>723</integer>
             <key>y</key>
-            <integer>511</integer>
+            <integer>512</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
             <key>Epaisseur Arche</key>
-            <real>453.303684879288</real>
+            <integer>300</integer>
             <key>Taille Arche</key>
             <real>289.008894536213</real>
             <key>Taille Boule </key>
