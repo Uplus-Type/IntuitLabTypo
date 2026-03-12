@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="question" format="2">
-  <advance width="500"/>
+  <advance width="285.9443700054819"/>
   <unicode hex="003F"/>
   <outline>
   </outline>
@@ -35,7 +35,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>376</integer>
+            <real>269.3812508500099</real>
             <key>y</key>
             <integer>927</integer>
           </dict>
@@ -46,7 +46,7 @@
             <key>Epaisseur</key>
             <real>360.46394984326</real>
             <key>Taille</key>
-            <real>367.686520376176</real>
+            <real>343.053831396005</real>
           </dict>
           <key>name</key>
           <string>02</string>
@@ -63,9 +63,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>32</integer>
+            <real>-74.61874914999011</real>
             <key>y</key>
-            <integer>31</integer>
+            <integer>53</integer>
           </dict>
         </dict>
         <dict>
@@ -89,7 +89,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>122</integer>
+            <real>15.381250850009891</real>
             <key>y</key>
             <integer>219</integer>
           </dict>
