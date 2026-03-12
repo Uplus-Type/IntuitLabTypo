@@ -51,6 +51,9 @@
             }
         ]
     },
+    "fontInfo": {
+        "familyName": "Arabesque"
+    },
     "sources": {
         "fae974f5": {
             "lineMetricsHorizontalLayout": {
