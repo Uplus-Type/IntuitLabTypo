@@ -4,20 +4,20 @@
   <outline>
     <contour>
       <point x="0" y="150" type="curve"/>
-      <point x="0" y="76" type="line"/>
-      <point x="0" y="76"/>
+      <point x="0" y="150" type="line"/>
+      <point x="0" y="150"/>
       <point x="0" y="0"/>
       <point x="0" y="0" type="curve"/>
       <point x="25" y="0" type="line"/>
       <point x="25" y="0"/>
-      <point x="25" y="0"/>
-      <point x="25" y="0" type="curve"/>
+      <point x="25" y="77"/>
+      <point x="25" y="77" type="curve"/>
       <point x="25" y="77" type="line"/>
       <point x="25" y="77"/>
       <point x="25" y="150"/>
       <point x="25" y="150" type="curve"/>
-      <point x="0" y="150" type="line"/>
-      <point x="0" y="150"/>
+      <point x="25" y="150" type="line"/>
+      <point x="25" y="150"/>
       <point x="0" y="150"/>
     </contour>
   </outline>
