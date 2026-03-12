@@ -4,25 +4,25 @@
   <unicode hex="0055"/>
   <outline>
     <contour>
-      <point x="297" y="33" type="curve" smooth="yes"/>
-      <point x="297" y="163" type="line"/>
-      <point x="297" y="121"/>
-      <point x="287" y="83"/>
-      <point x="205" y="83" type="curve" smooth="yes"/>
-      <point x="139" y="83"/>
-      <point x="136" y="112"/>
-      <point x="136" y="283" type="curve" smooth="yes"/>
-      <point x="136" y="668" type="line"/>
-      <point x="46" y="668" type="line"/>
-      <point x="46" y="283" type="line" smooth="yes"/>
-      <point x="46" y="160"/>
-      <point x="47" y="87"/>
-      <point x="68" y="45" type="curve" smooth="yes"/>
-      <point x="89" y="4"/>
-      <point x="113" y="-7"/>
-      <point x="206" y="-7" type="curve" smooth="yes"/>
-      <point x="282" y="-7"/>
+      <point x="297" y="33" type="line" smooth="yes"/>
       <point x="297" y="10"/>
+      <point x="282" y="-7"/>
+      <point x="206" y="-7" type="curve" smooth="yes"/>
+      <point x="113" y="-7"/>
+      <point x="89" y="4"/>
+      <point x="68" y="45" type="curve" smooth="yes"/>
+      <point x="47" y="87"/>
+      <point x="46" y="160"/>
+      <point x="46" y="283" type="curve" smooth="yes"/>
+      <point x="46" y="668" type="line"/>
+      <point x="136" y="668" type="line"/>
+      <point x="136" y="283" type="line" smooth="yes"/>
+      <point x="136" y="112"/>
+      <point x="139" y="83"/>
+      <point x="205" y="83" type="curve" smooth="yes"/>
+      <point x="287" y="83"/>
+      <point x="297" y="121"/>
+      <point x="297" y="163" type="curve"/>
     </contour>
     <contour>
       <point x="145" y="800" type="line"/>
@@ -39,18 +39,18 @@
       <point x="151" y="793" type="curve"/>
     </contour>
     <contour>
-      <point x="396" y="800" type="line"/>
-      <point x="356" y="790"/>
-      <point x="325" y="790"/>
-      <point x="287" y="800" type="curve"/>
-      <point x="281" y="794" type="line"/>
-      <point x="297" y="760"/>
-      <point x="297" y="776"/>
-      <point x="297" y="668" type="curve"/>
-      <point x="387" y="668" type="line"/>
-      <point x="387" y="775"/>
+      <point x="396" y="800" type="curve"/>
+      <point x="402" y="793" type="line"/>
       <point x="384" y="759"/>
-      <point x="402" y="793" type="curve"/>
+      <point x="387" y="775"/>
+      <point x="387" y="668" type="curve"/>
+      <point x="297" y="668" type="line"/>
+      <point x="297" y="776"/>
+      <point x="297" y="760"/>
+      <point x="281" y="794" type="curve"/>
+      <point x="287" y="800" type="line"/>
+      <point x="325" y="790"/>
+      <point x="356" y="790"/>
     </contour>
   </outline>
   <lib>
@@ -61,7 +61,7 @@
           <key>coord</key>
           <dict>
             <key>MONTER</key>
-            <integer>0</integer>
+            <integer>700</integer>
           </dict>
           <key>name</key>
           <string>bas2soloD</string>
