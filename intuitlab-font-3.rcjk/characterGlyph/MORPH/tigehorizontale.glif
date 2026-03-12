@@ -5,16 +5,16 @@
     <contour>
       <point x="415" y="474" type="curve"/>
       <point x="405" y="430"/>
-      <point x="159" y="490"/>
-      <point x="96" y="513" type="curve"/>
-      <point x="96" y="491"/>
+      <point x="138" y="368"/>
+      <point x="75" y="391" type="curve"/>
+      <point x="75" y="369"/>
       <point x="75" y="407"/>
       <point x="75" y="309" type="curve"/>
       <point x="140" y="398"/>
-      <point x="430" y="457"/>
+      <point x="417" y="454"/>
       <point x="435" y="341" type="curve"/>
-      <point x="451" y="419"/>
-      <point x="418" y="471"/>
+      <point x="442" y="422"/>
+      <point x="380" y="380"/>
     </contour>
   </outline>
 </glyph>
