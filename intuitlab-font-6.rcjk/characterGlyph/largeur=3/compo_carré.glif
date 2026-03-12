@@ -17,11 +17,11 @@
       <point x="150" y="0"/>
       <point x="150" y="6"/>
       <point x="150" y="6" type="curve"/>
-      <point x="150" y="11"/>
+      <point x="150" y="6"/>
       <point x="150" y="50"/>
       <point x="150" y="50" type="curve"/>
-      <point x="150" y="50" type="line"/>
-      <point x="150" y="50"/>
+      <point x="144" y="50" type="line"/>
+      <point x="144" y="50"/>
       <point x="0" y="50"/>
     </contour>
   </outline>
