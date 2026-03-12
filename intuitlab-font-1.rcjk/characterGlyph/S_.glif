@@ -68,6 +68,66 @@
             <integer>982</integer>
           </dict>
         </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>Epaisseur Arche</key>
+            <real>562.325285895807</real>
+            <key>Taille Arche</key>
+            <real>462.833545108005</real>
+            <key>Taille Boule Min</key>
+            <real>333.54510800508297</real>
+          </dict>
+          <key>name</key>
+          <string>01</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>-39.22078438684293</real>
+            <key>scalex</key>
+            <real>-1.0242871855383766</real>
+            <key>scaley</key>
+            <real>1.0242871855383768</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>320</integer>
+            <key>y</key>
+            <integer>-122</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>Epaisseur Arche</key>
+            <integer>600</integer>
+            <key>Taille Arche</key>
+            <real>279.542566709022</real>
+            <key>Taille Boule Min</key>
+            <integer>100</integer>
+          </dict>
+          <key>name</key>
+          <string>01</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>-35.650491024633276</real>
+            <key>scalex</key>
+            <real>1.0281082691986128</real>
+            <key>scaley</key>
+            <real>-1.0281082691986128</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>105</integer>
+            <key>y</key>
+            <integer>984</integer>
+          </dict>
+        </dict>
       </array>
       <key>robocjk.locationBase</key>
       <string>fae974f5</string>
