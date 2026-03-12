@@ -12,32 +12,32 @@
           <key>coord</key>
           <dict>
             <key>Barre verticale</key>
-            <real>967.159874608151</real>
+            <real>981.605015673981</real>
             <key>Epaisseur Arche</key>
             <integer>400</integer>
             <key>Taille Arche </key>
-            <real>259.347962382445</real>
+            <real>317.128526645768</real>
             <key>Taille Boule </key>
-            <real>483.247648902821</real>
+            <real>425.467084639498</real>
           </dict>
           <key>name</key>
           <string>07</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>17.30487956357469</real>
+            <real>27.35834133377153</real>
             <key>scalex</key>
-            <integer>1</integer>
+            <real>0.9999999999999999</real>
             <key>scaley</key>
-            <integer>-1</integer>
+            <real>-0.9999999999999999</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>71.268848864126</real>
+            <integer>18</integer>
             <key>y</key>
-            <integer>252</integer>
+            <integer>278</integer>
           </dict>
         </dict>
         <dict>
@@ -46,16 +46,16 @@
             <key>Epaisseur</key>
             <integer>400</integer>
             <key>Taille</key>
-            <real>454.35736677116</real>
+            <real>519.360501567398</real>
           </dict>
           <key>name</key>
           <string>02</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-25.811581164493642</real>
+            <real>-34.57872785551496</real>
             <key>scalex</key>
-            <real>-0.9999999999999994</real>
+            <real>-0.9999999999999992</real>
             <key>scaley</key>
             <real>1.0000000000000009</real>
             <key>tcenterx</key>
@@ -63,9 +63,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>225.268848864126</real>
+            <integer>210</integer>
             <key>y</key>
-            <integer>-70</integer>
+            <integer>-77</integer>
           </dict>
         </dict>
       </array>
