@@ -63,7 +63,7 @@
             <key>Br</key>
             <integer>0</integer>
             <key>Hauteur</key>
-            <real>607.784584980237</real>
+            <real>588.78</real>
           </dict>
           <key>name</key>
           <string>pied</string>
@@ -80,7 +80,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>124</integer>
+            <integer>136</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
