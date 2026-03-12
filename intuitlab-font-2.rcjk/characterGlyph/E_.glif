@@ -492,12 +492,12 @@
           <key>location</key>
           <dict>
             <key>hola</key>
-            <integer>60</integer>
+            <integer>10</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>hola=10</string>
+          <string>hola10</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
@@ -534,7 +534,7 @@
               <key>coord</key>
               <dict>
                 <key>inflate</key>
-                <real>43.333333333333336</real>
+                <integer>60</integer>
               </dict>
               <key>name</key>
               <string>composant2</string>
@@ -760,7 +760,7 @@
               <key>coord</key>
               <dict>
                 <key>inflate</key>
-                <real>22.5</real>
+                <integer>60</integer>
               </dict>
               <key>name</key>
               <string>composant2</string>
@@ -786,7 +786,7 @@
               <key>coord</key>
               <dict>
                 <key>inflate</key>
-                <integer>35</integer>
+                <integer>60</integer>
               </dict>
               <key>name</key>
               <string>composant2</string>
@@ -864,7 +864,7 @@
               <key>coord</key>
               <dict>
                 <key>inflate</key>
-                <integer>10</integer>
+                <integer>50</integer>
               </dict>
               <key>name</key>
               <string>composant2</string>
