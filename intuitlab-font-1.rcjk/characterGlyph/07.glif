@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="07" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="214.53210878541933" y="499.6169728036452" type="line"/>
+      <point x="214.53210878541933" y="-0.3830271963548334" type="line"/>
+      <point x="212" y="-0.3830271963548334" type="line"/>
+      <point x="212" y="499.6169728036452" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.locationBase</key>
+      <string>fae974f5</string>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
