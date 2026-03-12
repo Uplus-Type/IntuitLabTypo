@@ -174,32 +174,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>43</integer>
+                <integer>11</integer>
                 <key>y</key>
-                <integer>0</integer>
-              </dict>
-            </dict>
-            <dict>
-              <key>coord</key>
-              <dict/>
-              <key>name</key>
-              <string>tigehorizontale</string>
-              <key>transform</key>
-              <dict>
-                <key>rotation</key>
-                <integer>0</integer>
-                <key>scalex</key>
-                <real>0.5664853678346532</real>
-                <key>scaley</key>
-                <integer>1</integer>
-                <key>tcenterx</key>
-                <integer>0</integer>
-                <key>tcentery</key>
-                <integer>0</integer>
-                <key>x</key>
-                <integer>43</integer>
-                <key>y</key>
-                <integer>-28</integer>
+                <integer>3</integer>
               </dict>
             </dict>
           </array>
