@@ -16,19 +16,19 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <integer>0</integer>
+            <real>1.2260820664860654</real>
             <key>scalex</key>
             <integer>-1</integer>
             <key>scaley</key>
-            <integer>1</integer>
+            <integer>-1</integer>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>246.69467090225652</real>
+            <real>231.92431583973573</real>
             <key>y</key>
-            <integer>0</integer>
+            <real>694.0924216858704</real>
           </dict>
         </dict>
       </array>

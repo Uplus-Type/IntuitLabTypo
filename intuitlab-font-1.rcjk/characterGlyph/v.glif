@@ -36,7 +36,10 @@
         </dict>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>Epaisseur Arche</key>
+            <integer>200</integer>
+          </dict>
           <key>name</key>
           <string>06</string>
           <key>transform</key>
