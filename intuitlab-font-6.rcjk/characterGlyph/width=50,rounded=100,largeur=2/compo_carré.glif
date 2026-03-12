@@ -6,14 +6,14 @@
       <point x="1" y="25" type="curve"/>
       <point x="1" y="25" type="line"/>
       <point x="1" y="25"/>
-      <point x="20" y="1"/>
-      <point x="20" y="1" type="curve"/>
-      <point x="20" y="1" type="line"/>
-      <point x="20" y="1"/>
-      <point x="33" y="25"/>
-      <point x="33" y="25" type="curve"/>
-      <point x="33" y="25" type="line"/>
-      <point x="33" y="25"/>
+      <point x="20" y="0"/>
+      <point x="20" y="0" type="curve"/>
+      <point x="20" y="0" type="line"/>
+      <point x="20" y="0"/>
+      <point x="39" y="25"/>
+      <point x="39" y="25" type="curve"/>
+      <point x="39" y="25" type="line"/>
+      <point x="39" y="25"/>
       <point x="20" y="48"/>
       <point x="20" y="48" type="curve"/>
       <point x="20" y="48" type="line"/>
