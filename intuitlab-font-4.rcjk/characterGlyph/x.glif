@@ -437,11 +437,8 @@
       <point x="62" y="465"/>
       <point x="58" y="461"/>
       <point x="52" y="462" type="curve"/>
-      <point x="64" y="476"/>
-      <point x="118" y="483"/>
-      <point x="136" y="476" type="curve"/>
-      <point x="129" y="472"/>
-      <point x="119" y="477"/>
+      <point x="65.36545151192608" y="477.59302676391377"/>
+      <point x="132.33081951673915" y="478.9044027881056"/>
       <point x="112" y="476" type="curve"/>
     </contour>
     <contour>
