@@ -101,15 +101,15 @@
             <key>scalex</key>
             <integer>1</integer>
             <key>scaley</key>
-            <integer>1</integer>
+            <real>1.0089417009412083</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>-3.8349173012203406</real>
+            <integer>-4</integer>
             <key>y</key>
-            <real>2.182911719400435</real>
+            <real>-7.153360752966565</real>
           </dict>
         </dict>
         <dict>
