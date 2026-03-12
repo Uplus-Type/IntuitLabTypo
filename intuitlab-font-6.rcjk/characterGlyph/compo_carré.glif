@@ -802,6 +802,31 @@
           <key>status</key>
           <integer>0</integer>
         </dict>
+        <dict>
+          <key>fontraLayerName</key>
+          <string>width=50,rounded=0,rounded2=100,largeur=2,erosion=40</string>
+          <key>layerName</key>
+          <string>width=50,rounded=0,rounded2=100,large.0bee34a3afa8</string>
+          <key>location</key>
+          <dict>
+            <key>erosion</key>
+            <integer>40</integer>
+            <key>largeur</key>
+            <integer>2</integer>
+            <key>rounded</key>
+            <real>0.01</real>
+            <key>rounded2</key>
+            <integer>100</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=50,rounded=0,rounded2=100,largeur=2,erosion=40</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
       </array>
     </dict>
   </lib>
