@@ -27,9 +27,9 @@
       <point x="98" y="608" type="line"/>
       <point x="92" y="237" type="line" smooth="yes"/>
       <point x="88" y="12"/>
-      <point x="347" y="38"/>
-      <point x="340" y="240" type="curve" smooth="yes"/>
-      <point x="333" y="449" type="line"/>
+      <point x="333" y="38"/>
+      <point x="333" y="240" type="curve" smooth="yes"/>
+      <point x="333" y="456" type="line"/>
     </contour>
     <contour>
       <point x="327" y="608" type="line"/>
@@ -72,6 +72,29 @@
             <integer>327</integer>
             <key>y</key>
             <integer>608</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict/>
+          <key>name</key>
+          <string>barreG</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>157</integer>
+            <key>y</key>
+            <integer>-38</integer>
           </dict>
         </dict>
       </array>
