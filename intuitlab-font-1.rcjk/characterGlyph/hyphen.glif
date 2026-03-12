@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hyphen" format="2">
-  <advance width="500"/>
+  <advance width="226.62059282077604"/>
   <unicode hex="002D"/>
   <outline>
   </outline>
@@ -12,7 +12,7 @@
           <key>coord</key>
           <dict>
             <key>Epaisseur</key>
-            <integer>400</integer>
+            <real>557.566866042207</real>
             <key>Taille</key>
             <real>193.544746642591</real>
           </dict>
@@ -31,9 +31,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>716.1987633857356</real>
+            <real>191.80383328528202</real>
             <key>y</key>
-            <real>284.460683151818</real>
+            <integer>27</integer>
           </dict>
         </dict>
       </array>
