@@ -722,6 +722,44 @@
           <key>status</key>
           <integer>0</integer>
         </dict>
+        <dict>
+          <key>layerName</key>
+          <string>ROND_rounded=0,rounded2=100,largeur=2</string>
+          <key>location</key>
+          <dict>
+            <key>largeur</key>
+            <integer>2</integer>
+            <key>rounded</key>
+            <real>0.01</real>
+            <key>rounded2</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>ROND_rounded=0,rounded2=100,largeur=2</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>ROND_rounded=0,rounded2=100,largeur=3</string>
+          <key>location</key>
+          <dict>
+            <key>largeur</key>
+            <integer>3</integer>
+            <key>rounded</key>
+            <real>0.01</real>
+            <key>rounded2</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>ROND_rounded=0,rounded2=100,largeur=3</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
       </array>
     </dict>
   </lib>
