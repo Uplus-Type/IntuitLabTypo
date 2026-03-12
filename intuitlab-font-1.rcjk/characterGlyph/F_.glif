@@ -40,7 +40,7 @@
           <key>coord</key>
           <dict>
             <key>Epaisseur Arche</key>
-            <integer>400</integer>
+            <real>434.059361245909</real>
             <key>Taille Arche</key>
             <integer>600</integer>
             <key>Taille Boule </key>
