@@ -45,32 +45,6 @@
             <integer>0</integer>
           </dict>
         </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>Hauteur</key>
-            <real>358.428611738149</real>
-          </dict>
-          <key>name</key>
-          <string>tiret</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <real>0.5930560473637301</real>
-            <key>scaley</key>
-            <real>-0.5930560473637301</real>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <real>-32.167438398450095</real>
-            <key>y</key>
-            <real>909.3687116557145</real>
-          </dict>
-        </dict>
       </array>
       <key>robocjk.locationBase</key>
       <string>92610cbd</string>
