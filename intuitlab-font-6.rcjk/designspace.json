@@ -33,6 +33,20 @@
                 "name": "rounded2",
                 "tag": "RON2"
             }
+        ],
+        "mappings": [
+            {
+                "description": null,
+                "groupDescription": null,
+                "inputLocation": {
+                    "rounded": 100,
+                    "rounded2": 100
+                },
+                "outputLocation": {
+                    "rounded": 100,
+                    "rounded2": 0
+                }
+            }
         ]
     },
     "sources": {
