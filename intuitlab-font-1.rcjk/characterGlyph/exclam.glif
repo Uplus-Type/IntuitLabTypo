@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="exclam" format="2">
-  <advance width="500"/>
+  <advance width="107.39398304454528"/>
   <unicode hex="0021"/>
   <outline>
   </outline>
@@ -29,7 +29,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>31</integer>
+            <real>-164.02369576883746</real>
             <key>y</key>
             <integer>127</integer>
           </dict>
@@ -52,7 +52,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>224</integer>
+            <real>28.976304231162544</real>
             <key>y</key>
             <real>203.95444720923376</real>
           </dict>
