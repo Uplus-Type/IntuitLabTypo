@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Z" format="2">
+  <advance width="500"/>
+  <unicode hex="005A"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>Epaisseur</key>
+            <integer>600</integer>
+            <key>Taille</key>
+            <real>717.15374841169</real>
+          </dict>
+          <key>name</key>
+          <string>02</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>-24.818674556203675</real>
+            <key>scalex</key>
+            <real>0.9999999999999998</real>
+            <key>scaley</key>
+            <real>-0.9999999999999999</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>126</integer>
+            <key>y</key>
+            <integer>707</integer>
+          </dict>
+        </dict>
+      </array>
+      <key>robocjk.locationBase</key>
+      <string>fae974f5</string>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
