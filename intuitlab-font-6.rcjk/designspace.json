@@ -50,8 +50,18 @@
                 "description": null,
                 "groupDescription": null,
                 "inputLocation": {
-                    "rounded": 0.01,
                     "rounded2": 100
+                },
+                "outputLocation": {
+                    "rounded": 0.01
+                }
+            },
+            {
+                "description": null,
+                "groupDescription": null,
+                "inputLocation": {
+                    "rounded": 100,
+                    "rounded2": 0.01
                 },
                 "outputLocation": {
                     "rounded": 0.01
