@@ -22,13 +22,13 @@
       <point x="325" y="96"/>
     </contour>
     <contour>
-      <point x="142" y="772" type="move"/>
+      <point x="142" y="768" type="curve"/>
       <point x="136" y="631" type="line"/>
       <point x="45" y="631" type="line"/>
-      <point x="45" y="795" type="line"/>
-    </contour>
-    <contour>
-      <point x="45" y="795" type="move"/>
+      <point x="45" y="790" type="line"/>
+      <point x="47" y="791" type="line"/>
+      <point x="47" y="791"/>
+      <point x="79" y="783"/>
     </contour>
   </outline>
   <lib>
@@ -106,7 +106,7 @@
             <key>x</key>
             <integer>47</integer>
             <key>y</key>
-            <integer>323</integer>
+            <integer>319</integer>
           </dict>
         </dict>
       </array>
