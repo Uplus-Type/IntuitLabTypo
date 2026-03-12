@@ -151,7 +151,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-248</integer>
+                <integer>-239</integer>
                 <key>y</key>
                 <integer>65</integer>
               </dict>
@@ -174,9 +174,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>191</integer>
+                <integer>199</integer>
                 <key>y</key>
-                <integer>21</integer>
+                <integer>26</integer>
               </dict>
             </dict>
             <dict>
