@@ -39,6 +39,7 @@
                 }
             },
             "location": {
+                "morphing": 100,
                 "weight": 900,
                 "width": 200
             },
