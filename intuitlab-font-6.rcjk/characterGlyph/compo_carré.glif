@@ -522,7 +522,7 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>largeur=3,erosion=40</string>
+          <string>CARRE_largeur=3,erosion=40</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
