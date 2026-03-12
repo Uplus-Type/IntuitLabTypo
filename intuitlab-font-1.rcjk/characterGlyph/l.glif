@@ -14,7 +14,7 @@
             <key>Epaisseur</key>
             <integer>400</integer>
             <key>Taille</key>
-            <real>678.257053291536</real>
+            <integer>100</integer>
           </dict>
           <key>name</key>
           <string>02</string>
@@ -31,9 +31,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-129</integer>
+            <integer>-146</integer>
             <key>y</key>
-            <integer>-6</integer>
+            <integer>123</integer>
           </dict>
         </dict>
       </array>

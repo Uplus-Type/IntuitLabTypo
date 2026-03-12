@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="g" format="2">
-  <advance width="530.8650021159542"/>
+  <advance width="555.7693609818028"/>
   <unicode hex="0067"/>
   <outline>
   </outline>
@@ -42,7 +42,7 @@
           <key>coord</key>
           <dict>
             <key>Barre verticale</key>
-            <integer>1000</integer>
+            <real>780.236986881083</real>
             <key>Epaisseur Arche</key>
             <integer>400</integer>
             <key>Taille Arche </key>
