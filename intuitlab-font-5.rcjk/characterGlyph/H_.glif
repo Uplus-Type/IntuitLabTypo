@@ -61,7 +61,7 @@
           <key>coord</key>
           <dict>
             <key>hauteur</key>
-            <integer>100</integer>
+            <real>78.2749858836815</real>
           </dict>
           <key>name</key>
           <string>bas2</string>
@@ -72,7 +72,7 @@
             <key>scalex</key>
             <integer>1</integer>
             <key>scaley</key>
-            <integer>1</integer>
+            <real>0.9991557742682212</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
