@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="V" format="2">
-  <advance width="500"/>
+  <advance width="633.2727376387304"/>
   <unicode hex="0056"/>
   <outline>
   </outline>
@@ -31,7 +31,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-287</integer>
+            <real>-199.50674711229135</real>
             <key>y</key>
             <integer>686</integer>
           </dict>
@@ -44,7 +44,7 @@
             <key>Taille Arche</key>
             <integer>1000</integer>
             <key>Taille Boule </key>
-            <real>778.58958068615</real>
+            <real>796.487515869657</real>
           </dict>
           <key>name</key>
           <string>06</string>
@@ -61,7 +61,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>27</integer>
+            <real>114.49325288770865</real>
             <key>y</key>
             <integer>679</integer>
           </dict>
