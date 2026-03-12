@@ -44,9 +44,9 @@
             <key>Epaisseur Arche</key>
             <integer>500</integer>
             <key>Taille Arche</key>
-            <real>279.542566709022</real>
+            <integer>280</integer>
             <key>Taille Boule Min</key>
-            <real>219.593736775286</real>
+            <integer>220</integer>
           </dict>
           <key>name</key>
           <string>01</string>
