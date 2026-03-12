@@ -30,7 +30,9 @@
           <key>coord</key>
           <dict>
             <key>hauteur</key>
-            <real>90.0197628458498</real>
+            <integer>100</integer>
+            <key>weight</key>
+            <integer>400</integer>
           </dict>
           <key>name</key>
           <string>bas2</string>
