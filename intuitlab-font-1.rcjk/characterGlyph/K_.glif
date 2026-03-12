@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="K" format="2">
-  <advance width="846.5030472114487"/>
+  <advance width="877.235918242995"/>
   <unicode hex="004B"/>
   <outline>
   </outline>
@@ -14,7 +14,7 @@
             <key>Epaisseur</key>
             <integer>600</integer>
             <key>Taille</key>
-            <integer>659</integer>
+            <integer>690</integer>
           </dict>
           <key>name</key>
           <string>02</string>
@@ -31,7 +31,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>271.06</real>
+            <real>246.26666666666668</real>
             <key>y</key>
             <integer>112</integer>
           </dict>
@@ -42,7 +42,7 @@
             <key>Epaisseur Arche</key>
             <integer>400</integer>
             <key>Taille Arche</key>
-            <real>698.030495552732</real>
+            <integer>740</integer>
             <key>Taille Boule Min</key>
             <real>778.580295677689</real>
           </dict>
@@ -61,9 +61,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>455.6066666666667</real>
+            <real>463.2066666666667</real>
             <key>y</key>
-            <integer>12</integer>
+            <integer>9</integer>
           </dict>
         </dict>
       </array>
