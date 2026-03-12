@@ -9,6 +9,24 @@
       <point x="411" y="740" type="line"/>
       <point x="411" y="799" type="line"/>
     </contour>
+    <contour>
+      <point x="292" y="798" type="line"/>
+      <point x="338" y="793"/>
+      <point x="360" y="796"/>
+      <point x="405" y="802" type="curve"/>
+      <point x="410" y="797" type="line"/>
+      <point x="395" y="767"/>
+      <point x="389" y="664"/>
+      <point x="388" y="623" type="curve"/>
+      <point x="311" y="623" type="line"/>
+      <point x="311" y="634" type="line" smooth="yes"/>
+      <point x="311" y="689"/>
+      <point x="313" y="711"/>
+      <point x="340" y="741" type="curve"/>
+      <point x="319" y="741"/>
+      <point x="301" y="741"/>
+      <point x="289" y="741" type="curve"/>
+    </contour>
   </outline>
   <lib>
     <dict>
