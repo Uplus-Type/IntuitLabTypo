@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="barreM" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="205" y="307" type="line"/>
+      <point x="226" y="256"/>
+      <point x="211" y="165"/>
+      <point x="184" y="131" type="curve"/>
+      <point x="179" y="133" type="line"/>
+      <point x="200" y="244"/>
+      <point x="178" y="307"/>
+      <point x="104" y="307" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

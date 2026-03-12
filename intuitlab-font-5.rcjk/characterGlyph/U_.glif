@@ -30,7 +30,7 @@
           <key>coord</key>
           <dict>
             <key>hauteur</key>
-            <integer>82</integer>
+            <real>90.0197628458498</real>
           </dict>
           <key>name</key>
           <string>bas2</string>
@@ -73,9 +73,35 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>381</integer>
+            <integer>386</integer>
             <key>y</key>
-            <integer>1027</integer>
+            <integer>1056</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>DESCENTE</key>
+            <real>34.9096555618295</real>
+          </dict>
+          <key>name</key>
+          <string>GrandeBarre</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>235</integer>
+            <key>y</key>
+            <integer>0</integer>
           </dict>
         </dict>
       </array>
