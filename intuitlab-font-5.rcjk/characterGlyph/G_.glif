@@ -10,14 +10,14 @@
       <point x="182" y="77"/>
       <point x="249" y="77" type="curve" smooth="yes"/>
       <point x="305" y="77"/>
-      <point x="329" y="159"/>
-      <point x="329" y="249" type="curve"/>
-      <point x="330" y="545" type="line"/>
-      <point x="408" y="510"/>
-      <point x="420" y="445"/>
-      <point x="420" y="319" type="curve"/>
-      <point x="423" y="168"/>
-      <point x="404" y="-10"/>
+      <point x="296" y="159"/>
+      <point x="296" y="249" type="curve"/>
+      <point x="297" y="461" type="line"/>
+      <point x="381" y="461"/>
+      <point x="387" y="376"/>
+      <point x="387" y="250" type="curve"/>
+      <point x="387" y="140"/>
+      <point x="387" y="-10"/>
       <point x="249" y="-10" type="curve" smooth="yes"/>
       <point x="181" y="-10"/>
       <point x="158" y="12"/>
@@ -64,29 +64,6 @@
       <array>
         <dict>
           <key>coord</key>
-          <dict/>
-          <key>name</key>
-          <string>barreG</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>154</integer>
-            <key>y</key>
-            <integer>73</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
           <dict>
             <key>hauteur</key>
             <real>84.3891083521445</real>
@@ -122,19 +99,19 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <integer>0</integer>
+            <integer>90</integer>
             <key>scalex</key>
             <integer>1</integer>
             <key>scaley</key>
-            <integer>1</integer>
+            <integer>-1</integer>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>16</integer>
+            <integer>-233</integer>
             <key>y</key>
-            <integer>156</integer>
+            <integer>89</integer>
           </dict>
         </dict>
       </array>
