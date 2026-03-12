@@ -14,7 +14,7 @@
             <key>Epaisseur</key>
             <integer>600</integer>
             <key>Taille</key>
-            <real>533.545108005083</real>
+            <real>570.07623888183</real>
           </dict>
           <key>name</key>
           <string>02</string>
@@ -33,7 +33,7 @@
             <key>x</key>
             <integer>9</integer>
             <key>y</key>
-            <integer>61</integer>
+            <integer>78</integer>
           </dict>
         </dict>
         <dict>
@@ -94,32 +94,6 @@
             <integer>5</integer>
             <key>y</key>
             <integer>1036</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>Taille </key>
-            <real>336.467598475222</real>
-          </dict>
-          <key>name</key>
-          <string>03</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <real>-59.12319658202258</real>
-            <key>scalex</key>
-            <real>-0.9999999999999998</real>
-            <key>scaley</key>
-            <real>0.9999999999999998</real>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>153</integer>
-            <key>y</key>
-            <integer>311</integer>
           </dict>
         </dict>
       </array>
