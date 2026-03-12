@@ -3,9 +3,141 @@
   <advance width="500"/>
   <unicode hex="0047"/>
   <outline>
+    <contour>
+      <point x="158" y="52" type="curve"/>
+      <point x="158" y="237" type="line"/>
+      <point x="158" y="133"/>
+      <point x="182" y="77"/>
+      <point x="249" y="77" type="curve" smooth="yes"/>
+      <point x="305" y="77"/>
+      <point x="329" y="159"/>
+      <point x="329" y="249" type="curve"/>
+      <point x="330" y="545" type="line"/>
+      <point x="408" y="510"/>
+      <point x="420" y="445"/>
+      <point x="420" y="319" type="curve"/>
+      <point x="423" y="168"/>
+      <point x="404" y="-10"/>
+      <point x="249" y="-10" type="curve" smooth="yes"/>
+      <point x="181" y="-10"/>
+      <point x="158" y="12"/>
+    </contour>
+    <contour>
+      <point x="48" y="839" type="line"/>
+      <point x="98" y="831"/>
+      <point x="126" y="828"/>
+      <point x="178" y="833" type="curve" smooth="yes"/>
+      <point x="245" y="839"/>
+      <point x="295" y="830"/>
+      <point x="326" y="806" type="curve" smooth="yes"/>
+      <point x="366" y="776"/>
+      <point x="387" y="729"/>
+      <point x="387" y="669" type="curve"/>
+      <point x="387" y="645" type="line"/>
+      <point x="297" y="645" type="line"/>
+      <point x="297" y="669" type="line"/>
+      <point x="297" y="705"/>
+      <point x="285" y="731"/>
+      <point x="267" y="746" type="curve" smooth="yes"/>
+      <point x="242" y="767"/>
+      <point x="181" y="768"/>
+      <point x="124" y="769" type="curve"/>
+      <point x="150" y="738"/>
+      <point x="156" y="716"/>
+      <point x="157" y="669" type="curve"/>
+      <point x="157" y="661"/>
+      <point x="157" y="647"/>
+      <point x="157" y="646" type="curve" smooth="yes"/>
+      <point x="157" y="645" type="line"/>
+      <point x="67" y="645" type="line"/>
+      <point x="67" y="677"/>
+      <point x="67" y="671"/>
+      <point x="67" y="669" type="curve" smooth="yes"/>
+      <point x="64" y="722"/>
+      <point x="58" y="800"/>
+      <point x="42" y="832" type="curve"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict/>
+          <key>name</key>
+          <string>barreG</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>154</integer>
+            <key>y</key>
+            <integer>73</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>hauteur</key>
+            <real>84.3891083521445</real>
+          </dict>
+          <key>name</key>
+          <string>bas2</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>56</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>Hauteur</key>
+            <integer>0</integer>
+          </dict>
+          <key>name</key>
+          <string>barreH</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>16</integer>
+            <key>y</key>
+            <integer>156</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.locationBase</key>
       <string>92610cbd</string>
       <key>robocjk.status</key>
