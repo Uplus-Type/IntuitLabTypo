@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon" format="2">
+  <advance width="500"/>
+  <unicode hex="003A"/>
+  <outline>
+    <contour>
+      <point x="304" y="377" type="curve" smooth="yes"/>
+      <point x="304" y="398"/>
+      <point x="287" y="415"/>
+      <point x="267" y="415" type="curve" smooth="yes"/>
+      <point x="246" y="415"/>
+      <point x="229" y="398"/>
+      <point x="229" y="377" type="curve" smooth="yes"/>
+      <point x="229" y="356"/>
+      <point x="246" y="340"/>
+      <point x="267" y="340" type="curve" smooth="yes"/>
+      <point x="287" y="340"/>
+      <point x="304" y="356"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.locationBase</key>
+      <string>fae974f5</string>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -11,7 +11,13 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>Barre verticale</key>
+            <integer>400</integer>
             <key>Epaisseur Arche</key>
+            <integer>400</integer>
+            <key>Taille Arche </key>
+            <integer>400</integer>
+            <key>Taille Boule </key>
             <integer>400</integer>
           </dict>
           <key>name</key>
@@ -29,9 +35,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>105.90448212760941</real>
+            <integer>0</integer>
             <key>y</key>
-            <integer>500</integer>
+            <real>515.6739182096776</real>
           </dict>
         </dict>
       </array>
@@ -39,53 +45,6 @@
       <string>fae974f5</string>
       <key>robocjk.status</key>
       <integer>0</integer>
-      <key>robocjk.variationGlyphs</key>
-      <array>
-        <dict>
-          <key>deepComponents</key>
-          <array>
-            <dict>
-              <key>coord</key>
-              <dict>
-                <key>height</key>
-                <integer>500</integer>
-              </dict>
-              <key>name</key>
-              <string>02</string>
-              <key>transform</key>
-              <dict>
-                <key>rotation</key>
-                <integer>0</integer>
-                <key>scalex</key>
-                <integer>1</integer>
-                <key>scaley</key>
-                <real>1.4993241156171877</real>
-                <key>tcenterx</key>
-                <integer>0</integer>
-                <key>tcentery</key>
-                <integer>0</integer>
-                <key>x</key>
-                <integer>35</integer>
-                <key>y</key>
-                <integer>0</integer>
-              </dict>
-            </dict>
-          </array>
-          <key>layerName</key>
-          <string></string>
-          <key>location</key>
-          <dict>
-            <key>weight</key>
-            <integer>1000</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>weight</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-      </array>
     </dict>
   </lib>
 </glyph>
