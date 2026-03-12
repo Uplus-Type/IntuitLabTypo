@@ -118,7 +118,7 @@
           <key>coord</key>
           <dict>
             <key>DESCENTE</key>
-            <real>8.70976849237719</real>
+            <real>6.85</real>
             <key>weight</key>
             <real>466.944789632523</real>
           </dict>
@@ -139,7 +139,7 @@
             <key>x</key>
             <integer>230</integer>
             <key>y</key>
-            <integer>-1</integer>
+            <integer>0</integer>
           </dict>
         </dict>
       </array>
