@@ -56,6 +56,17 @@
                 "outputLocation": {
                     "rounded2": 0.01
                 }
+            },
+            {
+                "description": null,
+                "groupDescription": null,
+                "inputLocation": {
+                    "rounded": 100,
+                    "rounded2": 99.99
+                },
+                "outputLocation": {
+                    "rounded": 0
+                }
             }
         ]
     },
