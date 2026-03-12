@@ -31,10 +31,43 @@
   </outline>
   <lib>
     <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>teteD</string>
+        </dict>
+      </array>
       <key>robocjk.locationBase</key>
       <string>92610cbd</string>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>teteD=100</string>
+          <key>location</key>
+          <dict>
+            <key>teteD</key>
+            <integer>100</integer>
+          </dict>
+          <key>locationBase</key>
+          <string>92610cbd</string>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>teteD=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>
