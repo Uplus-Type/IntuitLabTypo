@@ -22,42 +22,19 @@
       <point x="313" y="21"/>
     </contour>
     <contour>
-      <point x="159" y="682" type="line"/>
-      <point x="96" y="697"/>
-      <point x="64" y="705"/>
-      <point x="64" y="705" type="curve"/>
-      <point x="62" y="704" type="line"/>
-      <point x="62" y="542" type="line"/>
-      <point x="153" y="542" type="line"/>
+      <point x="168" y="645" type="line"/>
+      <point x="105" y="660"/>
+      <point x="73" y="668"/>
+      <point x="73" y="668" type="curve"/>
+      <point x="71" y="667" type="line"/>
+      <point x="71" y="505" type="line"/>
+      <point x="154" y="505" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>robocjk.deepComponents</key>
       <array>
-        <dict>
-          <key>coord</key>
-          <dict/>
-          <key>name</key>
-          <string>haut</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <real>-0.8183794762536194</real>
-            <key>scaley</key>
-            <real>0.8445008962411988</real>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>600</integer>
-            <key>y</key>
-            <integer>627</integer>
-          </dict>
-        </dict>
         <dict>
           <key>coord</key>
           <dict/>
@@ -76,9 +53,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>64</integer>
+            <integer>73</integer>
             <key>y</key>
-            <integer>233</integer>
+            <integer>196</integer>
           </dict>
         </dict>
         <dict>
