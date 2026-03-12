@@ -38,58 +38,6 @@
             <integer>321</integer>
           </dict>
         </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>Taille </key>
-            <real>641.296060991105</real>
-          </dict>
-          <key>name</key>
-          <string>03</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <real>-76.45391986412368</real>
-            <key>scalex</key>
-            <real>-0.9999999999999993</real>
-            <key>scaley</key>
-            <real>-1.0000000000000013</real>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>114</integer>
-            <key>y</key>
-            <integer>370</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>Taille Boule</key>
-            <integer>400</integer>
-          </dict>
-          <key>name</key>
-          <string>05</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>-90</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <real>-26.870000000000005</real>
-            <key>y</key>
-            <real>335.13</real>
-          </dict>
-        </dict>
       </array>
       <key>robocjk.locationBase</key>
       <string>fae974f5</string>
