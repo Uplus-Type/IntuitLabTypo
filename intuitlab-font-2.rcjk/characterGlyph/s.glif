@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="i" format="2">
+<glyph name="s" format="2">
   <advance width="500"/>
-  <unicode hex="0069"/>
+  <unicode hex="0073"/>
   <outline>
   </outline>
   <lib>
@@ -19,19 +19,19 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <integer>0</integer>
+            <real>-51.39413993973757</real>
             <key>scalex</key>
-            <integer>1</integer>
+            <real>0.9999999999999998</real>
             <key>scaley</key>
             <integer>1</integer>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
-            <integer>0</integer>
+            <integer>198</integer>
             <key>x</key>
-            <integer>261</integer>
+            <integer>146</integer>
             <key>y</key>
-            <integer>4</integer>
+            <integer>287</integer>
           </dict>
         </dict>
         <dict>
@@ -45,7 +45,7 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <integer>0</integer>
+            <real>-89.99999999999999</real>
             <key>scalex</key>
             <integer>1</integer>
             <key>scaley</key>
@@ -55,9 +55,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>261</integer>
+            <integer>146</integer>
             <key>y</key>
-            <integer>155</integer>
+            <integer>485</integer>
           </dict>
         </dict>
         <dict>
@@ -71,19 +71,45 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <integer>0</integer>
+            <real>60.00000000000002</real>
             <key>scalex</key>
-            <integer>1</integer>
+            <real>-0.9999999999999999</real>
             <key>scaley</key>
-            <integer>1</integer>
+            <real>-0.9999999999999999</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>261</integer>
+            <integer>343</integer>
             <key>y</key>
-            <integer>301</integer>
+            <integer>485</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>inflate</key>
+            <integer>60</integer>
+          </dict>
+          <key>name</key>
+          <string>composant2</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>47.71636757469063</real>
+            <key>scalex</key>
+            <real>-0.9999999999999998</real>
+            <key>scaley</key>
+            <real>-0.9999999999999998</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>198</integer>
+            <key>x</key>
+            <integer>136</integer>
+            <key>y</key>
+            <integer>24</integer>
           </dict>
         </dict>
       </array>
