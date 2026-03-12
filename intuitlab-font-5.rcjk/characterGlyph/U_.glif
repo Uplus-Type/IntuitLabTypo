@@ -25,18 +25,18 @@
       <point x="297" y="163" type="curve"/>
     </contour>
     <contour>
-      <point x="145" y="800" type="line"/>
-      <point x="105" y="790"/>
-      <point x="74" y="790"/>
-      <point x="36" y="800" type="curve"/>
-      <point x="30" y="794" type="line"/>
-      <point x="46" y="760"/>
-      <point x="46" y="776"/>
-      <point x="46" y="668" type="curve"/>
-      <point x="136" y="668" type="line"/>
-      <point x="136" y="775"/>
+      <point x="145" y="800" type="curve"/>
+      <point x="151" y="793" type="line"/>
       <point x="133" y="759"/>
-      <point x="151" y="793" type="curve"/>
+      <point x="136" y="775"/>
+      <point x="136" y="668" type="curve"/>
+      <point x="46" y="668" type="line"/>
+      <point x="46" y="776"/>
+      <point x="46" y="760"/>
+      <point x="30" y="794" type="curve"/>
+      <point x="36" y="800" type="line"/>
+      <point x="74" y="790"/>
+      <point x="105" y="790"/>
     </contour>
     <contour>
       <point x="396" y="800" type="curve"/>
