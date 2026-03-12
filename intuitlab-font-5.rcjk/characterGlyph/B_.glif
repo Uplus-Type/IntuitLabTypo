@@ -4,23 +4,23 @@
   <unicode hex="0042"/>
   <outline>
     <contour>
-      <point x="126" y="52" type="move"/>
-      <point x="126" y="12"/>
-      <point x="184" y="-19"/>
-      <point x="252" y="-19" type="curve" smooth="yes"/>
-      <point x="422.66347689854" y="-19"/>
-      <point x="483" y="97"/>
-      <point x="480" y="248" type="curve"/>
-      <point x="480" y="374"/>
-      <point x="458" y="457"/>
-      <point x="380" y="492" type="curve"/>
-      <point x="380" y="248" type="line"/>
-      <point x="380" y="157"/>
-      <point x="344" y="77"/>
-      <point x="252" y="77" type="curve" smooth="yes"/>
-      <point x="185" y="77"/>
-      <point x="126" y="133"/>
-      <point x="126" y="237" type="curve"/>
+      <point x="102" y="52" type="move"/>
+      <point x="102" y="12"/>
+      <point x="160" y="-19"/>
+      <point x="228" y="-19" type="curve" smooth="yes"/>
+      <point x="399" y="-19"/>
+      <point x="459" y="97"/>
+      <point x="456" y="248" type="curve"/>
+      <point x="456" y="374"/>
+      <point x="434" y="457"/>
+      <point x="356" y="492" type="curve"/>
+      <point x="356" y="248" type="line"/>
+      <point x="356" y="157"/>
+      <point x="320" y="77"/>
+      <point x="228" y="77" type="curve" smooth="yes"/>
+      <point x="161" y="77"/>
+      <point x="102" y="133"/>
+      <point x="102" y="237" type="curve"/>
     </contour>
     <contour>
       <point x="271" y="613" type="line"/>
@@ -58,7 +58,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>204</integer>
+            <integer>180</integer>
             <key>y</key>
             <integer>20</integer>
           </dict>
@@ -67,7 +67,7 @@
           <key>coord</key>
           <dict>
             <key>hauteur</key>
-            <real>82.2940180586907</real>
+            <integer>82</integer>
           </dict>
           <key>name</key>
           <string>bas2</string>
@@ -109,7 +109,7 @@
             <key>x</key>
             <integer>-13</integer>
             <key>y</key>
-            <integer>622</integer>
+            <integer>621</integer>
           </dict>
         </dict>
       </array>
