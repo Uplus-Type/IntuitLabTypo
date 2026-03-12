@@ -3,12 +3,6 @@
   <advance width="500"/>
   <unicode hex="0054"/>
   <outline>
-    <contour>
-      <point x="28" y="707" type="line"/>
-      <point x="479" y="707" type="line"/>
-      <point x="479" y="799" type="line"/>
-      <point x="28" y="799" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -18,7 +12,7 @@
           <key>coord</key>
           <dict>
             <key>hauteur</key>
-            <integer>94</integer>
+            <real>80.6151241534989</real>
           </dict>
           <key>name</key>
           <string>bas2</string>
