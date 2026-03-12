@@ -45,23 +45,6 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string>Boule Min </string>
-          <key>location</key>
-          <dict>
-            <key>Taille </key>
-            <integer>100</integer>
-          </dict>
-          <key>locationBase</key>
-          <string>fae974f5</string>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>Boule Min </string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
           <string>Taille Boule Max</string>
           <key>location</key>
           <dict>
@@ -74,6 +57,23 @@
           <true/>
           <key>sourceName</key>
           <string>Taille Boule Max</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>Taille =100</string>
+          <key>location</key>
+          <dict>
+            <key>Taille </key>
+            <integer>100</integer>
+          </dict>
+          <key>locationBase</key>
+          <string>fae974f5</string>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>Taille =100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
