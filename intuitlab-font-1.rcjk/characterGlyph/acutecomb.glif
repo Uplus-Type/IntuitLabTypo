@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="y" format="2">
-  <advance width="468.0248272358049"/>
-  <unicode hex="0079"/>
+<glyph name="acutecomb" format="2">
+  <advance width="500"/>
+  <unicode hex="0301"/>
   <outline>
   </outline>
   <lib>
@@ -11,19 +11,17 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>Epaisseur</key>
+            <key>Taille </key>
             <integer>400</integer>
-            <key>Taille</key>
-            <real>714.369905956113</real>
           </dict>
           <key>name</key>
-          <string>02</string>
+          <string>03</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-16.6810617470239</real>
+            <real>-16.666398320316773</real>
             <key>scalex</key>
-            <real>-0.9999999999999999</real>
+            <integer>1</integer>
             <key>scaley</key>
             <integer>1</integer>
             <key>tcenterx</key>
@@ -31,39 +29,58 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>481.10572212526506</real>
+            <integer>-53</integer>
             <key>y</key>
-            <integer>-185</integer>
+            <integer>461</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
-          <dict>
-            <key>Epaisseur Arche</key>
-            <integer>300</integer>
-            <key>Taille Arche</key>
-            <real>609.606432501058</real>
-            <key>Taille Boule </key>
-            <integer>400</integer>
-          </dict>
+          <dict/>
           <key>name</key>
-          <string>06</string>
+          <string>01</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-7.339869317880923</real>
+            <real>1.3855473068906698</real>
             <key>scalex</key>
-            <real>0.9999999999999997</real>
+            <real>1.2144608431274104</real>
             <key>scaley</key>
-            <real>0.9999999999999998</real>
+            <real>1.2144608431274106</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>-68.89427787473491</real>
+            <real>-27.531190319264766</real>
             <key>y</key>
-            <integer>163</integer>
+            <integer>-62</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>height</key>
+            <integer>500</integer>
+          </dict>
+          <key>name</key>
+          <string>02</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>-49.51003191527099</real>
+            <key>scalex</key>
+            <real>0.9994870727831778</real>
+            <key>scaley</key>
+            <real>0.9994870727831773</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <real>-27.531190319264766</real>
+            <key>y</key>
+            <integer>246</integer>
           </dict>
         </dict>
       </array>
