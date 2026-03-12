@@ -11,34 +11,8 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>Taille </key>
-            <integer>400</integer>
-          </dict>
-          <key>name</key>
-          <string>03</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <real>-32.29278336012591</real>
-            <key>scalex</key>
-            <integer>-1</integer>
-            <key>scaley</key>
-            <integer>-1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>529</integer>
-            <key>y</key>
-            <integer>534</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
             <key>Epaisseur</key>
-            <integer>410</integer>
+            <integer>400</integer>
             <key>Taille</key>
             <real>330.053041417447</real>
           </dict>
@@ -90,6 +64,36 @@
             <integer>329</integer>
             <key>y</key>
             <integer>409</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>Epaisseur Arche</key>
+            <integer>400</integer>
+            <key>Taille Arche</key>
+            <real>343.053831396005</real>
+            <key>Taille Boule </key>
+            <integer>400</integer>
+          </dict>
+          <key>name</key>
+          <string>06</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>30.781537980709192</real>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>98</integer>
+            <key>y</key>
+            <integer>100</integer>
           </dict>
         </dict>
       </array>
