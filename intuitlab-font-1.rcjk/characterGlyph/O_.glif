@@ -38,6 +38,32 @@
             <integer>321</integer>
           </dict>
         </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>Taille </key>
+            <integer>400</integer>
+          </dict>
+          <key>name</key>
+          <string>03</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>18.68782743792335</real>
+            <key>scalex</key>
+            <real>0.9999999999999999</real>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>-198</integer>
+            <key>y</key>
+            <integer>273</integer>
+          </dict>
+        </dict>
       </array>
       <key>robocjk.locationBase</key>
       <string>fae974f5</string>
