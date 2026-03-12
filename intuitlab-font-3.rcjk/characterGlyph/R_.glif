@@ -141,19 +141,19 @@
               <key>transform</key>
               <dict>
                 <key>rotation</key>
-                <real>-6.258714070757279</real>
+                <real>-14.03440216994296</real>
                 <key>scalex</key>
                 <integer>1</integer>
                 <key>scaley</key>
-                <integer>1</integer>
+                <real>1.0000000000000002</real>
                 <key>tcenterx</key>
                 <integer>0</integer>
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>17</integer>
+                <integer>-74</integer>
                 <key>y</key>
-                <integer>46</integer>
+                <integer>69</integer>
               </dict>
             </dict>
             <dict>
