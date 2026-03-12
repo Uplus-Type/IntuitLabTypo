@@ -3,6 +3,12 @@
   <advance width="500"/>
   <unicode hex="0054"/>
   <outline>
+    <contour>
+      <point x="38" y="799" type="line"/>
+      <point x="38" y="740" type="line"/>
+      <point x="411" y="740" type="line"/>
+      <point x="411" y="799" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -14,7 +20,7 @@
             <key>Br</key>
             <integer>0</integer>
             <key>Hauteur</key>
-            <real>545.359621896163</real>
+            <real>667.297686230248</real>
           </dict>
           <key>name</key>
           <string>pied</string>

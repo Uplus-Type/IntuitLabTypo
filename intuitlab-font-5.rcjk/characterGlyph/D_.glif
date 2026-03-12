@@ -48,12 +48,9 @@
         </dict>
         <dict>
           <key>coord</key>
-          <dict>
-            <key>Hauteur</key>
-            <integer>0</integer>
-          </dict>
+          <dict/>
           <key>name</key>
-          <string>tete2-d</string>
+          <string>tete2-DB</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -61,7 +58,7 @@
             <key>scalex</key>
             <integer>1</integer>
             <key>scaley</key>
-            <integer>-1</integer>
+            <integer>1</integer>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
@@ -69,7 +66,7 @@
             <key>x</key>
             <integer>3</integer>
             <key>y</key>
-            <integer>388</integer>
+            <integer>-200</integer>
           </dict>
         </dict>
       </array>
