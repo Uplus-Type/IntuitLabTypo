@@ -29,9 +29,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>109.19999999999999</real>
+            <integer>99</integer>
             <key>y</key>
-            <integer>-1</integer>
+            <integer>47</integer>
           </dict>
         </dict>
         <dict>
@@ -55,9 +55,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>307.2</real>
+            <integer>297</integer>
             <key>y</key>
-            <integer>-1</integer>
+            <integer>47</integer>
           </dict>
         </dict>
         <dict>
@@ -107,9 +107,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>223</integer>
+            <integer>268</integer>
             <key>y</key>
-            <integer>726</integer>
+            <integer>716</integer>
           </dict>
         </dict>
         <dict>
@@ -135,7 +135,7 @@
             <key>x</key>
             <integer>101</integer>
             <key>y</key>
-            <integer>1</integer>
+            <integer>28</integer>
           </dict>
         </dict>
         <dict>
@@ -161,7 +161,7 @@
             <key>x</key>
             <integer>101</integer>
             <key>y</key>
-            <integer>178</integer>
+            <integer>193</integer>
           </dict>
         </dict>
         <dict>
@@ -227,7 +227,7 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-71.77672429674826</real>
+            <real>-79.90982303443981</real>
             <key>scalex</key>
             <real>0.9999999999999999</real>
             <key>scaley</key>
@@ -237,9 +237,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>100</integer>
+            <real>102.51664464452114</real>
             <key>y</key>
-            <integer>695</integer>
+            <real>694.8210814332067</real>
           </dict>
         </dict>
       </array>
