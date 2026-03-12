@@ -2,22 +2,6 @@
     "axes": {
         "axes": [
             {
-                "defaultValue": 400,
-                "label": "Weight",
-                "maxValue": 900,
-                "minValue": 400,
-                "name": "weight",
-                "tag": "wght"
-            },
-            {
-                "defaultValue": 50,
-                "label": "Width",
-                "maxValue": 200,
-                "minValue": 50,
-                "name": "width",
-                "tag": "wdth"
-            },
-            {
                 "defaultValue": 0,
                 "label": "Morphing",
                 "maxValue": 100,
