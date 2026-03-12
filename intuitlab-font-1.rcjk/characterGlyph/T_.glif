@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="T" format="2">
-  <advance width="500"/>
+  <advance width="519.6142650568902"/>
   <unicode hex="0054"/>
   <outline>
   </outline>
@@ -31,7 +31,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <real>32.01313002964844</real>
+            <real>43.16040121808783</real>
             <key>y</key>
             <integer>99</integer>
           </dict>
@@ -49,19 +49,19 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <real>-89.99772838099678</real>
+            <real>89.99772838099678</real>
             <key>scalex</key>
             <integer>-1</integer>
             <key>scaley</key>
-            <integer>-1</integer>
+            <integer>1</integer>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>440</integer>
+            <real>451.1472711884394</real>
             <key>y</key>
-            <integer>517</integer>
+            <real>943.7465927518449</real>
           </dict>
         </dict>
         <dict>
@@ -85,9 +85,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>213</integer>
+            <integer>224</integer>
             <key>y</key>
-            <integer>608</integer>
+            <integer>606</integer>
           </dict>
         </dict>
       </array>
