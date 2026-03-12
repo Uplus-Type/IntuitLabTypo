@@ -80,7 +80,7 @@
           <key>coord</key>
           <dict>
             <key>Hauteur</key>
-            <real>40.3781038374718</real>
+            <integer>0</integer>
           </dict>
           <key>name</key>
           <string>tete2-d</string>
@@ -97,9 +97,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-50</integer>
+            <integer>-76</integer>
             <key>y</key>
-            <integer>522</integer>
+            <integer>412</integer>
           </dict>
         </dict>
         <dict>

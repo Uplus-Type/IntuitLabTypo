@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="P" format="2">
+  <advance width="500"/>
+  <unicode hex="0050"/>
+  <outline>
+    <contour>
+      <point x="132" y="785" type="move"/>
+    </contour>
+    <contour>
+      <point x="48" y="23" type="move"/>
+      <point x="43" y="576" type="line"/>
+      <point x="43" y="587"/>
+      <point x="46" y="776"/>
+      <point x="6" y="800" type="curve" smooth="yes"/>
+      <point x="6" y="800"/>
+      <point x="6" y="805"/>
+      <point x="6" y="805" type="curve"/>
+      <point x="154" y="805" type="line"/>
+      <point x="154" y="805"/>
+      <point x="132" y="789"/>
+      <point x="132" y="777" type="curve"/>
+      <point x="132" y="753" type="line"/>
+      <point x="132" y="842"/>
+      <point x="414" y="872"/>
+      <point x="461" y="694" type="curve"/>
+      <point x="479" y="636"/>
+      <point x="487" y="599"/>
+      <point x="486" y="547" type="curve"/>
+      <point x="489" y="470"/>
+      <point x="455" y="305"/>
+      <point x="345" y="305" type="curve" smooth="yes"/>
+      <point x="247" y="305"/>
+      <point x="216" y="305"/>
+      <point x="210" y="305" type="curve"/>
+      <point x="210" y="343" type="line"/>
+      <point x="305" y="343"/>
+      <point x="353" y="386"/>
+      <point x="381" y="463" type="curve" smooth="yes"/>
+      <point x="400" y="514"/>
+      <point x="392" y="575"/>
+      <point x="384" y="610" type="curve" smooth="yes"/>
+      <point x="347" y="783"/>
+      <point x="132" y="762"/>
+      <point x="132" y="568" type="curve"/>
+      <point x="138" y="36" type="line"/>
+      <point x="48" y="36" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict/>
+          <key>name</key>
+          <string>bas2</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>31</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+      </array>
+      <key>robocjk.locationBase</key>
+      <string>92610cbd</string>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
