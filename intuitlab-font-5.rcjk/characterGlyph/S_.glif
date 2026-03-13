@@ -72,6 +72,48 @@
   </outline>
   <lib>
     <dict>
+      <key>fontra.nonSourceLayerComponents</key>
+      <dict>
+        <key>92610cbd^S ALT</key>
+        <array>
+          <dict>
+            <key>location</key>
+            <dict>
+              <key>hauteur</key>
+              <integer>0</integer>
+            </dict>
+            <key>name</key>
+            <string>bas2</string>
+            <key>transformation</key>
+            <dict>
+              <key>scaleX</key>
+              <integer>-1</integer>
+              <key>scaleY</key>
+              <integer>-1</integer>
+              <key>translateX</key>
+              <integer>222</integer>
+              <key>translateY</key>
+              <integer>305</integer>
+            </dict>
+          </dict>
+          <dict>
+            <key>location</key>
+            <dict>
+              <key>hauteur</key>
+              <integer>0</integer>
+            </dict>
+            <key>name</key>
+            <string>bas2</string>
+            <key>transformation</key>
+            <dict>
+              <key>translateX</key>
+              <integer>312</integer>
+              <key>translateY</key>
+              <integer>514</integer>
+            </dict>
+          </dict>
+        </array>
+      </dict>
       <key>robocjk.deepComponents</key>
       <array>
         <dict>
