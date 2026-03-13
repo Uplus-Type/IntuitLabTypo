@@ -31,8 +31,11 @@
       <point x="482" y="66"/>
       <point x="482" y="42"/>
       <point x="482" y="12" type="curve"/>
-      <point x="361" y="12"/>
-      <point x="239" y="12"/>
+      <point x="423" y="12"/>
+      <point x="363" y="12"/>
+      <point x="304" y="12" type="curve" smooth="yes"/>
+      <point x="242" y="12"/>
+      <point x="180" y="12"/>
       <point x="118" y="12" type="curve"/>
       <point x="118" y="8"/>
       <point x="118" y="4"/>
@@ -59,7 +62,7 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string></string>
+          <string>MORPH</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
