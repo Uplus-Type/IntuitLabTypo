@@ -30,8 +30,8 @@
       <point x="326" y="30"/>
       <point x="344" y="175"/>
       <point x="344" y="380" type="curve"/>
-      <point x="344" y="458" type="line"/>
-      <point x="444" y="424"/>
+      <point x="344" y="544" type="line"/>
+      <point x="444" y="510"/>
       <point x="437" y="313"/>
     </contour>
   </outline>
@@ -39,32 +39,6 @@
     <dict>
       <key>robocjk.deepComponents</key>
       <array>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>weight</key>
-            <integer>400</integer>
-          </dict>
-          <key>name</key>
-          <string>barreG</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>223</integer>
-            <key>y</key>
-            <integer>-14</integer>
-          </dict>
-        </dict>
         <dict>
           <key>coord</key>
           <dict>
@@ -76,7 +50,7 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <integer>-90</integer>
+            <integer>0</integer>
             <key>scalex</key>
             <integer>1</integer>
             <key>scaley</key>
@@ -86,9 +60,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>40</integer>
+            <integer>-26</integer>
             <key>y</key>
-            <integer>895</integer>
+            <integer>397</integer>
           </dict>
         </dict>
       </array>
