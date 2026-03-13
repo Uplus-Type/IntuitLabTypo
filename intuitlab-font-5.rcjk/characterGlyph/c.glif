@@ -31,9 +31,67 @@
       <point x="302" y="78"/>
       <point x="316" y="157" type="curve"/>
     </contour>
+    <contour>
+      <point x="66" y="606" type="line"/>
+      <point x="156" y="606" type="line"/>
+      <point x="156" y="191" type="line"/>
+      <point x="66" y="191" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>Hauteur</key>
+            <integer>0</integer>
+          </dict>
+          <key>name</key>
+          <string>tete2-d</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>-1</integer>
+            <key>scaley</key>
+            <integer>-1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>474</integer>
+            <key>y</key>
+            <integer>388</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict/>
+          <key>name</key>
+          <string>tete2</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>66</integer>
+            <key>y</key>
+            <integer>606</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.locationBase</key>
       <string>92610cbd</string>
       <key>robocjk.status</key>
