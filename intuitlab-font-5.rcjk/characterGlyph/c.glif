@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c" format="2">
+  <advance width="500"/>
+  <unicode hex="0063"/>
+  <outline>
+    <contour>
+      <point x="398" y="78" type="line"/>
+      <point x="369" y="24"/>
+      <point x="323" y="-10"/>
+      <point x="250" y="-10" type="curve" smooth="yes"/>
+      <point x="80" y="-10"/>
+      <point x="55" y="173"/>
+      <point x="55" y="382" type="curve" smooth="yes"/>
+      <point x="55" y="605"/>
+      <point x="80" y="807"/>
+      <point x="250" y="807" type="curve" smooth="yes"/>
+      <point x="316" y="807"/>
+      <point x="360" y="777"/>
+      <point x="389" y="727" type="curve"/>
+      <point x="314" y="727" type="line"/>
+      <point x="299" y="753"/>
+      <point x="279" y="767"/>
+      <point x="250" y="767" type="curve" smooth="yes"/>
+      <point x="153" y="767"/>
+      <point x="150" y="605"/>
+      <point x="150" y="380" type="curve" smooth="yes"/>
+      <point x="150" y="175"/>
+      <point x="168" y="30"/>
+      <point x="250" y="30" type="curve" smooth="yes"/>
+      <point x="278" y="30"/>
+      <point x="299" y="47"/>
+      <point x="314" y="78" type="curve"/>
+    </contour>
+    <contour>
+      <point x="415" y="639" type="curve"/>
+      <point x="485" y="649"/>
+      <point x="451" y="516"/>
+      <point x="442" y="494" type="curve"/>
+      <point x="435" y="495" type="line"/>
+      <point x="435" y="536"/>
+      <point x="406" y="559"/>
+      <point x="376" y="557" type="curve"/>
+      <point x="71.26592120485543" y="485.80044887963913"/>
+      <point x="138.12910742709613" y="594.2120614955595"/>
+    </contour>
+    <contour>
+      <point x="329" y="559" type="move"/>
+    </contour>
+    <contour>
+      <point x="301" y="588" type="move"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.locationBase</key>
+      <string>92610cbd</string>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
