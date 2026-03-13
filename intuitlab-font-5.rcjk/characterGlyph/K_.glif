@@ -25,6 +25,12 @@
       <point x="275.5172424316406" y="431"/>
       <point x="343.8620910644531" y="364.1150207519531"/>
     </contour>
+    <contour>
+      <point x="395" y="752" type="line"/>
+      <point x="171" y="354" type="line"/>
+      <point x="101" y="412" type="line"/>
+      <point x="292" y="752" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
