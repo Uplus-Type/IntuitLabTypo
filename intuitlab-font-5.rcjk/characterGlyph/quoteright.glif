@@ -4,7 +4,7 @@
   <unicode hex="2019"/>
   <outline>
     <contour>
-      <point x="149" y="782" type="curve"/>
+      <point x="149" y="785" type="curve"/>
       <point x="146" y="788" type="line"/>
       <point x="120" y="789"/>
       <point x="100" y="796"/>
@@ -13,9 +13,9 @@
       <point x="83.51490955965441" y="761.1679974219007"/>
       <point x="72" y="681"/>
       <point x="16" y="672" type="curve"/>
-      <point x="16" y="643" type="line"/>
-      <point x="137" y="643"/>
-      <point x="82.37241976890948" y="722.7754842390307"/>
+      <point x="16" y="661" type="line"/>
+      <point x="123" y="661"/>
+      <point x="149" y="714"/>
     </contour>
   </outline>
   <lib>
