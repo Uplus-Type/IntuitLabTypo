@@ -63,8 +63,12 @@
     </contour>
     <contour>
       <point x="160" y="526" type="line"/>
-      <point x="462.3225512517852" y="651.492379764892"/>
-      <point x="160" y="429.6383907121968"/>
+      <point x="213" y="548"/>
+      <point x="302" y="532"/>
+      <point x="336" y="505" type="curve"/>
+      <point x="334" y="500" type="line"/>
+      <point x="223" y="521"/>
+      <point x="160" y="479"/>
       <point x="160" y="361" type="curve"/>
     </contour>
   </outline>
