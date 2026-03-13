@@ -50,7 +50,7 @@
     </contour>
     <contour>
       <point x="423" y="637" type="curve"/>
-      <point x="424" y="560" type="line"/>
+      <point x="422" y="602" type="line"/>
       <point x="334" y="560" type="line"/>
       <point x="334" y="696"/>
       <point x="315" y="767"/>
@@ -119,37 +119,11 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>hauteur</key>
+            <key>Hauteur</key>
             <integer>0</integer>
           </dict>
           <key>name</key>
-          <string>bas2</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>-1</integer>
-            <key>scaley</key>
-            <integer>-1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>222</integer>
-            <key>y</key>
-            <integer>305</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>hauteur</key>
-            <integer>0</integer>
-          </dict>
-          <key>name</key>
-          <string>bas2</string>
+          <string>barreH</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -163,9 +137,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>312</integer>
+            <integer>52</integer>
             <key>y</key>
-            <integer>514</integer>
+            <integer>99</integer>
           </dict>
         </dict>
       </array>
