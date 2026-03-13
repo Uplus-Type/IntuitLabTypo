@@ -25,21 +25,6 @@
   </outline>
   <lib>
     <dict>
-      <key>fontra.nonSourceLayerComponents</key>
-      <dict>
-        <key>92610cbd^TEST pied</key>
-        <array>
-          <dict>
-            <key>name</key>
-            <string>tete2</string>
-            <key>transformation</key>
-            <dict>
-              <key>translateY</key>
-              <integer>199</integer>
-            </dict>
-          </dict>
-        </array>
-      </dict>
       <key>robocjk.axes</key>
       <array>
         <dict>
