@@ -3,6 +3,26 @@
   <advance width="551.0803019132402"/>
   <unicode hex="004B"/>
   <outline>
+    <contour>
+      <point x="250" y="191" type="line"/>
+      <point x="238" y="285"/>
+      <point x="232" y="352"/>
+      <point x="146" y="352" type="curve" smooth="yes"/>
+      <point x="141" y="352"/>
+      <point x="137" y="352"/>
+      <point x="132" y="352" type="curve"/>
+      <point x="132" y="445" type="line"/>
+      <point x="143" y="435"/>
+      <point x="159" y="431"/>
+      <point x="181" y="431" type="curve" smooth="yes"/>
+      <point x="277" y="431"/>
+      <point x="346" y="362"/>
+      <point x="346" y="194" type="curve"/>
+    </contour>
+    <contour>
+      <point x="278" y="-746" type="line"/>
+      <point x="278" y="-700" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -84,32 +104,6 @@
             <integer>-107</integer>
             <key>y</key>
             <integer>179</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>hauteur</key>
-            <real>64.7233201581028</real>
-          </dict>
-          <key>name</key>
-          <string>bas2</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <real>32.57269735787552</real>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>419</integer>
-            <key>y</key>
-            <integer>1</integer>
           </dict>
         </dict>
       </array>
