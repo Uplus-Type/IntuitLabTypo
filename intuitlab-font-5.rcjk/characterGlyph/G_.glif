@@ -14,8 +14,12 @@
       <point x="49" y="605"/>
       <point x="74" y="807"/>
       <point x="244" y="807" type="curve" smooth="yes"/>
-      <point x="524.186373028262" y="807"/>
-      <point x="364.441894351934" y="767"/>
+      <point x="353" y="807"/>
+      <point x="424" y="722"/>
+      <point x="424" y="606" type="curve"/>
+      <point x="334" y="606" type="line"/>
+      <point x="334" y="698"/>
+      <point x="301" y="767"/>
       <point x="244" y="767" type="curve" smooth="yes"/>
       <point x="147" y="767"/>
       <point x="144" y="605"/>
@@ -72,7 +76,7 @@
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <integer>0</integer>
+            <integer>-90</integer>
             <key>scalex</key>
             <integer>1</integer>
             <key>scaley</key>
@@ -82,9 +86,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-26</integer>
+            <integer>40</integer>
             <key>y</key>
-            <integer>400</integer>
+            <integer>895</integer>
           </dict>
         </dict>
       </array>
