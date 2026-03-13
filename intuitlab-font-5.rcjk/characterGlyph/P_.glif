@@ -4,53 +4,43 @@
   <unicode hex="0050"/>
   <outline>
     <contour>
-      <point x="311" y="463" type="line"/>
-      <point x="311" y="345"/>
-      <point x="248" y="303"/>
-      <point x="137" y="324" type="curve"/>
-      <point x="135" y="319" type="line"/>
-      <point x="169" y="292"/>
-      <point x="261" y="275"/>
-      <point x="311" y="298" type="curve" smooth="yes"/>
-      <point x="374" y="326"/>
-      <point x="403" y="383"/>
-      <point x="401" y="463" type="curve"/>
-      <point x="401" y="603" type="line"/>
-      <point x="311" y="603" type="line"/>
+      <point x="252" y="463" type="line"/>
+      <point x="252" y="345"/>
+      <point x="189" y="303"/>
+      <point x="78" y="324" type="curve"/>
+      <point x="76" y="319" type="line"/>
+      <point x="110" y="292"/>
+      <point x="202" y="275"/>
+      <point x="252" y="298" type="curve" smooth="yes"/>
+      <point x="315" y="326"/>
+      <point x="344" y="383"/>
+      <point x="342" y="463" type="curve"/>
+      <point x="342" y="603" type="line"/>
+      <point x="252" y="603" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="38" y="0"/>
+      <point x="95" y="0"/>
+      <point x="133" y="0" type="curve"/>
+      <point x="133" y="0"/>
+      <point x="133" y="13"/>
+      <point x="133" y="13" type="curve" smooth="yes"/>
+      <point x="127" y="13"/>
+      <point x="112" y="19"/>
+      <point x="112" y="28" type="curve" smooth="yes"/>
+      <point x="112" y="604.8833992094859" type="line"/>
+      <point x="22" y="604.8833992094859" type="line"/>
+      <point x="22" y="28" type="line" smooth="yes"/>
+      <point x="22" y="18"/>
+      <point x="6" y="13"/>
+      <point x="0" y="13" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>robocjk.deepComponents</key>
       <array>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>Br</key>
-            <integer>0</integer>
-            <key>Hauteur</key>
-            <real>603.382195259594</real>
-          </dict>
-          <key>name</key>
-          <string>pied</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>72</integer>
-            <key>y</key>
-            <integer>0</integer>
-          </dict>
-        </dict>
         <dict>
           <key>coord</key>
           <dict>
@@ -72,7 +62,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>56</integer>
+            <integer>-3</integer>
             <key>y</key>
             <integer>10</integer>
           </dict>
