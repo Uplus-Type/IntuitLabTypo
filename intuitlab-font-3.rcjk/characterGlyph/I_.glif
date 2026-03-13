@@ -31,6 +31,29 @@
             <integer>0</integer>
           </dict>
         </dict>
+        <dict>
+          <key>coord</key>
+          <dict/>
+          <key>name</key>
+          <string>carre</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>-33</integer>
+            <key>y</key>
+            <integer>667</integer>
+          </dict>
+        </dict>
       </array>
       <key>robocjk.locationBase</key>
       <string>ff54fce8</string>
@@ -62,6 +85,29 @@
                 <real>-136.14133872496924</real>
                 <key>y</key>
                 <integer>-8</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict/>
+              <key>name</key>
+              <string>carre</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <real>-83.36535831587007</real>
+                <key>scalex</key>
+                <integer>-1</integer>
+                <key>scaley</key>
+                <integer>-1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>209</integer>
+                <key>y</key>
+                <integer>574</integer>
               </dict>
             </dict>
           </array>
