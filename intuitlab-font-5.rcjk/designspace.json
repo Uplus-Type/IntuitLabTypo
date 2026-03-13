@@ -7,9 +7,29 @@
                 "maxValue": 700,
                 "minValue": 400,
                 "name": "weight",
-                "tag": "wght"
+                "tag": "wght",
+                "valueLabels": [
+                    {
+                        "elidable": true,
+                        "name": "Regular",
+                        "value": 400
+                    },
+                    {
+                        "name": "Medium",
+                        "value": 600
+                    },
+                    {
+                        "name": "Bold",
+                        "value": 700
+                    }
+                ]
             }
         ]
+    },
+    "fontInfo": {
+        "familyName": "Montmrtre",
+        "versionMajor": 1,
+        "versionMinor": 0
     },
     "sources": {
         "92610cbd": {
