@@ -4,7 +4,7 @@
   <unicode hex="004E"/>
   <outline>
     <contour>
-      <point x="157" y="801" type="curve"/>
+      <point x="157" y="785" type="curve"/>
       <point x="164" y="796" type="line"/>
       <point x="154" y="777"/>
       <point x="158" y="722"/>
@@ -28,9 +28,9 @@
       <point x="69" y="702"/>
       <point x="72" y="780"/>
       <point x="64" y="798" type="curve"/>
-      <point x="71" y="802" type="line"/>
-      <point x="97" y="788"/>
-      <point x="128" y="789"/>
+      <point x="71" y="786" type="line"/>
+      <point x="97" y="772"/>
+      <point x="128" y="773"/>
     </contour>
   </outline>
   <lib>
@@ -58,7 +58,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>57</integer>
+            <integer>47</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
@@ -136,7 +136,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>327</integer>
+            <integer>317</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
