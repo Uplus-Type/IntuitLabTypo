@@ -61,9 +61,14 @@
       <point x="320" y="629"/>
     </contour>
     <contour>
-      <point x="179" y="517" type="curve"/>
-      <point x="310.0044120311206" y="573.1447480133374"/>
-      <point x="179" y="139.35310763223004"/>
+      <point x="179" y="526" type="line"/>
+      <point x="232" y="548"/>
+      <point x="321" y="532"/>
+      <point x="355" y="505" type="curve"/>
+      <point x="353" y="500" type="line"/>
+      <point x="242" y="521"/>
+      <point x="179" y="479"/>
+      <point x="179" y="361" type="curve"/>
     </contour>
   </outline>
   <lib>

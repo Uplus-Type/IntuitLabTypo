@@ -46,14 +46,14 @@
       <point x="310" y="629"/>
     </contour>
     <contour>
-      <point x="169" y="517" type="line"/>
-      <point x="190" y="526"/>
-      <point x="239" y="514"/>
-      <point x="260" y="496" type="curve"/>
-      <point x="258" y="491" type="line"/>
-      <point x="198" y="503"/>
-      <point x="169" y="460"/>
-      <point x="169" y="352" type="curve"/>
+      <point x="169" y="526" type="line"/>
+      <point x="222" y="548"/>
+      <point x="311" y="532"/>
+      <point x="345" y="505" type="curve"/>
+      <point x="343" y="500" type="line"/>
+      <point x="232" y="521"/>
+      <point x="169" y="479"/>
+      <point x="169" y="361" type="curve"/>
     </contour>
   </outline>
   <lib>
