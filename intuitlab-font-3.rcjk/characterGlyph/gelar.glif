@@ -8,12 +8,12 @@
       <point x="42" y="750"/>
       <point x="0" y="750" type="curve"/>
       <point x="0" y="723"/>
-      <point x="0" y="695"/>
-      <point x="0" y="668" type="curve"/>
-      <point x="16" y="668"/>
-      <point x="33" y="668"/>
-      <point x="49" y="668" type="curve"/>
-      <point x="49" y="473"/>
+      <point x="0" y="694"/>
+      <point x="0" y="667" type="curve"/>
+      <point x="16" y="667"/>
+      <point x="33" y="667"/>
+      <point x="49" y="667" type="curve"/>
+      <point x="49" y="472"/>
       <point x="49" y="279"/>
       <point x="49" y="84" type="curve"/>
       <point x="33" y="84"/>
