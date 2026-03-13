@@ -4,20 +4,31 @@
   <unicode hex="0043"/>
   <outline>
     <contour>
-      <point x="388" y="157" type="line"/>
-      <point x="388" y="84"/>
-      <point x="334" y="-10"/>
-      <point x="231" y="-10" type="curve" smooth="yes"/>
-      <point x="61" y="-10"/>
-      <point x="36" y="173"/>
+      <point x="223" y="-10" type="curve" smooth="yes"/>
+      <point x="62" y="-10"/>
+      <point x="36" y="162"/>
       <point x="36" y="382" type="curve" smooth="yes"/>
       <point x="36" y="605"/>
       <point x="61" y="807"/>
       <point x="231" y="807" type="curve" smooth="yes"/>
-      <point x="336" y="807"/>
-      <point x="392" y="732"/>
+      <point x="342.77953510942103" y="807"/>
+      <point x="390.0989811629255" y="724.114332932952"/>
+      <point x="391.992431640625" y="622.2490234375" type="curve"/>
+      <point x="391.9974670410156" y="621.5010375976562"/>
+      <point x="392" y="620.7513427734375"/>
       <point x="392" y="620" type="curve"/>
-      <point x="302" y="620" type="line"/>
+      <point x="391.9801940917969" y="620" type="line" smooth="yes"/>
+      <point x="351" y="620"/>
+      <point x="388.2679748535156" y="543.2679443359375"/>
+      <point x="373" y="528" type="curve" smooth="yes"/>
+      <point x="352" y="507"/>
+      <point x="322" y="493"/>
+      <point x="268" y="503" type="curve"/>
+      <point x="266" y="509" type="line"/>
+      <point x="295" y="517"/>
+      <point x="302" y="536"/>
+      <point x="302" y="578" type="curve" smooth="yes"/>
+      <point x="302" y="620" type="line" smooth="yes"/>
       <point x="302" y="711"/>
       <point x="271" y="767"/>
       <point x="231" y="767" type="curve" smooth="yes"/>
@@ -25,59 +36,24 @@
       <point x="131" y="605"/>
       <point x="131" y="380" type="curve" smooth="yes"/>
       <point x="131" y="175"/>
-      <point x="149" y="30"/>
-      <point x="231" y="30" type="curve" smooth="yes"/>
-      <point x="263" y="30"/>
-      <point x="298" y="91"/>
-      <point x="298" y="157" type="curve"/>
-    </contour>
-    <contour>
-      <point x="264" y="284" type="line"/>
-      <point x="318" y="294"/>
-      <point x="348" y="280"/>
-      <point x="369" y="259" type="curve" smooth="yes"/>
-      <point x="385" y="243"/>
-      <point x="388" y="205"/>
-      <point x="388" y="161" type="curve"/>
-      <point x="388" y="157" type="line"/>
-      <point x="298" y="157" type="line"/>
-      <point x="298" y="209" type="line"/>
-      <point x="298" y="251"/>
-      <point x="291" y="270"/>
+      <point x="151" y="30"/>
+      <point x="224" y="30" type="curve" smooth="yes"/>
+      <point x="268" y="30"/>
+      <point x="298" y="102"/>
+      <point x="298" y="157" type="curve" smooth="yes"/>
+      <point x="298" y="231"/>
+      <point x="295" y="269"/>
       <point x="262" y="278" type="curve"/>
+      <point x="264" y="284" type="line"/>
+      <point x="366" y="300"/>
+      <point x="388" y="249.11447143554688"/>
+      <point x="388" y="161" type="curve" smooth="yes"/>
+      <point x="388" y="84"/>
+      <point x="326" y="-10"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>robocjk.deepComponents</key>
-      <array>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>Hauteur</key>
-            <integer>0</integer>
-          </dict>
-          <key>name</key>
-          <string>barreH</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>21</integer>
-            <key>y</key>
-            <integer>101</integer>
-          </dict>
-        </dict>
-      </array>
       <key>robocjk.locationBase</key>
       <string>92610cbd</string>
       <key>robocjk.status</key>
