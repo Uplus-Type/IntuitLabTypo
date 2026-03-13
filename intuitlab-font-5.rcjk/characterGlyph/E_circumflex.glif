@@ -61,7 +61,13 @@
       <point x="303" y="677"/>
     </contour>
     <contour>
-      <point x="120" y="865" type="move"/>
+      <point x="107" y="856" type="line"/>
+      <point x="185" y="953" type="line"/>
+      <point x="230" y="953" type="line"/>
+      <point x="304" y="856" type="line"/>
+      <point x="252" y="856" type="line"/>
+      <point x="208" y="920" type="line"/>
+      <point x="167" y="856" type="line"/>
     </contour>
   </outline>
   <lib>
